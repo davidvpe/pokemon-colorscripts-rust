@@ -14,18 +14,21 @@ Sprites sourced from [pokemondb.net](https://pokemondb.net/sprites).
 ## Requirements
 
 - A terminal with true color support (most modern terminals)
-- Rust toolchain (for building from source)
 
 ## Installation
 
+**macOS / Linux**
 ```sh
-git clone https://github.com/your-username/pokemon-colorscripts-rust.git
-cd pokemon-colorscripts-rust
-sudo ./install.sh
+curl -fsSL https://raw.githubusercontent.com/davidvpe/pokemon-colorscripts-rust/main/install.sh | sudo bash
 ```
 
-The install script builds the release binary and copies it to `/usr/local/bin/pokemon-colorscripts`.
-All sprites are embedded in the binary — no extra files needed.
+**Windows** (PowerShell)
+```powershell
+irm https://raw.githubusercontent.com/davidvpe/pokemon-colorscripts-rust/main/install.ps1 | iex
+```
+
+Downloads the pre-built binary for your platform from the latest release.
+No build tools required — all sprites are embedded in the binary.
 
 ## Usage
 
