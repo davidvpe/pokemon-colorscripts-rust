@@ -1,0 +1,98 @@
+name: Release
+
+on:
+  # Triggered by release-please when a version PR is merged → versioned release
+  release:
+    types: [published]
+  # Also triggered on every push to main → updates the rolling "latest" pre-release
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    name: Build (${{ matrix.artifact }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            artifact: pokemon-colorscripts-linux-x86_64
+            binary: target/release/pokemon-colorscripts
+
+          - os: macos-latest          # Apple Silicon (arm64)
+            artifact: pokemon-colorscripts-macos-arm64
+            binary: target/release/pokemon-colorscripts
+
+          - os: macos-13              # Intel (x86_64)
+            artifact: pokemon-colorscripts-macos-x86_64
+            binary: target/release/pokemon-colorscripts
+
+          - os: windows-latest
+            artifact: pokemon-colorscripts-windows-x86_64.exe
+            binary: target/release/pokemon-colorscripts.exe
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: ${{ runner.os }}-cargo-release-${{ hashFiles('**/Cargo.toml') }}
+          restore-keys: ${{ runner.os }}-cargo-release-
+
+      - name: Build
+        run: cargo build --release --bin pokemon-colorscripts
+
+      - name: Stage artifact
+        shell: bash
+        run: cp ${{ matrix.binary }} ${{ matrix.artifact }}
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.artifact }}
+          path: ${{ matrix.artifact }}
+
+  publish:
+    name: Publish release
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          merge-multiple: true
+
+      # On a versioned release: attach binaries to the release release-please just created
+      - name: Attach binaries to versioned release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: pokemon-colorscripts-*
+
+      # On push to main: update the rolling "latest" pre-release
+      - name: Update latest pre-release
+        if: github.event_name == 'push'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest
+          prerelease: true
+          make_latest: false
+          body: |
+            Automated build from the latest commit on `main`.
+
+            | File | Platform |
+            |------|----------|
+            | `pokemon-colorscripts-linux-x86_64` | Linux x86_64 |
+            | `pokemon-colorscripts-macos-arm64` | macOS Apple Silicon |
+            | `pokemon-colorscripts-macos-x86_64` | macOS Intel |
+            | `pokemon-colorscripts-windows-x86_64.exe` | Windows x86_64 |
+          files: pokemon-colorscripts-*
