@@ -3,6 +3,9 @@ name: Update Pokemon Colorscripts
 on:
   schedule:
     - cron: '0 0 * * 0'  # Every Sunday at 00:00 UTC
+  push:
+    paths:
+      - 'src/bin/generator.rs'
   workflow_dispatch:
     inputs:
       force:
@@ -40,7 +43,7 @@ jobs:
         run: ./target/release/generator update-names
 
       - name: Generate colorscripts
-        run: ./target/release/generator ${{ inputs.force == 'true' && '--force' || '' }}
+        run: ./target/release/generator ${{ (github.event_name == 'push' || inputs.force == 'true') && '--force' || '' }}
 
       - name: Commit and push changes
         run: |
