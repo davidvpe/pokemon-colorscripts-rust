@@ -166,9 +166,6 @@ fn scrape(force: bool) -> Result<(), Box<dyn std::error::Error>> {
         ok, skipped, failed
     );
 
-    if failed > 0 {
-        std::process::exit(1);
-    }
     Ok(())
 }
 
