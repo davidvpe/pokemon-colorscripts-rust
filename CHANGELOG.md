@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.2.0...v0.3.0) (2026-03-26)
+
+
+### Features
+
+* Add installation scripts for Windows and update Linux/Mac script for better error handling ([453e45b](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/453e45b6429f7301cf5ae3db8c585390c58e6028))
+* Update installation instructions for Windows and enhance Linux/Mac script ([ea20bbd](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/ea20bbde569f4d48db328696bfe68ea1d6d61dea))
+
 ## [0.2.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.1.0...v0.2.0) (2026-03-26)
 
 
