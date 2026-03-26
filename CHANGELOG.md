@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.4.0...v0.5.0) (2026-03-26)
+
+
+### Features
+
+* Remove early exit on failed sprite scraping ([3fd9292](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/3fd929271b618c83c2eebcfd2a6d3201767c705d))
+
 ## [0.4.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.3.0...v0.4.0) (2026-03-26)
 
 
