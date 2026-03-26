@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.3.0...v0.4.0) (2026-03-26)
+
+
+### Features
+
+* Add support for additional shell configurations and resize sprites based on height ([fd68810](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/fd688102be73912e7c23da59b55b2f9b328e2c13))
+* Enhance colorscript generation logic to include push event handling ([9238b21](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/9238b21a24b3feaf8c58ed255054ad427439251d))
+
 ## [0.3.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.2.0...v0.3.0) (2026-03-26)
 
 
