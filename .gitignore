@@ -1,11 +1,13 @@
-# ignore virtual env
-mon
+# Rust build artifacts
+target/
 
-# ignore any bytecode files
+# Python artifacts (generator scripts)
 *.pyc
+__pycache__/
+mon/
 
-# ignore sprites folder
-images
+# Sprite images (intermediate files used by generator)
+images/
 
-# ignore testing files
+# Test files
 test_*

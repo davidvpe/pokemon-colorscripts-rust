@@ -1,0 +1,21 @@
+[package]
+name = "pokemon-colorscripts"
+version = "1.0.0"
+edition = "2021"
+description = "CLI utility to print out unicode image of a pokemon in your shell"
+
+[features]
+generator = ["dep:image", "dep:ureq"]
+
+[dependencies]
+image = { version = "0.25", optional = true }
+ureq = { version = "2", optional = true }
+
+[[bin]]
+name = "pokemon-colorscripts"
+path = "src/main.rs"
+
+[[bin]]
+name = "generator"
+path = "src/bin/generator.rs"
+required-features = ["generator"]
