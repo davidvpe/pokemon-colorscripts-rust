@@ -1,16 +1,30 @@
 name: Release
 
 on:
-  # Triggered by release-please when a version PR is merged → versioned release
-  release:
-    types: [published]
-  # Also triggered on every push to main → updates the rolling "latest" pre-release
   push:
     branches: [main]
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
+  # Creates/updates the release PR and tags versioned releases.
+  # Outputs release_created=true when a version PR was merged.
+  release-please:
+    runs-on: ubuntu-latest
+    outputs:
+      release_created: ${{ steps.release.outputs.release_created }}
+      tag_name: ${{ steps.release.outputs.tag_name }}
+    steps:
+      - uses: googleapis/release-please-action@v4
+        id: release
+        with:
+          release-type: rust
+
   build:
     name: Build (${{ matrix.artifact }})
+    needs: release-please
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
@@ -42,7 +56,7 @@ jobs:
           key: ${{ runner.os }}-cargo-release-${{ hashFiles('**/Cargo.toml') }}
           restore-keys: ${{ runner.os }}-cargo-release-
 
-      - name: Add macOS cross-compilation target
+      - name: Add macOS cross-compilation targets
         if: runner.os == 'macOS'
         run: rustup target add x86_64-apple-darwin aarch64-apple-darwin
 
@@ -70,27 +84,17 @@ jobs:
           path: ${{ matrix.artifact }}
 
   publish:
-    name: Publish release
-    needs: build
+    name: Publish
+    needs: [release-please, build]
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - uses: actions/download-artifact@v4.3.0
         with:
           merge-multiple: true
 
-      # On a versioned release: attach binaries to the release release-please just created
-      - name: Attach binaries to versioned release
-        if: github.event_name == 'release'
-        uses: softprops/action-gh-release@v2
-        with:
-          files: pokemon-colorscripts-*
-
-      # On push to main: update the rolling "latest" pre-release
+      # Always update the rolling "latest" pre-release
       - name: Update latest pre-release
-        if: github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
@@ -105,4 +109,12 @@ jobs:
             | `pokemon-colorscripts-linux-x86_64` | Linux x86_64 |
             | `pokemon-colorscripts-macos-universal` | macOS (Apple Silicon + Intel) |
             | `pokemon-colorscripts-windows-x86_64.exe` | Windows x86_64 |
+          files: pokemon-colorscripts-*
+
+      # On a versioned release: also attach binaries to it
+      - name: Attach binaries to versioned release
+        if: needs.release-please.outputs.release_created == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ needs.release-please.outputs.tag_name }}
           files: pokemon-colorscripts-*
