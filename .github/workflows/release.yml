@@ -60,6 +60,7 @@ jobs:
             target/x86_64-apple-darwin/release/pokemon-colorscripts
 
       - name: Stage artifact
+        if: runner.os != 'macOS'
         shell: bash
         run: cp ${{ matrix.binary }} ${{ matrix.artifact }}
 
