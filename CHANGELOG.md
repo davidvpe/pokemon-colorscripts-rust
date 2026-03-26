@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.1.0...v0.2.0) (2026-03-26)
+
+
+### Features
+
+* Enhance release workflow to support versioned releases and update latest pre-release ([f344abc](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/f344abc8e6e991de5670bbb050f498444527c0c8))
+
 ## 0.1.0 (2026-03-26)
 
 
