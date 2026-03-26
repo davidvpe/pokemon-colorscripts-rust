@@ -16,23 +16,28 @@ fn main() {
         .filter(|l| !l.is_empty())
         .collect();
 
-    // get_pokemon_art — match over all pokemon
+    // Only embed Pokemon that have a colorscript file — skip missing ones silently.
+    let available: Vec<(String, std::path::PathBuf)> = names
+        .iter()
+        .filter_map(|name| {
+            let path = Path::new("colorscripts").join(format!("{}.txt", name));
+            path.canonicalize().ok().map(|p| (name.clone(), p))
+        })
+        .collect();
+
+    // get_pokemon_art — match over available pokemon
     writeln!(f, "fn get_pokemon_art(name: &str) -> Option<&'static str> {{").unwrap();
     writeln!(f, "    match name {{").unwrap();
-    for name in &names {
-        let path = Path::new("colorscripts")
-            .join(format!("{}.txt", name))
-            .canonicalize()
-            .unwrap_or_else(|_| panic!("colorscript not found for: {}", name));
+    for (name, path) in &available {
         writeln!(f, "        {:?} => Some(include_str!({:?})),", name, path).unwrap();
     }
     writeln!(f, "        _ => None,").unwrap();
     writeln!(f, "    }}").unwrap();
     writeln!(f, "}}").unwrap();
 
-    // ALL_POKEMON in Pokedex order (required for generation range filtering)
+    // ALL_POKEMON in Pokedex order — only those with colorscripts
     writeln!(f, "static ALL_POKEMON: &[&str] = &[").unwrap();
-    for name in &names {
+    for (name, _) in &available {
         writeln!(f, "    {:?},", name).unwrap();
     }
     writeln!(f, "];").unwrap();
