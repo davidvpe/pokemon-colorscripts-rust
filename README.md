@@ -66,11 +66,26 @@ pokemon-colorscripts --list | grep mime
 
 ### Run on terminal startup
 
-Add to your `~/.zshrc` or `~/.bashrc`:
-
+**bash** — add to `~/.bashrc`:
 ```sh
 pokemon-colorscripts --random
 ```
+
+**zsh** — add to `~/.zshrc`:
+```sh
+pokemon-colorscripts --random
+```
+
+**fish** — add to `~/.config/fish/config.fish`:
+```fish
+pokemon-colorscripts --random
+```
+
+**PowerShell** — add to your profile (`$PROFILE`):
+```powershell
+pokemon-colorscripts --random
+```
+> Run `New-Item -Force $PROFILE` first if the file doesn't exist yet.
 
 ## How it works
 

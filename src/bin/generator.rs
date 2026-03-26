@@ -23,6 +23,9 @@ const OUTPUT_DIR: &str = "colorscripts";
 /// Uniform transparent padding added on every side after cropping.
 /// 1 pixel = 1 terminal line vertically, 2 chars horizontally (pixels are doubled).
 const PADDING: u32 = 1;
+/// Sprites taller than this (in pixels) are scaled down by 1.5x, matching the
+/// Python make_art.py behaviour.
+const HEIGHT_THRESHOLD: u32 = 32;
 /// Milliseconds between requests — be polite to servers.
 const REQUEST_DELAY_MS: u64 = 150;
 
@@ -173,6 +176,7 @@ fn process_pokemon(name: &str) -> Result<String, Box<dyn std::error::Error>> {
     let img = download_sprite(name)?;
     let img = img.to_rgba8();
     let img = crop_to_content(img);
+    let img = resize_if_too_large(img);
     let img = add_padding(img, PADDING);
     Ok(image_to_ansi_art(img))
 }
@@ -230,6 +234,20 @@ fn crop_to_content(img: RgbaImage) -> RgbaImage {
     }
 
     imageops::crop_imm(&img, min_x, min_y, max_x - min_x + 1, max_y - min_y + 1).to_image()
+}
+
+/// Scales the image down by 1.5x if its height exceeds HEIGHT_THRESHOLD,
+/// matching the Python make_art.py behaviour. Uses nearest-neighbour filtering
+/// (anti_aliasing=False equivalent).
+fn resize_if_too_large(img: RgbaImage) -> RgbaImage {
+    let (w, h) = (img.width(), img.height());
+    if h > HEIGHT_THRESHOLD {
+        let new_w = (w as f32 / 1.5).round() as u32;
+        let new_h = (h as f32 / 1.5).round() as u32;
+        imageops::resize(&img, new_w, new_h, imageops::FilterType::Nearest)
+    } else {
+        img
+    }
 }
 
 /// Adds `pad` pixels of fully-transparent space on every side of the image.
