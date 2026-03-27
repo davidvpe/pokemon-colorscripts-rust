@@ -1,0 +1,9 @@
+#383
+Groudon
+Ground
+HP:100
+Atk:150
+Def:140
+SpA:100
+SpD:90
+Spe:90

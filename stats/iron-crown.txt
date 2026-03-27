@@ -1,0 +1,9 @@
+#1023
+Iron Crown
+Steel/Psychic
+HP:90
+Atk:72
+Def:100
+SpA:122
+SpD:108
+Spe:98

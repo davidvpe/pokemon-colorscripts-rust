@@ -1,0 +1,9 @@
+#015
+Beedrill
+Bug/Poison
+HP:65
+Atk:90
+Def:40
+SpA:45
+SpD:80
+Spe:75

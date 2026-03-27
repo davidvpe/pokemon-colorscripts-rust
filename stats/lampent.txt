@@ -1,0 +1,9 @@
+#608
+Lampent
+Ghost/Fire
+HP:60
+Atk:40
+Def:60
+SpA:95
+SpD:60
+Spe:55

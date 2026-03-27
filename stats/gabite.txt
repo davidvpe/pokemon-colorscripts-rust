@@ -1,0 +1,9 @@
+#444
+Gabite
+Dragon/Ground
+HP:68
+Atk:90
+Def:65
+SpA:50
+SpD:55
+Spe:82

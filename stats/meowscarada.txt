@@ -1,0 +1,9 @@
+#908
+Meowscarada
+Grass/Dark
+HP:76
+Atk:110
+Def:70
+SpA:81
+SpD:70
+Spe:123

@@ -1,0 +1,9 @@
+#873
+Frosmoth
+Ice/Bug
+HP:70
+Atk:65
+Def:60
+SpA:125
+SpD:90
+Spe:65

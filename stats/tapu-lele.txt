@@ -1,0 +1,9 @@
+#786
+Tapu Lele
+Psychic/Fairy
+HP:70
+Atk:85
+Def:75
+SpA:130
+SpD:115
+Spe:95

@@ -1,0 +1,9 @@
+#305
+Lairon
+Steel/Rock
+HP:60
+Atk:90
+Def:140
+SpA:50
+SpD:50
+Spe:40

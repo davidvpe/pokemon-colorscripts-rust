@@ -1,0 +1,9 @@
+#260
+Swampert
+Water/Ground
+HP:100
+Atk:110
+Def:90
+SpA:85
+SpD:90
+Spe:60

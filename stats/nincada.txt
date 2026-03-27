@@ -1,0 +1,9 @@
+#290
+Nincada
+Bug/Ground
+HP:31
+Atk:45
+Def:90
+SpA:30
+SpD:30
+Spe:40

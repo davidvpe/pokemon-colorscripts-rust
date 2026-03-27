@@ -1,0 +1,9 @@
+#476
+Probopass
+Rock/Steel
+HP:60
+Atk:55
+Def:145
+SpA:75
+SpD:150
+Spe:40

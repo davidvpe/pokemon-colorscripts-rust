@@ -1,0 +1,9 @@
+#326
+Grumpig
+Psychic
+HP:80
+Atk:45
+Def:65
+SpA:90
+SpD:110
+Spe:80

@@ -1,0 +1,9 @@
+#965
+Varoom
+Steel/Poison
+HP:45
+Atk:70
+Def:63
+SpA:30
+SpD:45
+Spe:47

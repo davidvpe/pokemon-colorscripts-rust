@@ -1,0 +1,9 @@
+#404
+Luxio
+Electric
+HP:60
+Atk:85
+Def:49
+SpA:60
+SpD:49
+Spe:60

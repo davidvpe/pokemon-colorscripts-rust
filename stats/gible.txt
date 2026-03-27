@@ -1,0 +1,9 @@
+#443
+Gible
+Dragon/Ground
+HP:58
+Atk:70
+Def:45
+SpA:40
+SpD:45
+Spe:42

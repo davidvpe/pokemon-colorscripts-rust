@@ -1,0 +1,9 @@
+#910
+Crocalor
+Fire
+HP:81
+Atk:55
+Def:78
+SpA:90
+SpD:58
+Spe:49

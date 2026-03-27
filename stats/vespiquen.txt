@@ -1,0 +1,9 @@
+#416
+Vespiquen
+Bug/Flying
+HP:70
+Atk:80
+Def:102
+SpA:80
+SpD:102
+Spe:40

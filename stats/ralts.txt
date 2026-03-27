@@ -1,0 +1,9 @@
+#280
+Ralts
+Psychic/Fairy
+HP:28
+Atk:25
+Def:25
+SpA:45
+SpD:35
+Spe:40

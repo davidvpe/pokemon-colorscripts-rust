@@ -1,0 +1,9 @@
+#631
+Heatmor
+Fire
+HP:85
+Atk:97
+Def:66
+SpA:105
+SpD:66
+Spe:65

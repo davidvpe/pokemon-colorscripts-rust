@@ -1,0 +1,9 @@
+#292
+Shedinja
+Bug/Ghost
+HP:1
+Atk:90
+Def:45
+SpA:30
+SpD:30
+Spe:40

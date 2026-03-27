@@ -1,0 +1,9 @@
+#384
+Rayquaza
+Dragon/Flying
+HP:105
+Atk:150
+Def:90
+SpA:150
+SpD:90
+Spe:95

@@ -1,0 +1,9 @@
+#032
+Nidoran♂ (male)
+Poison
+HP:46
+Atk:57
+Def:40
+SpA:40
+SpD:40
+Spe:50

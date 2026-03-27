@@ -1,0 +1,9 @@
+#769
+Sandygast
+Ghost/Ground
+HP:55
+Atk:55
+Def:80
+SpA:70
+SpD:45
+Spe:15

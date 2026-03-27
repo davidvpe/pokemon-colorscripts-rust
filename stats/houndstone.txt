@@ -1,0 +1,9 @@
+#972
+Houndstone
+Ghost
+HP:72
+Atk:101
+Def:100
+SpA:50
+SpD:97
+Spe:68

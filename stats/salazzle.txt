@@ -1,0 +1,9 @@
+#758
+Salazzle
+Poison/Fire
+HP:68
+Atk:64
+Def:60
+SpA:111
+SpD:60
+Spe:117

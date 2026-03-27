@@ -1,0 +1,9 @@
+#640
+Virizion
+Grass/Fighting
+HP:91
+Atk:90
+Def:72
+SpA:90
+SpD:129
+Spe:108

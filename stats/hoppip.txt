@@ -1,0 +1,9 @@
+#187
+Hoppip
+Grass/Flying
+HP:35
+Atk:35
+Def:40
+SpA:35
+SpD:55
+Spe:50

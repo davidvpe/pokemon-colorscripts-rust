@@ -1,0 +1,9 @@
+#984
+Great Tusk
+Ground/Fighting
+HP:115
+Atk:131
+Def:131
+SpA:53
+SpD:53
+Spe:87

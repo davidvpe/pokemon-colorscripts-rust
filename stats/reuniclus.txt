@@ -1,0 +1,9 @@
+#579
+Reuniclus
+Psychic
+HP:110
+Atk:65
+Def:75
+SpA:125
+SpD:85
+Spe:30

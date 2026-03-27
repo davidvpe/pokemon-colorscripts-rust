@@ -1,0 +1,9 @@
+#888
+Zacian
+Fairy
+HP:92
+Atk:120
+Def:115
+SpA:80
+SpD:115
+Spe:138

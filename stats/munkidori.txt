@@ -1,0 +1,9 @@
+#1015
+Munkidori
+Poison/Psychic
+HP:88
+Atk:75
+Def:66
+SpA:130
+SpD:90
+Spe:106

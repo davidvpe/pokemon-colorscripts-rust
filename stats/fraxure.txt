@@ -1,0 +1,9 @@
+#611
+Fraxure
+Dragon
+HP:66
+Atk:117
+Def:70
+SpA:40
+SpD:50
+Spe:67

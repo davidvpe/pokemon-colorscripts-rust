@@ -1,0 +1,9 @@
+#774
+Minior
+Rock/Flying
+HP:60
+Atk:60
+Def:100
+SpA:60
+SpD:100
+Spe:60

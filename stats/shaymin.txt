@@ -1,0 +1,9 @@
+#492
+Shaymin
+Grass
+HP:100
+Atk:100
+Def:100
+SpA:100
+SpD:100
+Spe:100

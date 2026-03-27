@@ -1,0 +1,9 @@
+#267
+Beautifly
+Bug/Flying
+HP:60
+Atk:70
+Def:50
+SpA:100
+SpD:50
+Spe:65

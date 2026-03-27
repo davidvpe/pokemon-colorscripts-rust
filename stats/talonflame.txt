@@ -1,0 +1,9 @@
+#663
+Talonflame
+Fire/Flying
+HP:78
+Atk:81
+Def:71
+SpA:74
+SpD:69
+Spe:126

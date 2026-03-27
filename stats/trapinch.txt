@@ -1,0 +1,9 @@
+#328
+Trapinch
+Ground
+HP:45
+Atk:100
+Def:45
+SpA:45
+SpD:45
+Spe:10

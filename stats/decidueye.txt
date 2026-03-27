@@ -1,0 +1,9 @@
+#724
+Decidueye
+Grass/Ghost
+HP:78
+Atk:107
+Def:75
+SpA:100
+SpD:100
+Spe:70

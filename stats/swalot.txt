@@ -1,0 +1,9 @@
+#317
+Swalot
+Poison
+HP:100
+Atk:73
+Def:83
+SpA:73
+SpD:83
+Spe:55

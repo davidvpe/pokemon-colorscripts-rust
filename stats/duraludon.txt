@@ -1,0 +1,9 @@
+#884
+Duraludon
+Steel/Dragon
+HP:70
+Atk:95
+Def:115
+SpA:120
+SpD:50
+Spe:85

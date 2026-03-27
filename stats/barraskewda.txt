@@ -1,0 +1,9 @@
+#847
+Barraskewda
+Water
+HP:61
+Atk:123
+Def:60
+SpA:60
+SpD:50
+Spe:136

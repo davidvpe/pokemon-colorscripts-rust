@@ -1,0 +1,9 @@
+#782
+Jangmo-o
+Dragon
+HP:45
+Atk:55
+Def:65
+SpA:45
+SpD:45
+Spe:45

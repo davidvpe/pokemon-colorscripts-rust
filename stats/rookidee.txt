@@ -1,0 +1,9 @@
+#821
+Rookidee
+Flying
+HP:38
+Atk:47
+Def:35
+SpA:33
+SpD:35
+Spe:57

@@ -1,0 +1,9 @@
+#626
+Bouffalant
+Normal
+HP:95
+Atk:110
+Def:95
+SpA:40
+SpD:95
+Spe:55

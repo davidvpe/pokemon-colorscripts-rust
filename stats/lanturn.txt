@@ -1,0 +1,9 @@
+#171
+Lanturn
+Water/Electric
+HP:125
+Atk:58
+Def:58
+SpA:76
+SpD:76
+Spe:67

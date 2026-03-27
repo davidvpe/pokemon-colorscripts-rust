@@ -1,0 +1,9 @@
+#615
+Cryogonal
+Ice
+HP:80
+Atk:50
+Def:50
+SpA:95
+SpD:135
+Spe:105

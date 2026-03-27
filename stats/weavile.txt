@@ -1,0 +1,9 @@
+#461
+Weavile
+Dark/Ice
+HP:70
+Atk:120
+Def:65
+SpA:45
+SpD:85
+Spe:125

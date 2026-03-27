@@ -1,0 +1,9 @@
+#288
+Vigoroth
+Normal
+HP:80
+Atk:80
+Def:80
+SpA:55
+SpD:55
+Spe:90

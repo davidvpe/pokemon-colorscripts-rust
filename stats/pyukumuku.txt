@@ -1,0 +1,9 @@
+#771
+Pyukumuku
+Water
+HP:55
+Atk:60
+Def:130
+SpA:30
+SpD:130
+Spe:5

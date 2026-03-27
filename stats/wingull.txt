@@ -1,0 +1,9 @@
+#278
+Wingull
+Water/Flying
+HP:40
+Atk:30
+Def:30
+SpA:55
+SpD:30
+Spe:85

@@ -1,0 +1,9 @@
+#040
+Wigglytuff
+Normal/Fairy
+HP:140
+Atk:70
+Def:45
+SpA:85
+SpD:50
+Spe:45

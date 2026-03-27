@@ -1,0 +1,9 @@
+#265
+Wurmple
+Bug
+HP:45
+Atk:45
+Def:35
+SpA:20
+SpD:30
+Spe:20

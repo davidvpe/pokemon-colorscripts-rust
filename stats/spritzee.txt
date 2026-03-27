@@ -1,0 +1,9 @@
+#682
+Spritzee
+Fairy
+HP:78
+Atk:52
+Def:60
+SpA:63
+SpD:65
+Spe:23

@@ -1,0 +1,9 @@
+#591
+Amoonguss
+Grass/Poison
+HP:114
+Atk:85
+Def:70
+SpA:85
+SpD:80
+Spe:30

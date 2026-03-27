@@ -1,0 +1,9 @@
+#827
+Nickit
+Dark
+HP:40
+Atk:28
+Def:28
+SpA:47
+SpD:52
+Spe:50

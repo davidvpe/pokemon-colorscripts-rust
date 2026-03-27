@@ -1,0 +1,9 @@
+#577
+Solosis
+Psychic
+HP:45
+Atk:30
+Def:40
+SpA:105
+SpD:50
+Spe:20

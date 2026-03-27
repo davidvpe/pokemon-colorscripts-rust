@@ -1,0 +1,9 @@
+#1004
+Chi-Yu
+Dark/Fire
+HP:55
+Atk:80
+Def:80
+SpA:135
+SpD:120
+Spe:100

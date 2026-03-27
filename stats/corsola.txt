@@ -1,0 +1,9 @@
+#222
+Corsola
+Water/Rock
+HP:65
+Atk:55
+Def:95
+SpA:65
+SpD:95
+Spe:35

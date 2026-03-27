@@ -1,0 +1,9 @@
+#880
+Dracozolt
+Electric/Dragon
+HP:90
+Atk:100
+Def:90
+SpA:80
+SpD:70
+Spe:75

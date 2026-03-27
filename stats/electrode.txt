@@ -1,0 +1,9 @@
+#101
+Electrode
+Electric
+HP:60
+Atk:50
+Def:70
+SpA:80
+SpD:80
+Spe:150

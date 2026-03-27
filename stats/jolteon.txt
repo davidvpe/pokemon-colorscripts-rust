@@ -1,0 +1,9 @@
+#135
+Jolteon
+Electric
+HP:65
+Atk:65
+Def:60
+SpA:110
+SpD:95
+Spe:130

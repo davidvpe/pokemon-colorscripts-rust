@@ -1,0 +1,9 @@
+#562
+Yamask
+Ghost
+HP:38
+Atk:30
+Def:85
+SpA:55
+SpD:65
+Spe:30

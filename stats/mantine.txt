@@ -1,0 +1,9 @@
+#226
+Mantine
+Water/Flying
+HP:85
+Atk:40
+Def:70
+SpA:80
+SpD:140
+Spe:70

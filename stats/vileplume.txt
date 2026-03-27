@@ -1,0 +1,9 @@
+#045
+Vileplume
+Grass/Poison
+HP:75
+Atk:80
+Def:85
+SpA:110
+SpD:90
+Spe:50

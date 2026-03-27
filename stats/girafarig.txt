@@ -1,0 +1,9 @@
+#203
+Girafarig
+Normal/Psychic
+HP:70
+Atk:80
+Def:65
+SpA:90
+SpD:65
+Spe:85

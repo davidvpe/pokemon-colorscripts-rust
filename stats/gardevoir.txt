@@ -1,0 +1,9 @@
+#282
+Gardevoir
+Psychic/Fairy
+HP:68
+Atk:65
+Def:65
+SpA:125
+SpD:115
+Spe:80

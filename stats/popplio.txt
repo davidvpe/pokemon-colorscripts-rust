@@ -1,0 +1,9 @@
+#728
+Popplio
+Water
+HP:50
+Atk:54
+Def:54
+SpA:66
+SpD:56
+Spe:40

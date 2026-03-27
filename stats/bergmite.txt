@@ -1,0 +1,9 @@
+#712
+Bergmite
+Ice
+HP:55
+Atk:69
+Def:85
+SpA:32
+SpD:35
+Spe:28

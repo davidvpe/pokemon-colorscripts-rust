@@ -1,0 +1,9 @@
+#587
+Emolga
+Electric/Flying
+HP:55
+Atk:75
+Def:60
+SpA:75
+SpD:60
+Spe:103

@@ -1,0 +1,9 @@
+#1020
+Gouging Fire
+Fire/Dragon
+HP:105
+Atk:115
+Def:121
+SpA:65
+SpD:93
+Spe:91

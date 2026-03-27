@@ -1,0 +1,9 @@
+#349
+Feebas
+Water
+HP:20
+Atk:15
+Def:20
+SpA:10
+SpD:55
+Spe:80

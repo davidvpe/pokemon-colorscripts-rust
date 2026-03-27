@@ -1,0 +1,9 @@
+#933
+Naclstack
+Rock
+HP:60
+Atk:60
+Def:100
+SpA:35
+SpD:65
+Spe:35

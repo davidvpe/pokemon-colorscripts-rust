@@ -1,0 +1,9 @@
+#811
+Thwackey
+Grass
+HP:70
+Atk:85
+Def:70
+SpA:55
+SpD:60
+Spe:80

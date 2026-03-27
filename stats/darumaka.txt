@@ -1,0 +1,9 @@
+#554
+Darumaka
+Fire
+HP:70
+Atk:90
+Def:45
+SpA:15
+SpD:45
+Spe:50

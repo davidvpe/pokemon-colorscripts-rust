@@ -1,0 +1,9 @@
+#1025
+Pecharunt
+Poison/Ghost
+HP:88
+Atk:88
+Def:160
+SpA:88
+SpD:88
+Spe:88

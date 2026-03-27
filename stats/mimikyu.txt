@@ -1,0 +1,9 @@
+#778
+Mimikyu
+Ghost/Fairy
+HP:55
+Atk:90
+Def:80
+SpA:50
+SpD:105
+Spe:96

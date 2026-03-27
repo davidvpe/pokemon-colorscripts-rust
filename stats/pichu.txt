@@ -1,0 +1,9 @@
+#172
+Pichu
+Electric
+HP:20
+Atk:40
+Def:15
+SpA:35
+SpD:35
+Spe:60

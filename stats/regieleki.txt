@@ -1,0 +1,9 @@
+#894
+Regieleki
+Electric
+HP:80
+Atk:100
+Def:50
+SpA:100
+SpD:50
+Spe:200

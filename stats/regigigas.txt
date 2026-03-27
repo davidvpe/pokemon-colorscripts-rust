@@ -1,0 +1,9 @@
+#486
+Regigigas
+Normal
+HP:110
+Atk:160
+Def:110
+SpA:80
+SpD:110
+Spe:100

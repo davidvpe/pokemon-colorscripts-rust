@@ -1,0 +1,9 @@
+#901
+Ursaluna
+Ground/Normal
+HP:130
+Atk:140
+Def:105
+SpA:45
+SpD:80
+Spe:50

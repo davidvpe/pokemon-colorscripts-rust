@@ -1,0 +1,9 @@
+#574
+Gothita
+Psychic
+HP:45
+Atk:30
+Def:50
+SpA:55
+SpD:65
+Spe:45

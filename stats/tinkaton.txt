@@ -1,0 +1,9 @@
+#959
+Tinkaton
+Fairy/Steel
+HP:85
+Atk:75
+Def:77
+SpA:70
+SpD:105
+Spe:94

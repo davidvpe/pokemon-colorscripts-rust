@@ -1,0 +1,9 @@
+#388
+Grotle
+Grass
+HP:75
+Atk:89
+Def:85
+SpA:55
+SpD:65
+Spe:36

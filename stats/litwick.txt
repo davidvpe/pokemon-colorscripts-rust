@@ -1,0 +1,9 @@
+#607
+Litwick
+Ghost/Fire
+HP:50
+Atk:30
+Def:55
+SpA:65
+SpD:55
+Spe:20

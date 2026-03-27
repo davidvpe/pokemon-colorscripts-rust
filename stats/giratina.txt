@@ -1,0 +1,9 @@
+#487
+Giratina
+Ghost/Dragon
+HP:150
+Atk:100
+Def:120
+SpA:100
+SpD:120
+Spe:90

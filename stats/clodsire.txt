@@ -1,0 +1,9 @@
+#980
+Clodsire
+Poison/Ground
+HP:130
+Atk:75
+Def:60
+SpA:45
+SpD:100
+Spe:20

@@ -1,0 +1,9 @@
+#471
+Glaceon
+Ice
+HP:65
+Atk:60
+Def:110
+SpA:130
+SpD:95
+Spe:65

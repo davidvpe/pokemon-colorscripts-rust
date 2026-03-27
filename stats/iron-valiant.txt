@@ -1,0 +1,9 @@
+#1006
+Iron Valiant
+Fairy/Fighting
+HP:74
+Atk:130
+Def:90
+SpA:120
+SpD:60
+Spe:116

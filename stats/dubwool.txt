@@ -1,0 +1,9 @@
+#832
+Dubwool
+Normal
+HP:72
+Atk:80
+Def:100
+SpA:60
+SpD:90
+Spe:88

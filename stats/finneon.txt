@@ -1,0 +1,9 @@
+#456
+Finneon
+Water
+HP:49
+Atk:49
+Def:56
+SpA:49
+SpD:61
+Spe:66

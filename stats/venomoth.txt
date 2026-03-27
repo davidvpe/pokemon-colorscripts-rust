@@ -1,0 +1,9 @@
+#049
+Venomoth
+Bug/Poison
+HP:70
+Atk:65
+Def:60
+SpA:90
+SpD:75
+Spe:90

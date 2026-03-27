@@ -1,0 +1,9 @@
+#674
+Pancham
+Fighting
+HP:67
+Atk:82
+Def:62
+SpA:46
+SpD:48
+Spe:43

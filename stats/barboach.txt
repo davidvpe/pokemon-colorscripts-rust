@@ -1,0 +1,9 @@
+#339
+Barboach
+Water/Ground
+HP:50
+Atk:48
+Def:43
+SpA:46
+SpD:41
+Spe:60

@@ -1,0 +1,9 @@
+#504
+Patrat
+Normal
+HP:45
+Atk:55
+Def:39
+SpA:35
+SpD:39
+Spe:42

@@ -1,0 +1,9 @@
+#297
+Hariyama
+Fighting
+HP:144
+Atk:120
+Def:60
+SpA:40
+SpD:60
+Spe:50

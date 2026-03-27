@@ -1,0 +1,9 @@
+#213
+Shuckle
+Bug/Rock
+HP:20
+Atk:10
+Def:230
+SpA:10
+SpD:230
+Spe:5

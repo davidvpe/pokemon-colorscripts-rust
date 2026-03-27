@@ -1,0 +1,9 @@
+#883
+Arctovish
+Water/Ice
+HP:90
+Atk:90
+Def:100
+SpA:80
+SpD:90
+Spe:55

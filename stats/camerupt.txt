@@ -1,0 +1,9 @@
+#323
+Camerupt
+Fire/Ground
+HP:70
+Atk:100
+Def:70
+SpA:105
+SpD:75
+Spe:40

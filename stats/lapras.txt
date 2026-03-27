@@ -1,0 +1,9 @@
+#131
+Lapras
+Water/Ice
+HP:130
+Atk:85
+Def:80
+SpA:85
+SpD:95
+Spe:60

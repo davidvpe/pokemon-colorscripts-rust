@@ -1,0 +1,9 @@
+#802
+Marshadow
+Fighting/Ghost
+HP:90
+Atk:125
+Def:80
+SpA:90
+SpD:90
+Spe:125

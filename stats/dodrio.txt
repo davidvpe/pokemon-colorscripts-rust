@@ -1,0 +1,9 @@
+#085
+Dodrio
+Normal/Flying
+HP:60
+Atk:110
+Def:70
+SpA:60
+SpD:60
+Spe:110

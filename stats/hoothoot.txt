@@ -1,0 +1,9 @@
+#163
+Hoothoot
+Normal/Flying
+HP:60
+Atk:30
+Def:30
+SpA:36
+SpD:56
+Spe:50

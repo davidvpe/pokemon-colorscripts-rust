@@ -1,0 +1,9 @@
+#506
+Lillipup
+Normal
+HP:45
+Atk:60
+Def:45
+SpA:25
+SpD:45
+Spe:55

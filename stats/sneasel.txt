@@ -1,0 +1,9 @@
+#215
+Sneasel
+Dark/Ice
+HP:55
+Atk:95
+Def:55
+SpA:35
+SpD:75
+Spe:115

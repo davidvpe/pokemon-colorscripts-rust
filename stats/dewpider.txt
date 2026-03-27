@@ -1,0 +1,9 @@
+#751
+Dewpider
+Water/Bug
+HP:38
+Atk:40
+Def:52
+SpA:40
+SpD:72
+Spe:27

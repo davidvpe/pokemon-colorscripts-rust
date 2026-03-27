@@ -1,0 +1,9 @@
+#662
+Fletchinder
+Fire/Flying
+HP:62
+Atk:73
+Def:55
+SpA:56
+SpD:52
+Spe:84

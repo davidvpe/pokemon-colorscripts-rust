@@ -1,0 +1,9 @@
+#324
+Torkoal
+Fire
+HP:70
+Atk:85
+Def:140
+SpA:85
+SpD:70
+Spe:20

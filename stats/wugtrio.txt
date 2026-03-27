@@ -1,0 +1,9 @@
+#961
+Wugtrio
+Water
+HP:35
+Atk:100
+Def:50
+SpA:50
+SpD:70
+Spe:120

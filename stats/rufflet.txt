@@ -1,0 +1,9 @@
+#627
+Rufflet
+Normal/Flying
+HP:70
+Atk:83
+Def:50
+SpA:37
+SpD:50
+Spe:60

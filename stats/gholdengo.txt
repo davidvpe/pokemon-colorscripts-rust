@@ -1,0 +1,9 @@
+#1000
+Gholdengo
+Steel/Ghost
+HP:87
+Atk:60
+Def:95
+SpA:133
+SpD:91
+Spe:84

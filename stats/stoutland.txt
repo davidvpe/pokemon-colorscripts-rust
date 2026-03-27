@@ -1,0 +1,9 @@
+#508
+Stoutland
+Normal
+HP:85
+Atk:110
+Def:90
+SpA:45
+SpD:90
+Spe:80

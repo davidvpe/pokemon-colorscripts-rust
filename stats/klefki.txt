@@ -1,0 +1,9 @@
+#707
+Klefki
+Steel/Fairy
+HP:57
+Atk:80
+Def:91
+SpA:80
+SpD:87
+Spe:75

@@ -1,0 +1,9 @@
+#355
+Duskull
+Ghost
+HP:20
+Atk:40
+Def:90
+SpA:30
+SpD:90
+Spe:25

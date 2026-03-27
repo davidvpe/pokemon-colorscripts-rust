@@ -1,0 +1,9 @@
+#792
+Lunala
+Psychic/Ghost
+HP:137
+Atk:113
+Def:89
+SpA:137
+SpD:107
+Spe:97

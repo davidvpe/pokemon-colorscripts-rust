@@ -1,0 +1,9 @@
+#096
+Drowzee
+Psychic
+HP:60
+Atk:48
+Def:45
+SpA:43
+SpD:90
+Spe:42

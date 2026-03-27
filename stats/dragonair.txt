@@ -1,0 +1,9 @@
+#148
+Dragonair
+Dragon
+HP:61
+Atk:84
+Def:65
+SpA:70
+SpD:70
+Spe:70

@@ -1,0 +1,9 @@
+#059
+Arcanine
+Fire
+HP:90
+Atk:110
+Def:80
+SpA:100
+SpD:80
+Spe:95

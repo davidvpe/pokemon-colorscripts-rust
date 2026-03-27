@@ -1,0 +1,9 @@
+#776
+Turtonator
+Fire/Dragon
+HP:60
+Atk:78
+Def:135
+SpA:91
+SpD:85
+Spe:36

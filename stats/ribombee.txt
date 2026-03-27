@@ -1,0 +1,9 @@
+#743
+Ribombee
+Bug/Fairy
+HP:60
+Atk:55
+Def:60
+SpA:95
+SpD:70
+Spe:124

@@ -1,0 +1,9 @@
+#877
+Morpeko
+Electric/Dark
+HP:58
+Atk:95
+Def:58
+SpA:70
+SpD:58
+Spe:97

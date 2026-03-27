@@ -1,0 +1,9 @@
+#851
+Centiskorch
+Fire/Bug
+HP:100
+Atk:115
+Def:65
+SpA:90
+SpD:90
+Spe:65

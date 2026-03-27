@@ -1,0 +1,9 @@
+#853
+Grapploct
+Fighting
+HP:80
+Atk:118
+Def:90
+SpA:70
+SpD:80
+Spe:42

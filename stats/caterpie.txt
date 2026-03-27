@@ -1,0 +1,9 @@
+#010
+Caterpie
+Bug
+HP:45
+Atk:30
+Def:35
+SpA:20
+SpD:20
+Spe:45

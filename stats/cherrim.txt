@@ -1,0 +1,9 @@
+#421
+Cherrim
+Grass
+HP:70
+Atk:60
+Def:70
+SpA:87
+SpD:78
+Spe:85

@@ -1,0 +1,9 @@
+#419
+Floatzel
+Water
+HP:85
+Atk:105
+Def:55
+SpA:85
+SpD:50
+Spe:115

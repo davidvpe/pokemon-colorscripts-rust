@@ -1,0 +1,9 @@
+#173
+Cleffa
+Fairy
+HP:50
+Atk:25
+Def:28
+SpA:45
+SpD:55
+Spe:15

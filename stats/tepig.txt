@@ -1,0 +1,9 @@
+#498
+Tepig
+Fire
+HP:65
+Atk:63
+Def:45
+SpA:45
+SpD:45
+Spe:45

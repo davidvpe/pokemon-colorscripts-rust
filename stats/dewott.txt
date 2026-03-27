@@ -1,0 +1,9 @@
+#502
+Dewott
+Water
+HP:75
+Atk:75
+Def:60
+SpA:83
+SpD:60
+Spe:60

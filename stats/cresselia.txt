@@ -1,0 +1,9 @@
+#488
+Cresselia
+Psychic
+HP:120
+Atk:70
+Def:110
+SpA:75
+SpD:120
+Spe:85

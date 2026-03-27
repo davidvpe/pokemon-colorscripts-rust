@@ -1,0 +1,9 @@
+#695
+Heliolisk
+Electric/Normal
+HP:62
+Atk:55
+Def:52
+SpA:109
+SpD:94
+Spe:109

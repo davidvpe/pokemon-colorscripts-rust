@@ -1,0 +1,9 @@
+#002
+Ivysaur
+Grass/Poison
+HP:60
+Atk:62
+Def:63
+SpA:80
+SpD:80
+Spe:60

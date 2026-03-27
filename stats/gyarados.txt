@@ -1,0 +1,9 @@
+#130
+Gyarados
+Water/Flying
+HP:95
+Atk:125
+Def:79
+SpA:60
+SpD:100
+Spe:81

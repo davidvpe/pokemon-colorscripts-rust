@@ -1,0 +1,9 @@
+#429
+Mismagius
+Ghost
+HP:60
+Atk:60
+Def:60
+SpA:105
+SpD:105
+Spe:105

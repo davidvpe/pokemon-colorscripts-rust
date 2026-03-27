@@ -1,0 +1,9 @@
+#862
+Obstagoon
+Dark/Normal
+HP:93
+Atk:90
+Def:101
+SpA:60
+SpD:81
+Spe:95

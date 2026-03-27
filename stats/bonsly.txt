@@ -1,0 +1,9 @@
+#438
+Bonsly
+Rock
+HP:50
+Atk:80
+Def:95
+SpA:10
+SpD:45
+Spe:10

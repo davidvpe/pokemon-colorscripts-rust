@@ -1,0 +1,9 @@
+#370
+Luvdisc
+Water
+HP:43
+Atk:30
+Def:55
+SpA:40
+SpD:65
+Spe:97

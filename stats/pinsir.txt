@@ -1,0 +1,9 @@
+#127
+Pinsir
+Bug
+HP:65
+Atk:125
+Def:100
+SpA:55
+SpD:70
+Spe:85

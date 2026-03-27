@@ -1,0 +1,9 @@
+#195
+Quagsire
+Water/Ground
+HP:95
+Atk:85
+Def:85
+SpA:65
+SpD:65
+Spe:35

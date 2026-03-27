@@ -1,0 +1,9 @@
+#694
+Helioptile
+Electric/Normal
+HP:44
+Atk:38
+Def:33
+SpA:61
+SpD:43
+Spe:70

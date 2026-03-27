@@ -1,0 +1,9 @@
+#791
+Solgaleo
+Psychic/Steel
+HP:137
+Atk:137
+Def:107
+SpA:113
+SpD:89
+Spe:97

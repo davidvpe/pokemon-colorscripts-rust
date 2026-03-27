@@ -1,0 +1,9 @@
+#713
+Avalugg
+Ice
+HP:95
+Atk:117
+Def:184
+SpA:44
+SpD:46
+Spe:28

@@ -1,0 +1,9 @@
+#543
+Venipede
+Bug/Poison
+HP:30
+Atk:45
+Def:59
+SpA:30
+SpD:39
+Spe:57

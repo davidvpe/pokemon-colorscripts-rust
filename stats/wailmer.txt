@@ -1,0 +1,9 @@
+#320
+Wailmer
+Water
+HP:130
+Atk:70
+Def:35
+SpA:70
+SpD:35
+Spe:60

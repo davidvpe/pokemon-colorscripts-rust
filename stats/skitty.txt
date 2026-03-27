@@ -1,0 +1,9 @@
+#300
+Skitty
+Normal
+HP:50
+Atk:45
+Def:45
+SpA:35
+SpD:35
+Spe:50

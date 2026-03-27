@@ -1,0 +1,9 @@
+#279
+Pelipper
+Water/Flying
+HP:60
+Atk:50
+Def:100
+SpA:95
+SpD:70
+Spe:65

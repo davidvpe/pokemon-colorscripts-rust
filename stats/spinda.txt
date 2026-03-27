@@ -1,0 +1,9 @@
+#327
+Spinda
+Normal
+HP:60
+Atk:60
+Def:60
+SpA:60
+SpD:60
+Spe:60

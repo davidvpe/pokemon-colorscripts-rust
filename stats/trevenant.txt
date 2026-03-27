@@ -1,0 +1,9 @@
+#709
+Trevenant
+Ghost/Grass
+HP:85
+Atk:110
+Def:76
+SpA:65
+SpD:82
+Spe:56

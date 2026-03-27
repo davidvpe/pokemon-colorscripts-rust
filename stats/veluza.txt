@@ -1,0 +1,9 @@
+#976
+Veluza
+Water/Psychic
+HP:90
+Atk:102
+Def:73
+SpA:78
+SpD:65
+Spe:70

@@ -1,0 +1,9 @@
+#186
+Politoed
+Water
+HP:90
+Atk:75
+Def:75
+SpA:90
+SpD:100
+Spe:70

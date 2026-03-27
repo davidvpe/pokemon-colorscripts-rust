@@ -1,0 +1,9 @@
+#030
+Nidorina
+Poison
+HP:70
+Atk:62
+Def:67
+SpA:55
+SpD:55
+Spe:56

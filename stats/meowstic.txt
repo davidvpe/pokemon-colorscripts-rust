@@ -1,0 +1,9 @@
+#678
+Meowstic
+Psychic
+HP:74
+Atk:48
+Def:76
+SpA:83
+SpD:81
+Spe:104

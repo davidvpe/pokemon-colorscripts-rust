@@ -1,0 +1,9 @@
+#876
+Indeedee
+Psychic/Normal
+HP:60
+Atk:65
+Def:55
+SpA:105
+SpD:95
+Spe:95

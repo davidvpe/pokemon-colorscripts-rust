@@ -1,0 +1,9 @@
+#212
+Scizor
+Bug/Steel
+HP:70
+Atk:130
+Def:100
+SpA:55
+SpD:80
+Spe:65

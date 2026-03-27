@@ -1,0 +1,9 @@
+#568
+Trubbish
+Poison
+HP:50
+Atk:50
+Def:62
+SpA:40
+SpD:62
+Spe:65

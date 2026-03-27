@@ -1,0 +1,9 @@
+#463
+Lickilicky
+Normal
+HP:110
+Atk:85
+Def:95
+SpA:80
+SpD:95
+Spe:50

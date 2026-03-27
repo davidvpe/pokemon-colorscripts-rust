@@ -1,0 +1,9 @@
+#144
+Articuno
+Ice/Flying
+HP:90
+Atk:85
+Def:100
+SpA:95
+SpD:125
+Spe:85

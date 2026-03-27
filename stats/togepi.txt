@@ -1,0 +1,9 @@
+#175
+Togepi
+Fairy
+HP:35
+Atk:20
+Def:65
+SpA:40
+SpD:65
+Spe:20

@@ -1,0 +1,9 @@
+#590
+Foongus
+Grass/Poison
+HP:69
+Atk:55
+Def:45
+SpA:55
+SpD:55
+Spe:15

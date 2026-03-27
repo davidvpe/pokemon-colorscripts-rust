@@ -1,0 +1,9 @@
+#745
+Lycanroc
+Rock
+HP:75
+Atk:115
+Def:65
+SpA:55
+SpD:65
+Spe:112

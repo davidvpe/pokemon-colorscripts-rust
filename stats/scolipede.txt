@@ -1,0 +1,9 @@
+#545
+Scolipede
+Bug/Poison
+HP:60
+Atk:100
+Def:89
+SpA:55
+SpD:69
+Spe:112

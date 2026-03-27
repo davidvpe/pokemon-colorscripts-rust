@@ -1,0 +1,9 @@
+#635
+Hydreigon
+Dark/Dragon
+HP:92
+Atk:105
+Def:90
+SpA:125
+SpD:90
+Spe:98

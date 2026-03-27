@@ -1,0 +1,9 @@
+#807
+Zeraora
+Electric
+HP:88
+Atk:112
+Def:75
+SpA:102
+SpD:80
+Spe:143

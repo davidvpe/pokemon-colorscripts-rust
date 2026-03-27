@@ -1,0 +1,9 @@
+#196
+Espeon
+Psychic
+HP:65
+Atk:65
+Def:60
+SpA:130
+SpD:95
+Spe:110

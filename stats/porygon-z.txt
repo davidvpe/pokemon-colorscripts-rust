@@ -1,0 +1,9 @@
+#474
+Porygon-Z
+Normal
+HP:85
+Atk:80
+Def:70
+SpA:135
+SpD:75
+Spe:90

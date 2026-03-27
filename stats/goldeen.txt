@@ -1,0 +1,9 @@
+#118
+Goldeen
+Water
+HP:45
+Atk:67
+Def:60
+SpA:35
+SpD:50
+Spe:63

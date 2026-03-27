@@ -1,0 +1,9 @@
+#936
+Armarouge
+Fire/Psychic
+HP:85
+Atk:60
+Def:100
+SpA:125
+SpD:80
+Spe:75

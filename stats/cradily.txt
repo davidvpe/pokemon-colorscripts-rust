@@ -1,0 +1,9 @@
+#346
+Cradily
+Rock/Grass
+HP:86
+Atk:81
+Def:97
+SpA:81
+SpD:107
+Spe:43

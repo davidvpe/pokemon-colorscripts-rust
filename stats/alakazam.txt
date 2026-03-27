@@ -1,0 +1,9 @@
+#065
+Alakazam
+Psychic
+HP:55
+Atk:50
+Def:45
+SpA:135
+SpD:95
+Spe:120

@@ -1,0 +1,9 @@
+#367
+Huntail
+Water
+HP:55
+Atk:104
+Def:105
+SpA:94
+SpD:75
+Spe:52

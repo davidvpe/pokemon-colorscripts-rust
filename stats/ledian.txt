@@ -1,0 +1,9 @@
+#166
+Ledian
+Bug/Flying
+HP:55
+Atk:35
+Def:50
+SpA:55
+SpD:110
+Spe:85

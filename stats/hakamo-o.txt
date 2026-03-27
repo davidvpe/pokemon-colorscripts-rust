@@ -1,0 +1,9 @@
+#783
+Hakamo-o
+Dragon/Fighting
+HP:55
+Atk:75
+Def:90
+SpA:65
+SpD:70
+Spe:65

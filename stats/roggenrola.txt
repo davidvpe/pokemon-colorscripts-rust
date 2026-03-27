@@ -1,0 +1,9 @@
+#524
+Roggenrola
+Rock
+HP:55
+Atk:75
+Def:85
+SpA:25
+SpD:25
+Spe:15

@@ -1,0 +1,9 @@
+#848
+Toxel
+Electric/Poison
+HP:40
+Atk:38
+Def:35
+SpA:54
+SpD:35
+Spe:40

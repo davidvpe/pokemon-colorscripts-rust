@@ -1,0 +1,9 @@
+#938
+Tadbulb
+Electric
+HP:61
+Atk:31
+Def:41
+SpA:59
+SpD:35
+Spe:45

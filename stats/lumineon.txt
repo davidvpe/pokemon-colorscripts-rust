@@ -1,0 +1,9 @@
+#457
+Lumineon
+Water
+HP:69
+Atk:69
+Def:76
+SpA:69
+SpD:86
+Spe:91

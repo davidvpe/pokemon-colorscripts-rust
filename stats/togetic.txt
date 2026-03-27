@@ -1,0 +1,9 @@
+#176
+Togetic
+Fairy/Flying
+HP:55
+Atk:40
+Def:85
+SpA:80
+SpD:105
+Spe:40

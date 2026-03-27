@@ -1,0 +1,9 @@
+#097
+Hypno
+Psychic
+HP:85
+Atk:73
+Def:70
+SpA:73
+SpD:115
+Spe:67

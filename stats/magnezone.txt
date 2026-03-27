@@ -1,0 +1,9 @@
+#462
+Magnezone
+Electric/Steel
+HP:70
+Atk:70
+Def:115
+SpA:130
+SpD:90
+Spe:60

@@ -1,0 +1,9 @@
+#051
+Dugtrio
+Ground
+HP:35
+Atk:100
+Def:50
+SpA:50
+SpD:70
+Spe:120

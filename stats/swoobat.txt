@@ -1,0 +1,9 @@
+#528
+Swoobat
+Psychic/Flying
+HP:67
+Atk:57
+Def:55
+SpA:77
+SpD:55
+Spe:114

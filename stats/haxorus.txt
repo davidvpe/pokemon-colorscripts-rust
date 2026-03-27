@@ -1,0 +1,9 @@
+#612
+Haxorus
+Dragon
+HP:76
+Atk:147
+Def:90
+SpA:60
+SpD:70
+Spe:97

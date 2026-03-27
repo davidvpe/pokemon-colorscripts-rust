@@ -1,0 +1,9 @@
+#053
+Persian
+Normal
+HP:65
+Atk:70
+Def:60
+SpA:65
+SpD:65
+Spe:115

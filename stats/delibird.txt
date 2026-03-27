@@ -1,0 +1,9 @@
+#225
+Delibird
+Ice/Flying
+HP:45
+Atk:55
+Def:45
+SpA:65
+SpD:45
+Spe:75

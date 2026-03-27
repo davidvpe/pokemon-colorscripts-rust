@@ -1,0 +1,9 @@
+#614
+Beartic
+Ice
+HP:95
+Atk:130
+Def:80
+SpA:70
+SpD:80
+Spe:50

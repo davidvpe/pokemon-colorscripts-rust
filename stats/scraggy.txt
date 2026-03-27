@@ -1,0 +1,9 @@
+#559
+Scraggy
+Dark/Fighting
+HP:50
+Atk:75
+Def:70
+SpA:35
+SpD:70
+Spe:48

@@ -1,0 +1,9 @@
+#293
+Whismur
+Normal
+HP:64
+Atk:51
+Def:23
+SpA:51
+SpD:23
+Spe:28

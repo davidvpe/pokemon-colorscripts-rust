@@ -1,0 +1,9 @@
+#338
+Solrock
+Rock/Psychic
+HP:90
+Atk:95
+Def:85
+SpA:55
+SpD:65
+Spe:70

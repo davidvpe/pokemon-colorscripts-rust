@@ -1,0 +1,9 @@
+#759
+Stufful
+Normal/Fighting
+HP:70
+Atk:75
+Def:50
+SpA:45
+SpD:50
+Spe:50

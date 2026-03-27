@@ -1,0 +1,9 @@
+#668
+Pyroar
+Fire/Normal
+HP:86
+Atk:68
+Def:72
+SpA:109
+SpD:66
+Spe:106

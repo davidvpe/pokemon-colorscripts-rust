@@ -1,0 +1,9 @@
+#184
+Azumarill
+Water/Fairy
+HP:100
+Atk:50
+Def:80
+SpA:60
+SpD:80
+Spe:50

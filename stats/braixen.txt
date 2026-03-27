@@ -1,0 +1,9 @@
+#654
+Braixen
+Fire
+HP:59
+Atk:59
+Def:58
+SpA:90
+SpD:70
+Spe:73

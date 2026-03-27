@@ -1,0 +1,9 @@
+#019
+Rattata
+Normal
+HP:30
+Atk:56
+Def:35
+SpA:25
+SpD:35
+Spe:72

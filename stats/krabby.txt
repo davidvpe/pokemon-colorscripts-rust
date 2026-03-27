@@ -1,0 +1,9 @@
+#098
+Krabby
+Water
+HP:30
+Atk:105
+Def:90
+SpA:25
+SpD:25
+Spe:50

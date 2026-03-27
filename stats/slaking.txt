@@ -1,0 +1,9 @@
+#289
+Slaking
+Normal
+HP:150
+Atk:160
+Def:100
+SpA:95
+SpD:65
+Spe:100

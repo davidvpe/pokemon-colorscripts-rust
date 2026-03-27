@@ -1,0 +1,9 @@
+#396
+Starly
+Normal/Flying
+HP:40
+Atk:55
+Def:30
+SpA:30
+SpD:30
+Spe:60

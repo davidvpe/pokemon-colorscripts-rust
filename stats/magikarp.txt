@@ -1,0 +1,9 @@
+#129
+Magikarp
+Water
+HP:20
+Atk:10
+Def:55
+SpA:15
+SpD:20
+Spe:80

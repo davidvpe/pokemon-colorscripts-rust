@@ -1,0 +1,9 @@
+#651
+Quilladin
+Grass
+HP:61
+Atk:78
+Def:95
+SpA:56
+SpD:58
+Spe:57

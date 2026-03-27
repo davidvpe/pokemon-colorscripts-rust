@@ -1,0 +1,9 @@
+#239
+Elekid
+Electric
+HP:45
+Atk:63
+Def:37
+SpA:65
+SpD:55
+Spe:95

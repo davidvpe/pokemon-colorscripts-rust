@@ -1,0 +1,9 @@
+#033
+Nidorino
+Poison
+HP:61
+Atk:72
+Def:57
+SpA:55
+SpD:55
+Spe:65

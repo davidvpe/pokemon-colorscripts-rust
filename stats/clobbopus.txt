@@ -1,0 +1,9 @@
+#852
+Clobbopus
+Fighting
+HP:50
+Atk:68
+Def:60
+SpA:50
+SpD:50
+Spe:32

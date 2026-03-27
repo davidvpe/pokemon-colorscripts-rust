@@ -1,0 +1,9 @@
+#115
+Kangaskhan
+Normal
+HP:105
+Atk:95
+Def:80
+SpA:40
+SpD:80
+Spe:90

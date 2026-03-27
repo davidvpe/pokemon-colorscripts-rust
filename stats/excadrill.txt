@@ -1,0 +1,9 @@
+#530
+Excadrill
+Ground/Steel
+HP:110
+Atk:135
+Def:60
+SpA:50
+SpD:65
+Spe:88

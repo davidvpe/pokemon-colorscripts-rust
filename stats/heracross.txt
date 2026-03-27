@@ -1,0 +1,9 @@
+#214
+Heracross
+Bug/Fighting
+HP:80
+Atk:125
+Def:75
+SpA:40
+SpD:95
+Spe:85

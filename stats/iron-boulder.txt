@@ -1,0 +1,9 @@
+#1022
+Iron Boulder
+Rock/Psychic
+HP:90
+Atk:120
+Def:80
+SpA:68
+SpD:108
+Spe:124

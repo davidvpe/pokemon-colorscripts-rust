@@ -1,0 +1,9 @@
+#891
+Kubfu
+Fighting
+HP:60
+Atk:90
+Def:60
+SpA:53
+SpD:50
+Spe:72

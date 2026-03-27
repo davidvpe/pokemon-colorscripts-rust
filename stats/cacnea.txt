@@ -1,0 +1,9 @@
+#331
+Cacnea
+Grass
+HP:50
+Atk:85
+Def:40
+SpA:85
+SpD:40
+Spe:35

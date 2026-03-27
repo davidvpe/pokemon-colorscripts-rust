@@ -1,0 +1,9 @@
+#589
+Escavalier
+Bug/Steel
+HP:70
+Atk:135
+Def:105
+SpA:60
+SpD:105
+Spe:20

@@ -1,0 +1,9 @@
+#667
+Litleo
+Fire/Normal
+HP:62
+Atk:50
+Def:58
+SpA:73
+SpD:54
+Spe:72

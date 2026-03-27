@@ -1,0 +1,9 @@
+#636
+Larvesta
+Bug/Fire
+HP:55
+Atk:85
+Def:55
+SpA:50
+SpD:55
+Spe:60

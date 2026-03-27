@@ -1,0 +1,9 @@
+#708
+Phantump
+Ghost/Grass
+HP:43
+Atk:70
+Def:48
+SpA:50
+SpD:60
+Spe:38

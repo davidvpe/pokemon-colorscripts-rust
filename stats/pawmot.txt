@@ -1,0 +1,9 @@
+#923
+Pawmot
+Electric/Fighting
+HP:70
+Atk:115
+Def:70
+SpA:70
+SpD:60
+Spe:105

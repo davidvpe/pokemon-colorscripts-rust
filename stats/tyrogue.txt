@@ -1,0 +1,9 @@
+#236
+Tyrogue
+Fighting
+HP:35
+Atk:35
+Def:35
+SpA:35
+SpD:35
+Spe:35

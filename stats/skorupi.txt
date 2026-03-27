@@ -1,0 +1,9 @@
+#451
+Skorupi
+Poison/Bug
+HP:40
+Atk:50
+Def:90
+SpA:30
+SpD:55
+Spe:65

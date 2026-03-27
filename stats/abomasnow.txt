@@ -1,0 +1,9 @@
+#460
+Abomasnow
+Grass/Ice
+HP:90
+Atk:92
+Def:75
+SpA:92
+SpD:85
+Spe:60

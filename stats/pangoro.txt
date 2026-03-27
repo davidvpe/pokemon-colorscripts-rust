@@ -1,0 +1,9 @@
+#675
+Pangoro
+Fighting/Dark
+HP:95
+Atk:124
+Def:78
+SpA:69
+SpD:71
+Spe:58

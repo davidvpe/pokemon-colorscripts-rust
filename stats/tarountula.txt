@@ -1,0 +1,9 @@
+#917
+Tarountula
+Bug
+HP:35
+Atk:41
+Def:45
+SpA:29
+SpD:40
+Spe:20

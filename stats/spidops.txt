@@ -1,0 +1,9 @@
+#918
+Spidops
+Bug
+HP:60
+Atk:79
+Def:92
+SpA:52
+SpD:86
+Spe:35

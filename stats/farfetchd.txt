@@ -1,0 +1,9 @@
+#083
+Farfetch'd
+Normal/Flying
+HP:52
+Atk:90
+Def:55
+SpA:58
+SpD:62
+Spe:60

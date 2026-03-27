@@ -1,0 +1,9 @@
+#601
+Klinklang
+Steel
+HP:60
+Atk:100
+Def:115
+SpA:70
+SpD:85
+Spe:90

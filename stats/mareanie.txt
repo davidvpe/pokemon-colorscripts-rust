@@ -1,0 +1,9 @@
+#747
+Mareanie
+Poison/Water
+HP:50
+Atk:53
+Def:62
+SpA:43
+SpD:52
+Spe:45

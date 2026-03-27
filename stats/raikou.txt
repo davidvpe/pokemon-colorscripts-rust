@@ -1,0 +1,9 @@
+#243
+Raikou
+Electric
+HP:90
+Atk:85
+Def:75
+SpA:115
+SpD:100
+Spe:115

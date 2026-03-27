@@ -1,0 +1,9 @@
+#200
+Misdreavus
+Ghost
+HP:60
+Atk:60
+Def:60
+SpA:85
+SpD:85
+Spe:85

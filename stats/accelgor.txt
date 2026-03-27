@@ -1,0 +1,9 @@
+#617
+Accelgor
+Bug
+HP:80
+Atk:70
+Def:40
+SpA:100
+SpD:60
+Spe:145

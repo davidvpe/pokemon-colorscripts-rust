@@ -1,0 +1,9 @@
+#939
+Bellibolt
+Electric
+HP:109
+Atk:64
+Def:91
+SpA:103
+SpD:83
+Spe:45

@@ -1,0 +1,9 @@
+#886
+Drakloak
+Dragon/Ghost
+HP:68
+Atk:80
+Def:50
+SpA:60
+SpD:50
+Spe:102

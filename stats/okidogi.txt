@@ -1,0 +1,9 @@
+#1014
+Okidogi
+Poison/Fighting
+HP:88
+Atk:128
+Def:115
+SpA:58
+SpD:86
+Spe:80

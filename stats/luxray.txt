@@ -1,0 +1,9 @@
+#405
+Luxray
+Electric
+HP:80
+Atk:120
+Def:79
+SpA:95
+SpD:79
+Spe:70

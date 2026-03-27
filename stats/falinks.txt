@@ -1,0 +1,9 @@
+#870
+Falinks
+Fighting
+HP:65
+Atk:100
+Def:100
+SpA:70
+SpD:60
+Spe:75

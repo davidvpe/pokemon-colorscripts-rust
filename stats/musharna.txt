@@ -1,0 +1,9 @@
+#518
+Musharna
+Psychic
+HP:116
+Atk:55
+Def:85
+SpA:107
+SpD:95
+Spe:29

@@ -1,0 +1,9 @@
+#439
+Mime Jr.
+Psychic/Fairy
+HP:20
+Atk:25
+Def:45
+SpA:70
+SpD:90
+Spe:60

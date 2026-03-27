@@ -1,0 +1,9 @@
+#230
+Kingdra
+Water/Dragon
+HP:75
+Atk:95
+Def:95
+SpA:95
+SpD:95
+Spe:85

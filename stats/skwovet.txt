@@ -1,0 +1,9 @@
+#819
+Skwovet
+Normal
+HP:70
+Atk:55
+Def:55
+SpA:35
+SpD:35
+Spe:25

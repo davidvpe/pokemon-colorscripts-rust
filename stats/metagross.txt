@@ -1,0 +1,9 @@
+#376
+Metagross
+Steel/Psychic
+HP:80
+Atk:135
+Def:130
+SpA:95
+SpD:90
+Spe:70

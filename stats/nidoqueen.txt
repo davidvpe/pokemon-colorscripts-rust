@@ -1,0 +1,9 @@
+#031
+Nidoqueen
+Poison/Ground
+HP:90
+Atk:92
+Def:87
+SpA:75
+SpD:85
+Spe:76

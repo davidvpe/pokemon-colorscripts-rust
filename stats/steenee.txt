@@ -1,0 +1,9 @@
+#762
+Steenee
+Grass
+HP:52
+Atk:40
+Def:48
+SpA:40
+SpD:48
+Spe:62

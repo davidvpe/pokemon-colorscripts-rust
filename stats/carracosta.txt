@@ -1,0 +1,9 @@
+#565
+Carracosta
+Water/Rock
+HP:74
+Atk:108
+Def:133
+SpA:83
+SpD:65
+Spe:32

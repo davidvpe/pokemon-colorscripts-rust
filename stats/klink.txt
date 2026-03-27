@@ -1,0 +1,9 @@
+#599
+Klink
+Steel
+HP:40
+Atk:55
+Def:70
+SpA:45
+SpD:60
+Spe:30

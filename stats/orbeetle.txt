@@ -1,0 +1,9 @@
+#826
+Orbeetle
+Bug/Psychic
+HP:60
+Atk:45
+Def:110
+SpA:80
+SpD:120
+Spe:90

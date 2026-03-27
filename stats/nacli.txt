@@ -1,0 +1,9 @@
+#932
+Nacli
+Rock
+HP:55
+Atk:55
+Def:75
+SpA:35
+SpD:35
+Spe:25

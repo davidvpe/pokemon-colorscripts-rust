@@ -1,0 +1,9 @@
+#298
+Azurill
+Normal/Fairy
+HP:50
+Atk:20
+Def:40
+SpA:20
+SpD:40
+Spe:20

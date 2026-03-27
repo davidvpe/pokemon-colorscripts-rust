@@ -1,0 +1,9 @@
+#150
+Mewtwo
+Psychic
+HP:106
+Atk:110
+Def:90
+SpA:154
+SpD:90
+Spe:130

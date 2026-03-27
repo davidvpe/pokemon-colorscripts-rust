@@ -1,0 +1,9 @@
+#680
+Doublade
+Steel/Ghost
+HP:59
+Atk:110
+Def:150
+SpA:45
+SpD:49
+Spe:35

@@ -1,0 +1,9 @@
+#145
+Zapdos
+Electric/Flying
+HP:90
+Atk:90
+Def:85
+SpA:125
+SpD:90
+Spe:100

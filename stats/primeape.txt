@@ -1,0 +1,9 @@
+#057
+Primeape
+Fighting
+HP:65
+Atk:105
+Def:60
+SpA:60
+SpD:70
+Spe:95

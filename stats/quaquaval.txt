@@ -1,0 +1,9 @@
+#914
+Quaquaval
+Water/Fighting
+HP:85
+Atk:120
+Def:80
+SpA:85
+SpD:75
+Spe:85

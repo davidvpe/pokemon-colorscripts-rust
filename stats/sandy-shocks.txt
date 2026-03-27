@@ -1,0 +1,9 @@
+#989
+Sandy Shocks
+Electric/Ground
+HP:85
+Atk:81
+Def:97
+SpA:121
+SpD:85
+Spe:101

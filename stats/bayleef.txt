@@ -1,0 +1,9 @@
+#153
+Bayleef
+Grass
+HP:60
+Atk:62
+Def:80
+SpA:63
+SpD:80
+Spe:60

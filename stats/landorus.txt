@@ -1,0 +1,9 @@
+#645
+Landorus
+Ground/Flying
+HP:89
+Atk:125
+Def:90
+SpA:115
+SpD:80
+Spe:101

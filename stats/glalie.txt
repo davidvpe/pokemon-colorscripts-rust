@@ -1,0 +1,9 @@
+#362
+Glalie
+Ice
+HP:80
+Atk:80
+Def:80
+SpA:80
+SpD:80
+Spe:80

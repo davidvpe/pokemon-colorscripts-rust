@@ -1,0 +1,9 @@
+#585
+Deerling
+Normal/Grass
+HP:60
+Atk:60
+Def:50
+SpA:40
+SpD:50
+Spe:75

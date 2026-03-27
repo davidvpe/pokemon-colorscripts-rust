@@ -1,0 +1,9 @@
+#838
+Carkol
+Rock/Fire
+HP:80
+Atk:60
+Def:90
+SpA:60
+SpD:70
+Spe:50

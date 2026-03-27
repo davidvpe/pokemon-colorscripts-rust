@@ -1,0 +1,9 @@
+#1021
+Raging Bolt
+Electric/Dragon
+HP:125
+Atk:73
+Def:91
+SpA:137
+SpD:89
+Spe:75

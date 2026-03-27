@@ -1,0 +1,9 @@
+#391
+Monferno
+Fire/Fighting
+HP:64
+Atk:78
+Def:52
+SpA:78
+SpD:52
+Spe:81

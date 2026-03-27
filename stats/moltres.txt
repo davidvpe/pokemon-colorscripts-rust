@@ -1,0 +1,9 @@
+#146
+Moltres
+Fire/Flying
+HP:90
+Atk:100
+Def:90
+SpA:125
+SpD:85
+Spe:90

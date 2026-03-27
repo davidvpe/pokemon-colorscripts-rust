@@ -1,0 +1,9 @@
+#926
+Fidough
+Fairy
+HP:37
+Atk:55
+Def:70
+SpA:30
+SpD:55
+Spe:65

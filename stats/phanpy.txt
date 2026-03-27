@@ -1,0 +1,9 @@
+#231
+Phanpy
+Ground
+HP:90
+Atk:60
+Def:60
+SpA:40
+SpD:40
+Spe:40

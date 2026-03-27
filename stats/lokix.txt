@@ -1,0 +1,9 @@
+#920
+Lokix
+Bug/Dark
+HP:71
+Atk:102
+Def:78
+SpA:52
+SpD:55
+Spe:92

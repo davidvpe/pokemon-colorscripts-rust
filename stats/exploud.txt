@@ -1,0 +1,9 @@
+#295
+Exploud
+Normal
+HP:104
+Atk:91
+Def:63
+SpA:91
+SpD:73
+Spe:68

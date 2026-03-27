@@ -1,0 +1,9 @@
+#628
+Braviary
+Normal/Flying
+HP:100
+Atk:123
+Def:75
+SpA:57
+SpD:75
+Spe:80

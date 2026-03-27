@@ -1,0 +1,9 @@
+#921
+Pawmi
+Electric
+HP:45
+Atk:50
+Def:20
+SpA:40
+SpD:25
+Spe:60

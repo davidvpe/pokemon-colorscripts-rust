@@ -1,0 +1,9 @@
+#064
+Kadabra
+Psychic
+HP:40
+Atk:35
+Def:30
+SpA:120
+SpD:70
+Spe:105

@@ -1,0 +1,9 @@
+#341
+Corphish
+Water
+HP:43
+Atk:80
+Def:65
+SpA:50
+SpD:35
+Spe:35

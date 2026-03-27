@@ -1,0 +1,9 @@
+#351
+Castform
+Normal
+HP:70
+Atk:70
+Def:70
+SpA:70
+SpD:70
+Spe:70

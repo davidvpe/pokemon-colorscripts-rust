@@ -1,0 +1,9 @@
+#842
+Appletun
+Grass/Dragon
+HP:110
+Atk:85
+Def:80
+SpA:100
+SpD:80
+Spe:30

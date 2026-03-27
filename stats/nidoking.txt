@@ -1,0 +1,9 @@
+#034
+Nidoking
+Poison/Ground
+HP:81
+Atk:102
+Def:77
+SpA:85
+SpD:75
+Spe:85

@@ -1,0 +1,9 @@
+#003
+Venusaur
+Grass/Poison
+HP:80
+Atk:82
+Def:83
+SpA:100
+SpD:100
+Spe:80

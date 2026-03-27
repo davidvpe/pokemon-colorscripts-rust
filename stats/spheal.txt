@@ -1,0 +1,9 @@
+#363
+Spheal
+Ice/Water
+HP:70
+Atk:40
+Def:50
+SpA:55
+SpD:50
+Spe:25

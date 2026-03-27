@@ -1,0 +1,9 @@
+#470
+Leafeon
+Grass
+HP:65
+Atk:110
+Def:130
+SpA:60
+SpD:65
+Spe:95

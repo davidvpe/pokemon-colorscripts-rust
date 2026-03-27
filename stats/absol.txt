@@ -1,0 +1,9 @@
+#359
+Absol
+Dark
+HP:65
+Atk:130
+Def:60
+SpA:75
+SpD:60
+Spe:75

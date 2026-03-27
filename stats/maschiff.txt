@@ -1,0 +1,9 @@
+#942
+Maschiff
+Dark
+HP:60
+Atk:78
+Def:60
+SpA:40
+SpD:51
+Spe:51

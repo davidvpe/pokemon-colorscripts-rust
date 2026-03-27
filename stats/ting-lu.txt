@@ -1,0 +1,9 @@
+#1003
+Ting-Lu
+Dark/Ground
+HP:155
+Atk:110
+Def:125
+SpA:55
+SpD:80
+Spe:45

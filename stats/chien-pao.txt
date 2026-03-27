@@ -1,0 +1,9 @@
+#1002
+Chien-Pao
+Dark/Ice
+HP:80
+Atk:120
+Def:80
+SpA:90
+SpD:65
+Spe:135

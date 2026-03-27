@@ -1,0 +1,9 @@
+#227
+Skarmory
+Steel/Flying
+HP:65
+Atk:80
+Def:140
+SpA:40
+SpD:70
+Spe:70

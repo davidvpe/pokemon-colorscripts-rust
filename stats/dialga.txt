@@ -1,0 +1,9 @@
+#483
+Dialga
+Steel/Dragon
+HP:100
+Atk:120
+Def:120
+SpA:150
+SpD:100
+Spe:90

@@ -1,0 +1,9 @@
+#958
+Tinkatuff
+Fairy/Steel
+HP:65
+Atk:55
+Def:55
+SpA:45
+SpD:82
+Spe:78

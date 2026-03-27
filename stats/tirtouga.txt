@@ -1,0 +1,9 @@
+#564
+Tirtouga
+Water/Rock
+HP:54
+Atk:78
+Def:103
+SpA:53
+SpD:45
+Spe:22

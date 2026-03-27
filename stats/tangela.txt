@@ -1,0 +1,9 @@
+#114
+Tangela
+Grass
+HP:65
+Atk:55
+Def:115
+SpA:100
+SpD:40
+Spe:60

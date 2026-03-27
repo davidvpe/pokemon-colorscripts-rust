@@ -1,0 +1,9 @@
+#420
+Cherubi
+Grass
+HP:45
+Atk:35
+Def:45
+SpA:62
+SpD:53
+Spe:35

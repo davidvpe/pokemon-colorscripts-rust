@@ -1,0 +1,9 @@
+#878
+Cufant
+Steel
+HP:72
+Atk:80
+Def:49
+SpA:40
+SpD:49
+Spe:40

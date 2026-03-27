@@ -1,0 +1,9 @@
+#020
+Raticate
+Normal
+HP:55
+Atk:81
+Def:60
+SpA:50
+SpD:70
+Spe:97

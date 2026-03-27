@@ -1,0 +1,9 @@
+#198
+Murkrow
+Dark/Flying
+HP:60
+Atk:85
+Def:42
+SpA:85
+SpD:42
+Spe:91

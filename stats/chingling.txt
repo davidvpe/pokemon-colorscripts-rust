@@ -1,0 +1,9 @@
+#433
+Chingling
+Psychic
+HP:45
+Atk:30
+Def:50
+SpA:65
+SpD:50
+Spe:45

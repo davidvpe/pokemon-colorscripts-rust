@@ -1,0 +1,9 @@
+#117
+Seadra
+Water
+HP:55
+Atk:65
+Def:95
+SpA:95
+SpD:45
+Spe:85

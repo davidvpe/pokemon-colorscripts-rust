@@ -1,0 +1,9 @@
+#801
+Magearna
+Steel/Fairy
+HP:80
+Atk:95
+Def:115
+SpA:130
+SpD:115
+Spe:65

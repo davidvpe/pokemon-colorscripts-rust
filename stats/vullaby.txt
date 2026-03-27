@@ -1,0 +1,9 @@
+#629
+Vullaby
+Dark/Flying
+HP:70
+Atk:55
+Def:75
+SpA:45
+SpD:65
+Spe:60

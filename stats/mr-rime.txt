@@ -1,0 +1,9 @@
+#866
+Mr. Rime
+Ice/Psychic
+HP:80
+Atk:85
+Def:75
+SpA:110
+SpD:100
+Spe:70

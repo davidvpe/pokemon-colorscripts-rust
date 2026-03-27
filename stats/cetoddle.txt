@@ -1,0 +1,9 @@
+#974
+Cetoddle
+Ice
+HP:108
+Atk:68
+Def:45
+SpA:30
+SpD:40
+Spe:43

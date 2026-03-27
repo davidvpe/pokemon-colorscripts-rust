@@ -1,0 +1,9 @@
+#345
+Lileep
+Rock/Grass
+HP:66
+Atk:41
+Def:77
+SpA:61
+SpD:87
+Spe:23

@@ -1,0 +1,9 @@
+#210
+Granbull
+Fairy
+HP:90
+Atk:120
+Def:75
+SpA:60
+SpD:60
+Spe:45

@@ -1,0 +1,9 @@
+#1009
+Walking Wake
+Water/Dragon
+HP:99
+Atk:83
+Def:91
+SpA:125
+SpD:83
+Spe:109

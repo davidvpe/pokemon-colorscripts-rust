@@ -1,0 +1,9 @@
+#563
+Cofagrigus
+Ghost
+HP:58
+Atk:50
+Def:145
+SpA:95
+SpD:105
+Spe:30

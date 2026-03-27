@@ -1,0 +1,9 @@
+#368
+Gorebyss
+Water
+HP:55
+Atk:84
+Def:105
+SpA:114
+SpD:75
+Spe:52

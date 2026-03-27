@@ -1,0 +1,9 @@
+#442
+Spiritomb
+Ghost/Dark
+HP:50
+Atk:92
+Def:108
+SpA:92
+SpD:108
+Spe:35

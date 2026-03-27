@@ -1,0 +1,9 @@
+#912
+Quaxly
+Water
+HP:55
+Atk:65
+Def:45
+SpA:50
+SpD:45
+Spe:50

@@ -1,0 +1,9 @@
+#604
+Eelektross
+Electric
+HP:85
+Atk:115
+Def:80
+SpA:105
+SpD:80
+Spe:50

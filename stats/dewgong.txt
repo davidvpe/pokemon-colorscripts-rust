@@ -1,0 +1,9 @@
+#087
+Dewgong
+Water/Ice
+HP:90
+Atk:70
+Def:80
+SpA:70
+SpD:95
+Spe:70

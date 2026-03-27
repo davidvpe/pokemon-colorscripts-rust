@@ -1,0 +1,9 @@
+#277
+Swellow
+Normal/Flying
+HP:60
+Atk:85
+Def:60
+SpA:75
+SpD:50
+Spe:125

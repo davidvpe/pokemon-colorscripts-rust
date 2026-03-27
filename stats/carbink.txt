@@ -1,0 +1,9 @@
+#703
+Carbink
+Rock/Fairy
+HP:50
+Atk:50
+Def:150
+SpA:50
+SpD:150
+Spe:50

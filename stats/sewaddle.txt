@@ -1,0 +1,9 @@
+#540
+Sewaddle
+Bug/Grass
+HP:45
+Atk:53
+Def:70
+SpA:40
+SpD:60
+Spe:42

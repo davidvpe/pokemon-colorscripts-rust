@@ -1,0 +1,9 @@
+#303
+Mawile
+Steel/Fairy
+HP:50
+Atk:85
+Def:85
+SpA:55
+SpD:55
+Spe:50

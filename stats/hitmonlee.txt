@@ -1,0 +1,9 @@
+#106
+Hitmonlee
+Fighting
+HP:50
+Atk:120
+Def:53
+SpA:35
+SpD:110
+Spe:87

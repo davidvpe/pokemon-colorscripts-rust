@@ -1,0 +1,9 @@
+#584
+Vanilluxe
+Ice
+HP:71
+Atk:95
+Def:85
+SpA:110
+SpD:95
+Spe:79

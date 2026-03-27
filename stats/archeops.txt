@@ -1,0 +1,9 @@
+#567
+Archeops
+Rock/Flying
+HP:75
+Atk:140
+Def:65
+SpA:112
+SpD:65
+Spe:110

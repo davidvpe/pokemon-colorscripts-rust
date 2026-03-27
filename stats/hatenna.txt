@@ -1,0 +1,9 @@
+#856
+Hatenna
+Psychic
+HP:42
+Atk:30
+Def:45
+SpA:56
+SpD:53
+Spe:39

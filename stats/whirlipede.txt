@@ -1,0 +1,9 @@
+#544
+Whirlipede
+Bug/Poison
+HP:40
+Atk:55
+Def:99
+SpA:40
+SpD:79
+Spe:47

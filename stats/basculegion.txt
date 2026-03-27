@@ -1,0 +1,9 @@
+#902
+Basculegion
+Water/Ghost
+HP:120
+Atk:112
+Def:65
+SpA:80
+SpD:75
+Spe:78

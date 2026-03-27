@@ -1,0 +1,9 @@
+#896
+Glastrier
+Ice
+HP:100
+Atk:145
+Def:130
+SpA:65
+SpD:110
+Spe:30

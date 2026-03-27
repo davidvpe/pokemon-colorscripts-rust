@@ -1,0 +1,9 @@
+#818
+Inteleon
+Water
+HP:70
+Atk:85
+Def:65
+SpA:125
+SpD:65
+Spe:120

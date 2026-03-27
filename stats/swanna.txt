@@ -1,0 +1,9 @@
+#581
+Swanna
+Water/Flying
+HP:75
+Atk:87
+Def:63
+SpA:87
+SpD:63
+Spe:98

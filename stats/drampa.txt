@@ -1,0 +1,9 @@
+#780
+Drampa
+Normal/Dragon
+HP:78
+Atk:60
+Def:85
+SpA:135
+SpD:91
+Spe:36

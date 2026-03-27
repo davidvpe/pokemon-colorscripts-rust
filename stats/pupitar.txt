@@ -1,0 +1,9 @@
+#247
+Pupitar
+Rock/Ground
+HP:70
+Atk:84
+Def:70
+SpA:65
+SpD:70
+Spe:51

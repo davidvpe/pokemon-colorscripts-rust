@@ -1,0 +1,9 @@
+#779
+Bruxish
+Water/Psychic
+HP:68
+Atk:105
+Def:70
+SpA:70
+SpD:70
+Spe:92

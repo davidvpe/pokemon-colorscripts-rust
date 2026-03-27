@@ -1,0 +1,9 @@
+#475
+Gallade
+Psychic/Fighting
+HP:68
+Atk:125
+Def:65
+SpA:65
+SpD:115
+Spe:80

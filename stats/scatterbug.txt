@@ -1,0 +1,9 @@
+#664
+Scatterbug
+Bug
+HP:38
+Atk:35
+Def:40
+SpA:27
+SpD:25
+Spe:35

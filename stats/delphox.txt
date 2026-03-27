@@ -1,0 +1,9 @@
+#655
+Delphox
+Fire/Psychic
+HP:75
+Atk:69
+Def:72
+SpA:114
+SpD:100
+Spe:104

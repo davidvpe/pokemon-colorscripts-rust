@@ -1,0 +1,9 @@
+#721
+Volcanion
+Fire/Water
+HP:80
+Atk:110
+Def:120
+SpA:130
+SpD:90
+Spe:70

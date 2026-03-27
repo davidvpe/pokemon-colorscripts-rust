@@ -1,0 +1,9 @@
+#571
+Zoroark
+Dark
+HP:60
+Atk:105
+Def:60
+SpA:120
+SpD:60
+Spe:105

@@ -1,0 +1,9 @@
+#906
+Sprigatito
+Grass
+HP:40
+Atk:61
+Def:54
+SpA:45
+SpD:45
+Spe:65

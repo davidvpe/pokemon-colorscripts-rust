@@ -1,0 +1,9 @@
+#337
+Lunatone
+Rock/Psychic
+HP:90
+Atk:55
+Def:65
+SpA:95
+SpD:85
+Spe:70

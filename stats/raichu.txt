@@ -1,0 +1,9 @@
+#026
+Raichu
+Electric
+HP:60
+Atk:90
+Def:55
+SpA:90
+SpD:80
+Spe:110

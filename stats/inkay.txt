@@ -1,0 +1,9 @@
+#686
+Inkay
+Dark/Psychic
+HP:53
+Atk:54
+Def:53
+SpA:37
+SpD:46
+Spe:45

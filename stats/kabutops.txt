@@ -1,0 +1,9 @@
+#141
+Kabutops
+Rock/Water
+HP:60
+Atk:115
+Def:105
+SpA:65
+SpD:70
+Spe:80

@@ -1,0 +1,9 @@
+#841
+Flapple
+Grass/Dragon
+HP:70
+Atk:110
+Def:80
+SpA:95
+SpD:60
+Spe:70

@@ -1,0 +1,9 @@
+#491
+Darkrai
+Dark
+HP:70
+Atk:90
+Def:90
+SpA:135
+SpD:90
+Spe:125

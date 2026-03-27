@@ -1,0 +1,9 @@
+#844
+Sandaconda
+Ground
+HP:72
+Atk:107
+Def:125
+SpA:65
+SpD:70
+Spe:71

@@ -1,0 +1,9 @@
+#241
+Miltank
+Normal
+HP:95
+Atk:80
+Def:105
+SpA:40
+SpD:70
+Spe:100

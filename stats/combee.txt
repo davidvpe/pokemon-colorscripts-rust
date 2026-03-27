@@ -1,0 +1,9 @@
+#415
+Combee
+Bug/Flying
+HP:30
+Atk:30
+Def:42
+SpA:30
+SpD:42
+Spe:70

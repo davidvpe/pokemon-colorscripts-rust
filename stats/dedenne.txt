@@ -1,0 +1,9 @@
+#702
+Dedenne
+Electric/Fairy
+HP:67
+Atk:58
+Def:57
+SpA:81
+SpD:67
+Spe:101

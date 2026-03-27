@@ -1,0 +1,9 @@
+#054
+Psyduck
+Water
+HP:50
+Atk:52
+Def:48
+SpA:65
+SpD:50
+Spe:55

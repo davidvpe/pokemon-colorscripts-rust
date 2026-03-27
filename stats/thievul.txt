@@ -1,0 +1,9 @@
+#828
+Thievul
+Dark
+HP:70
+Atk:58
+Def:58
+SpA:87
+SpD:92
+Spe:90

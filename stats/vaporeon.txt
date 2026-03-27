@@ -1,0 +1,9 @@
+#134
+Vaporeon
+Water
+HP:130
+Atk:65
+Def:60
+SpA:110
+SpD:95
+Spe:65

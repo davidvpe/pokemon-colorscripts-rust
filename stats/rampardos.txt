@@ -1,0 +1,9 @@
+#409
+Rampardos
+Rock
+HP:97
+Atk:165
+Def:60
+SpA:65
+SpD:50
+Spe:58

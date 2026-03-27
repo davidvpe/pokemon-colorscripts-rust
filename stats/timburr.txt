@@ -1,0 +1,9 @@
+#532
+Timburr
+Fighting
+HP:75
+Atk:80
+Def:55
+SpA:25
+SpD:35
+Spe:35

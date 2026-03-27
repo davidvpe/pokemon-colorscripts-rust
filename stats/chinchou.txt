@@ -1,0 +1,9 @@
+#170
+Chinchou
+Water/Electric
+HP:75
+Atk:38
+Def:38
+SpA:56
+SpD:56
+Spe:67

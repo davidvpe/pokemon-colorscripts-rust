@@ -1,0 +1,9 @@
+#871
+Pincurchin
+Electric
+HP:48
+Atk:101
+Def:95
+SpA:91
+SpD:85
+Spe:15

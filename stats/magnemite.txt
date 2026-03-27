@@ -1,0 +1,9 @@
+#081
+Magnemite
+Electric/Steel
+HP:25
+Atk:35
+Def:70
+SpA:95
+SpD:55
+Spe:45

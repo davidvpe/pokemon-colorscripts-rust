@@ -1,0 +1,9 @@
+#634
+Zweilous
+Dark/Dragon
+HP:72
+Atk:85
+Def:70
+SpA:65
+SpD:70
+Spe:58

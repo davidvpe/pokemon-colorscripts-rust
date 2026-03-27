@@ -1,0 +1,9 @@
+#859
+Impidimp
+Dark/Fairy
+HP:45
+Atk:45
+Def:30
+SpA:55
+SpD:40
+Spe:50

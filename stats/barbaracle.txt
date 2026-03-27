@@ -1,0 +1,9 @@
+#689
+Barbaracle
+Rock/Water
+HP:72
+Atk:105
+Def:115
+SpA:54
+SpD:86
+Spe:68

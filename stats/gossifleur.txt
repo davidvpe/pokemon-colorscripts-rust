@@ -1,0 +1,9 @@
+#829
+Gossifleur
+Grass
+HP:40
+Atk:40
+Def:60
+SpA:40
+SpD:60
+Spe:10

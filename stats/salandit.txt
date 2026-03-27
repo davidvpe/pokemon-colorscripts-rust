@@ -1,0 +1,9 @@
+#757
+Salandit
+Poison/Fire
+HP:48
+Atk:44
+Def:40
+SpA:71
+SpD:40
+Spe:77

@@ -1,0 +1,9 @@
+#799
+Guzzlord
+Dark/Dragon
+HP:223
+Atk:101
+Def:53
+SpA:97
+SpD:53
+Spe:43

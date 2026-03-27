@@ -1,0 +1,9 @@
+#659
+Bunnelby
+Normal
+HP:38
+Atk:36
+Def:38
+SpA:32
+SpD:36
+Spe:57

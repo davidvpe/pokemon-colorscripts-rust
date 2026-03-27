@@ -1,0 +1,9 @@
+#993
+Iron Jugulis
+Dark/Flying
+HP:94
+Atk:80
+Def:86
+SpA:122
+SpD:80
+Spe:108

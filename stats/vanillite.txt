@@ -1,0 +1,9 @@
+#582
+Vanillite
+Ice
+HP:36
+Atk:50
+Def:50
+SpA:65
+SpD:60
+Spe:44

@@ -1,0 +1,9 @@
+#109
+Koffing
+Poison
+HP:40
+Atk:65
+Def:95
+SpA:60
+SpD:45
+Spe:35

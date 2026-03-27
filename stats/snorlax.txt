@@ -1,0 +1,9 @@
+#143
+Snorlax
+Normal
+HP:160
+Atk:110
+Def:65
+SpA:65
+SpD:110
+Spe:30

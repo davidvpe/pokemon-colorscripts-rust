@@ -1,0 +1,9 @@
+#858
+Hatterene
+Psychic/Fairy
+HP:57
+Atk:90
+Def:95
+SpA:136
+SpD:103
+Spe:29

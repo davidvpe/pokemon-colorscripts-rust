@@ -1,0 +1,9 @@
+#815
+Cinderace
+Fire
+HP:80
+Atk:116
+Def:75
+SpA:65
+SpD:75
+Spe:119

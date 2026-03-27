@@ -1,0 +1,9 @@
+#263
+Zigzagoon
+Normal
+HP:38
+Atk:30
+Def:41
+SpA:30
+SpD:41
+Spe:60

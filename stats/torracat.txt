@@ -1,0 +1,9 @@
+#726
+Torracat
+Fire
+HP:65
+Atk:85
+Def:50
+SpA:80
+SpD:50
+Spe:90

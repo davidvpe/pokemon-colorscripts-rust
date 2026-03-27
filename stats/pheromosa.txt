@@ -1,0 +1,9 @@
+#795
+Pheromosa
+Bug/Fighting
+HP:71
+Atk:137
+Def:37
+SpA:137
+SpD:37
+Spe:151

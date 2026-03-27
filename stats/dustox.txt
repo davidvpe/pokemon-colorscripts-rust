@@ -1,0 +1,9 @@
+#269
+Dustox
+Bug/Poison
+HP:60
+Atk:50
+Def:70
+SpA:50
+SpD:90
+Spe:65

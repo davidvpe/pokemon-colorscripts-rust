@@ -1,0 +1,9 @@
+#618
+Stunfisk
+Ground/Electric
+HP:109
+Atk:66
+Def:84
+SpA:81
+SpD:99
+Spe:32

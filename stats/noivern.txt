@@ -1,0 +1,9 @@
+#715
+Noivern
+Flying/Dragon
+HP:85
+Atk:70
+Def:80
+SpA:97
+SpD:80
+Spe:123

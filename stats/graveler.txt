@@ -1,0 +1,9 @@
+#075
+Graveler
+Rock/Ground
+HP:55
+Atk:95
+Def:115
+SpA:45
+SpD:45
+Spe:35

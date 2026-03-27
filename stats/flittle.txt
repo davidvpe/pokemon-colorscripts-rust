@@ -1,0 +1,9 @@
+#955
+Flittle
+Psychic
+HP:30
+Atk:35
+Def:30
+SpA:55
+SpD:30
+Spe:75

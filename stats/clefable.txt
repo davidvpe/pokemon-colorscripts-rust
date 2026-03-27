@@ -1,0 +1,9 @@
+#036
+Clefable
+Fairy
+HP:95
+Atk:70
+Def:73
+SpA:95
+SpD:90
+Spe:60

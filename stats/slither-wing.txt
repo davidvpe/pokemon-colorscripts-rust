@@ -1,0 +1,9 @@
+#988
+Slither Wing
+Bug/Fighting
+HP:85
+Atk:135
+Def:79
+SpA:85
+SpD:105
+Spe:81

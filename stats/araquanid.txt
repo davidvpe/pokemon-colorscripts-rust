@@ -1,0 +1,9 @@
+#752
+Araquanid
+Water/Bug
+HP:68
+Atk:70
+Def:92
+SpA:50
+SpD:132
+Spe:42

@@ -1,0 +1,9 @@
+#235
+Smeargle
+Normal
+HP:55
+Atk:20
+Def:35
+SpA:20
+SpD:45
+Spe:75

@@ -1,0 +1,9 @@
+#306
+Aggron
+Steel/Rock
+HP:70
+Atk:110
+Def:180
+SpA:60
+SpD:60
+Spe:50

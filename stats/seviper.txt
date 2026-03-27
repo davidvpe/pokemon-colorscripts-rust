@@ -1,0 +1,9 @@
+#336
+Seviper
+Poison
+HP:73
+Atk:100
+Def:60
+SpA:100
+SpD:60
+Spe:65

@@ -1,0 +1,9 @@
+#224
+Octillery
+Water
+HP:75
+Atk:105
+Def:75
+SpA:105
+SpD:75
+Spe:45

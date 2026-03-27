@@ -1,0 +1,9 @@
+#082
+Magneton
+Electric/Steel
+HP:50
+Atk:60
+Def:95
+SpA:120
+SpD:70
+Spe:70

@@ -1,0 +1,9 @@
+#233
+Porygon2
+Normal
+HP:85
+Atk:80
+Def:90
+SpA:105
+SpD:95
+Spe:60

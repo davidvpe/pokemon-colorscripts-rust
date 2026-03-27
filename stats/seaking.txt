@@ -1,0 +1,9 @@
+#119
+Seaking
+Water
+HP:80
+Atk:92
+Def:65
+SpA:65
+SpD:80
+Spe:68

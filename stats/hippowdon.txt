@@ -1,0 +1,9 @@
+#450
+Hippowdon
+Ground
+HP:108
+Atk:112
+Def:118
+SpA:68
+SpD:72
+Spe:47

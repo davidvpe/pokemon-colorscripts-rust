@@ -1,0 +1,9 @@
+#850
+Sizzlipede
+Fire/Bug
+HP:50
+Atk:65
+Def:45
+SpA:50
+SpD:50
+Spe:45

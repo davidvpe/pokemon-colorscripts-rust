@@ -1,0 +1,9 @@
+#197
+Umbreon
+Dark
+HP:95
+Atk:65
+Def:110
+SpA:60
+SpD:130
+Spe:65

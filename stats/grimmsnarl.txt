@@ -1,0 +1,9 @@
+#861
+Grimmsnarl
+Dark/Fairy
+HP:95
+Atk:120
+Def:65
+SpA:95
+SpD:75
+Spe:60

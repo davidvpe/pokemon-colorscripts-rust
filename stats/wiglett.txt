@@ -1,0 +1,9 @@
+#960
+Wiglett
+Water
+HP:10
+Atk:55
+Def:25
+SpA:35
+SpD:25
+Spe:95

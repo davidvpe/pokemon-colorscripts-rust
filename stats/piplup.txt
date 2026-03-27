@@ -1,0 +1,9 @@
+#393
+Piplup
+Water
+HP:53
+Atk:51
+Def:53
+SpA:61
+SpD:56
+Spe:40

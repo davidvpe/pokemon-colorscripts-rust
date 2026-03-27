@@ -1,0 +1,9 @@
+#477
+Dusknoir
+Ghost
+HP:45
+Atk:100
+Def:135
+SpA:65
+SpD:135
+Spe:45

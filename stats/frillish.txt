@@ -1,0 +1,9 @@
+#592
+Frillish
+Water/Ghost
+HP:55
+Atk:40
+Def:50
+SpA:65
+SpD:85
+Spe:40

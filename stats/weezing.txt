@@ -1,0 +1,9 @@
+#110
+Weezing
+Poison
+HP:65
+Atk:90
+Def:120
+SpA:85
+SpD:70
+Spe:60

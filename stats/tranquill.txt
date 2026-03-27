@@ -1,0 +1,9 @@
+#520
+Tranquill
+Normal/Flying
+HP:62
+Atk:77
+Def:62
+SpA:50
+SpD:42
+Spe:65

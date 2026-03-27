@@ -1,0 +1,9 @@
+#493
+Arceus
+Normal
+HP:120
+Atk:120
+Def:120
+SpA:120
+SpD:120
+Spe:120

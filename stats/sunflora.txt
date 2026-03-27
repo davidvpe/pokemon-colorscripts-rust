@@ -1,0 +1,9 @@
+#192
+Sunflora
+Grass
+HP:75
+Atk:75
+Def:55
+SpA:105
+SpD:85
+Spe:30

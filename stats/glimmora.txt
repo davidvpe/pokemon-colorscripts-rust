@@ -1,0 +1,9 @@
+#970
+Glimmora
+Rock/Poison
+HP:83
+Atk:55
+Def:90
+SpA:130
+SpD:81
+Spe:86

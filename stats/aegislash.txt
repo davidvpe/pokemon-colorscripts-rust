@@ -1,0 +1,9 @@
+#681
+Aegislash
+Steel/Ghost
+HP:60
+Atk:50
+Def:140
+SpA:50
+SpD:140
+Spe:60

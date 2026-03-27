@@ -1,0 +1,9 @@
+#234
+Stantler
+Normal
+HP:73
+Atk:95
+Def:62
+SpA:85
+SpD:65
+Spe:85

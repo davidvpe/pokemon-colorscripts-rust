@@ -1,0 +1,9 @@
+#538
+Throh
+Fighting
+HP:120
+Atk:100
+Def:85
+SpA:30
+SpD:85
+Spe:45

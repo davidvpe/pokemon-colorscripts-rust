@@ -1,0 +1,9 @@
+#1005
+Roaring Moon
+Dragon/Dark
+HP:105
+Atk:139
+Def:71
+SpA:55
+SpD:101
+Spe:119

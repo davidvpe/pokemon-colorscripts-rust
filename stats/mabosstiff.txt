@@ -1,0 +1,9 @@
+#943
+Mabosstiff
+Dark
+HP:80
+Atk:120
+Def:90
+SpA:60
+SpD:70
+Spe:85

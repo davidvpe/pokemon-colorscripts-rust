@@ -1,0 +1,9 @@
+#389
+Torterra
+Grass/Ground
+HP:95
+Atk:109
+Def:105
+SpA:75
+SpD:85
+Spe:56

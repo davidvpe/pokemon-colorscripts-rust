@@ -1,0 +1,9 @@
+#865
+Sirfetch'd
+Fighting
+HP:62
+Atk:135
+Def:95
+SpA:68
+SpD:82
+Spe:65

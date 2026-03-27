@@ -1,0 +1,9 @@
+#009
+Blastoise
+Water
+HP:79
+Atk:83
+Def:100
+SpA:85
+SpD:105
+Spe:78

@@ -1,0 +1,9 @@
+#449
+Hippopotas
+Ground
+HP:68
+Atk:72
+Def:78
+SpA:38
+SpD:42
+Spe:32

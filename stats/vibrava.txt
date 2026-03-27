@@ -1,0 +1,9 @@
+#329
+Vibrava
+Ground/Dragon
+HP:50
+Atk:70
+Def:50
+SpA:50
+SpD:50
+Spe:70

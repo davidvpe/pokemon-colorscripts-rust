@@ -1,0 +1,9 @@
+#874
+Stonjourner
+Rock
+HP:100
+Atk:125
+Def:135
+SpA:20
+SpD:20
+Spe:70

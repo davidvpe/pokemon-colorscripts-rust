@@ -1,0 +1,9 @@
+#386
+Deoxys
+Psychic
+HP:50
+Atk:150
+Def:50
+SpA:150
+SpD:50
+Spe:150

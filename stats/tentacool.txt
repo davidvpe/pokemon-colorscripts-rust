@@ -1,0 +1,9 @@
+#072
+Tentacool
+Water/Poison
+HP:40
+Atk:40
+Def:35
+SpA:50
+SpD:100
+Spe:70

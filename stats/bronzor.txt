@@ -1,0 +1,9 @@
+#436
+Bronzor
+Steel/Psychic
+HP:57
+Atk:24
+Def:86
+SpA:24
+SpD:86
+Spe:23

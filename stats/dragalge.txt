@@ -1,0 +1,9 @@
+#691
+Dragalge
+Poison/Dragon
+HP:65
+Atk:75
+Def:90
+SpA:97
+SpD:123
+Spe:44

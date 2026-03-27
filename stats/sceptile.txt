@@ -1,0 +1,9 @@
+#254
+Sceptile
+Grass
+HP:70
+Atk:85
+Def:65
+SpA:105
+SpD:85
+Spe:120

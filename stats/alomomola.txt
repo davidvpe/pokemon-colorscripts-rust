@@ -1,0 +1,9 @@
+#594
+Alomomola
+Water
+HP:165
+Atk:75
+Def:80
+SpA:40
+SpD:45
+Spe:65

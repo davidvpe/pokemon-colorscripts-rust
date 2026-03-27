@@ -1,0 +1,9 @@
+#793
+Nihilego
+Rock/Poison
+HP:109
+Atk:53
+Def:47
+SpA:127
+SpD:131
+Spe:103

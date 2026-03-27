@@ -1,0 +1,9 @@
+#240
+Magby
+Fire
+HP:45
+Atk:75
+Def:37
+SpA:70
+SpD:55
+Spe:83

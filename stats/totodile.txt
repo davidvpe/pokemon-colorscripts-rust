@@ -1,0 +1,9 @@
+#158
+Totodile
+Water
+HP:50
+Atk:65
+Def:64
+SpA:44
+SpD:48
+Spe:43

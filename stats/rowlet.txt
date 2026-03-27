@@ -1,0 +1,9 @@
+#722
+Rowlet
+Grass/Flying
+HP:68
+Atk:55
+Def:55
+SpA:50
+SpD:50
+Spe:42

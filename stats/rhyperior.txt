@@ -1,0 +1,9 @@
+#464
+Rhyperior
+Ground/Rock
+HP:115
+Atk:140
+Def:130
+SpA:55
+SpD:55
+Spe:40

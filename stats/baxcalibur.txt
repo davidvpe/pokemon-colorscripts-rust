@@ -1,0 +1,9 @@
+#998
+Baxcalibur
+Dragon/Ice
+HP:115
+Atk:145
+Def:92
+SpA:75
+SpD:86
+Spe:87

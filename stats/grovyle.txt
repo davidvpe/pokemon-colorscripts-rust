@@ -1,0 +1,9 @@
+#253
+Grovyle
+Grass
+HP:50
+Atk:65
+Def:45
+SpA:85
+SpD:65
+Spe:95

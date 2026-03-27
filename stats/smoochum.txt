@@ -1,0 +1,9 @@
+#238
+Smoochum
+Ice/Psychic
+HP:45
+Atk:30
+Def:15
+SpA:85
+SpD:65
+Spe:65

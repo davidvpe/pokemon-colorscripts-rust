@@ -1,0 +1,9 @@
+#281
+Kirlia
+Psychic/Fairy
+HP:38
+Atk:35
+Def:35
+SpA:65
+SpD:55
+Spe:50

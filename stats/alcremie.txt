@@ -1,0 +1,9 @@
+#869
+Alcremie
+Fairy
+HP:65
+Atk:60
+Def:75
+SpA:110
+SpD:121
+Spe:64

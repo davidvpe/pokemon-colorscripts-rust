@@ -1,0 +1,9 @@
+#286
+Breloom
+Grass/Fighting
+HP:60
+Atk:130
+Def:80
+SpA:60
+SpD:60
+Spe:70

@@ -1,0 +1,9 @@
+#864
+Cursola
+Ghost
+HP:60
+Atk:95
+Def:50
+SpA:145
+SpD:130
+Spe:30

@@ -1,0 +1,9 @@
+#503
+Samurott
+Water
+HP:95
+Atk:100
+Def:85
+SpA:108
+SpD:70
+Spe:70

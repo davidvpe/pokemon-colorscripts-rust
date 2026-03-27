@@ -1,0 +1,9 @@
+#539
+Sawk
+Fighting
+HP:75
+Atk:125
+Def:75
+SpA:30
+SpD:75
+Spe:85

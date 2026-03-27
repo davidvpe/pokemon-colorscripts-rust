@@ -1,0 +1,9 @@
+#895
+Regidrago
+Dragon
+HP:200
+Atk:100
+Def:50
+SpA:100
+SpD:50
+Spe:80

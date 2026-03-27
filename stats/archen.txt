@@ -1,0 +1,9 @@
+#566
+Archen
+Rock/Flying
+HP:55
+Atk:112
+Def:45
+SpA:74
+SpD:45
+Spe:70

@@ -1,0 +1,9 @@
+#079
+Slowpoke
+Water/Psychic
+HP:90
+Atk:65
+Def:65
+SpA:40
+SpD:40
+Spe:15

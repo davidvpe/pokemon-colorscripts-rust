@@ -1,0 +1,9 @@
+#029
+Nidoran♀ (female)
+Poison
+HP:55
+Atk:47
+Def:52
+SpA:40
+SpD:40
+Spe:41

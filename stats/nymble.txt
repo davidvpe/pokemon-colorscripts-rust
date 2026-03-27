@@ -1,0 +1,9 @@
+#919
+Nymble
+Bug
+HP:33
+Atk:46
+Def:40
+SpA:21
+SpD:25
+Spe:45

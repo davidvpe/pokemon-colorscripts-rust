@@ -1,0 +1,9 @@
+#271
+Lombre
+Water/Grass
+HP:60
+Atk:50
+Def:50
+SpA:60
+SpD:70
+Spe:50

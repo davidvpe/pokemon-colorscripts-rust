@@ -1,0 +1,9 @@
+#1013
+Sinistcha
+Grass/Ghost
+HP:71
+Atk:60
+Def:106
+SpA:121
+SpD:80
+Spe:70

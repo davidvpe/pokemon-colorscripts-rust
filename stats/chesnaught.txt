@@ -1,0 +1,9 @@
+#652
+Chesnaught
+Grass/Fighting
+HP:88
+Atk:107
+Def:122
+SpA:74
+SpD:75
+Spe:64

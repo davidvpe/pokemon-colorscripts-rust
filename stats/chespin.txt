@@ -1,0 +1,9 @@
+#650
+Chespin
+Grass
+HP:56
+Atk:61
+Def:65
+SpA:48
+SpD:45
+Spe:38

@@ -1,0 +1,9 @@
+#473
+Mamoswine
+Ice/Ground
+HP:110
+Atk:130
+Def:80
+SpA:70
+SpD:60
+Spe:80

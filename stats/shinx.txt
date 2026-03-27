@@ -1,0 +1,9 @@
+#403
+Shinx
+Electric
+HP:45
+Atk:65
+Def:34
+SpA:40
+SpD:34
+Spe:45

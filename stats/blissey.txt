@@ -1,0 +1,9 @@
+#242
+Blissey
+Normal
+HP:255
+Atk:10
+Def:10
+SpA:75
+SpD:135
+Spe:55

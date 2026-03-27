@@ -1,0 +1,9 @@
+#825
+Dottler
+Bug/Psychic
+HP:50
+Atk:35
+Def:80
+SpA:50
+SpD:90
+Spe:30

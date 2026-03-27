@@ -1,0 +1,9 @@
+#013
+Weedle
+Bug/Poison
+HP:40
+Atk:35
+Def:30
+SpA:20
+SpD:20
+Spe:50

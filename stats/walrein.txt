@@ -1,0 +1,9 @@
+#365
+Walrein
+Ice/Water
+HP:110
+Atk:80
+Def:90
+SpA:95
+SpD:90
+Spe:65

@@ -1,0 +1,9 @@
+#164
+Noctowl
+Normal/Flying
+HP:100
+Atk:50
+Def:50
+SpA:86
+SpD:96
+Spe:70

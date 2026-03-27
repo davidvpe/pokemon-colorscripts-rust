@@ -1,0 +1,9 @@
+#272
+Ludicolo
+Water/Grass
+HP:80
+Atk:70
+Def:70
+SpA:90
+SpD:100
+Spe:70

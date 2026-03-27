@@ -1,0 +1,9 @@
+#547
+Whimsicott
+Grass/Fairy
+HP:60
+Atk:67
+Def:85
+SpA:77
+SpD:75
+Spe:116

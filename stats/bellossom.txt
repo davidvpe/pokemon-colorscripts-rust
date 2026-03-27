@@ -1,0 +1,9 @@
+#182
+Bellossom
+Grass
+HP:75
+Atk:80
+Def:95
+SpA:90
+SpD:100
+Spe:50

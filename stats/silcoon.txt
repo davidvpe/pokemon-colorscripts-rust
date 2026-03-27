@@ -1,0 +1,9 @@
+#266
+Silcoon
+Bug
+HP:50
+Atk:35
+Def:55
+SpA:25
+SpD:25
+Spe:15

@@ -1,0 +1,9 @@
+#517
+Munna
+Psychic
+HP:76
+Atk:25
+Def:45
+SpA:67
+SpD:55
+Spe:24

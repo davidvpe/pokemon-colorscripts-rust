@@ -1,0 +1,9 @@
+#011
+Metapod
+Bug
+HP:50
+Atk:20
+Def:55
+SpA:25
+SpD:25
+Spe:30

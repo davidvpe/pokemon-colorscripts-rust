@@ -1,0 +1,9 @@
+#867
+Runerigus
+Ground/Ghost
+HP:58
+Atk:95
+Def:145
+SpA:50
+SpD:105
+Spe:30

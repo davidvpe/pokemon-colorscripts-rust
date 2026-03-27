@@ -1,0 +1,9 @@
+#718
+Zygarde
+Dragon/Ground
+HP:108
+Atk:100
+Def:121
+SpA:81
+SpD:95
+Spe:95

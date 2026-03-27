@@ -1,0 +1,9 @@
+#978
+Tatsugiri
+Dragon/Water
+HP:68
+Atk:50
+Def:60
+SpA:120
+SpD:95
+Spe:82

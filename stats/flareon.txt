@@ -1,0 +1,9 @@
+#136
+Flareon
+Fire
+HP:65
+Atk:130
+Def:60
+SpA:95
+SpD:110
+Spe:65

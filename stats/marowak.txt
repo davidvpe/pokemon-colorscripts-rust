@@ -1,0 +1,9 @@
+#105
+Marowak
+Ground
+HP:60
+Atk:80
+Def:110
+SpA:50
+SpD:80
+Spe:45

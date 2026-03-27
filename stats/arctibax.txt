@@ -1,0 +1,9 @@
+#997
+Arctibax
+Dragon/Ice
+HP:90
+Atk:95
+Def:66
+SpA:45
+SpD:65
+Spe:62

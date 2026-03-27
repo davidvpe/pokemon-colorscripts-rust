@@ -1,0 +1,9 @@
+#705
+Sliggoo
+Dragon
+HP:68
+Atk:75
+Def:53
+SpA:83
+SpD:113
+Spe:60

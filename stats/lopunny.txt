@@ -1,0 +1,9 @@
+#428
+Lopunny
+Normal
+HP:65
+Atk:76
+Def:84
+SpA:54
+SpD:96
+Spe:105

@@ -1,0 +1,9 @@
+#250
+Ho-oh
+Fire/Flying
+HP:106
+Atk:130
+Def:90
+SpA:110
+SpD:154
+Spe:90

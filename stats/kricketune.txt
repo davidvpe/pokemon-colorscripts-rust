@@ -1,0 +1,9 @@
+#402
+Kricketune
+Bug
+HP:77
+Atk:85
+Def:51
+SpA:55
+SpD:51
+Spe:65

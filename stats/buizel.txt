@@ -1,0 +1,9 @@
+#418
+Buizel
+Water
+HP:55
+Atk:65
+Def:35
+SpA:60
+SpD:30
+Spe:85

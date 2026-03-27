@@ -1,0 +1,9 @@
+#174
+Igglybuff
+Normal/Fairy
+HP:90
+Atk:30
+Def:15
+SpA:40
+SpD:20
+Spe:15

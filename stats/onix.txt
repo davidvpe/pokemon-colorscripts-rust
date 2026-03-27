@@ -1,0 +1,9 @@
+#095
+Onix
+Rock/Ground
+HP:35
+Atk:45
+Def:160
+SpA:30
+SpD:45
+Spe:70

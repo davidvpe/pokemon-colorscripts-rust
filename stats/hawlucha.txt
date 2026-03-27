@@ -1,0 +1,9 @@
+#701
+Hawlucha
+Fighting/Flying
+HP:78
+Atk:92
+Def:75
+SpA:74
+SpD:63
+Spe:118

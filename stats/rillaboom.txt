@@ -1,0 +1,9 @@
+#812
+Rillaboom
+Grass
+HP:100
+Atk:125
+Def:90
+SpA:60
+SpD:70
+Spe:85

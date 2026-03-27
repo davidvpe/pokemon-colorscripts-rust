@@ -1,0 +1,9 @@
+#205
+Forretress
+Bug/Steel
+HP:75
+Atk:90
+Def:140
+SpA:60
+SpD:60
+Spe:40

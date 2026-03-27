@@ -1,0 +1,9 @@
+#697
+Tyrantrum
+Rock/Dragon
+HP:82
+Atk:121
+Def:119
+SpA:69
+SpD:59
+Spe:71

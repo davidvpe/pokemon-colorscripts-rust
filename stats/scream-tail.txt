@@ -1,0 +1,9 @@
+#985
+Scream Tail
+Fairy/Psychic
+HP:115
+Atk:65
+Def:99
+SpA:65
+SpD:115
+Spe:111

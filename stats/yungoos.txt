@@ -1,0 +1,9 @@
+#734
+Yungoos
+Normal
+HP:48
+Atk:70
+Def:30
+SpA:30
+SpD:30
+Spe:45

@@ -1,0 +1,9 @@
+#576
+Gothitelle
+Psychic
+HP:70
+Atk:55
+Def:95
+SpA:95
+SpD:110
+Spe:65

@@ -1,0 +1,9 @@
+#788
+Tapu Fini
+Water/Fairy
+HP:70
+Atk:75
+Def:115
+SpA:95
+SpD:130
+Spe:85

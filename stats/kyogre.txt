@@ -1,0 +1,9 @@
+#382
+Kyogre
+Water
+HP:100
+Atk:100
+Def:90
+SpA:150
+SpD:140
+Spe:90

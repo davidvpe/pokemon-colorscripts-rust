@@ -1,0 +1,9 @@
+#299
+Nosepass
+Rock
+HP:30
+Atk:45
+Def:135
+SpA:45
+SpD:90
+Spe:30

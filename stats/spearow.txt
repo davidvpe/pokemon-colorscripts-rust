@@ -1,0 +1,9 @@
+#021
+Spearow
+Normal/Flying
+HP:40
+Atk:60
+Def:30
+SpA:31
+SpD:31
+Spe:70

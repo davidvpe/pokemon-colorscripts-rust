@@ -1,0 +1,9 @@
+#605
+Elgyem
+Psychic
+HP:55
+Atk:55
+Def:55
+SpA:85
+SpD:55
+Spe:30

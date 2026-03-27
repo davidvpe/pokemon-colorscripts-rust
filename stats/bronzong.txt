@@ -1,0 +1,9 @@
+#437
+Bronzong
+Steel/Psychic
+HP:67
+Atk:89
+Def:116
+SpA:79
+SpD:116
+Spe:33

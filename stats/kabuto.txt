@@ -1,0 +1,9 @@
+#140
+Kabuto
+Rock/Water
+HP:30
+Atk:80
+Def:90
+SpA:55
+SpD:45
+Spe:55

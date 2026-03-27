@@ -1,0 +1,9 @@
+#018
+Pidgeot
+Normal/Flying
+HP:83
+Atk:80
+Def:75
+SpA:70
+SpD:70
+Spe:101

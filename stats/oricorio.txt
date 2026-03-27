@@ -1,0 +1,9 @@
+#741
+Oricorio
+Fire/Flying
+HP:75
+Atk:70
+Def:70
+SpA:98
+SpD:70
+Spe:93

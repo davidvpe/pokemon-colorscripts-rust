@@ -1,0 +1,9 @@
+#885
+Dreepy
+Dragon/Ghost
+HP:28
+Atk:60
+Def:30
+SpA:40
+SpD:30
+Spe:82

@@ -1,0 +1,9 @@
+#625
+Bisharp
+Dark/Steel
+HP:65
+Atk:125
+Def:100
+SpA:60
+SpD:70
+Spe:70

@@ -1,0 +1,9 @@
+#669
+Flabébé
+Fairy
+HP:44
+Atk:38
+Def:39
+SpA:61
+SpD:79
+Spe:42

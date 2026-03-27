@@ -1,0 +1,9 @@
+#522
+Blitzle
+Electric
+HP:45
+Atk:60
+Def:32
+SpA:50
+SpD:32
+Spe:76

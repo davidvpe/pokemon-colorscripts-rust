@@ -1,0 +1,9 @@
+#307
+Meditite
+Fighting/Psychic
+HP:30
+Atk:40
+Def:55
+SpA:40
+SpD:55
+Spe:60

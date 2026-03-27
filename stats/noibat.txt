@@ -1,0 +1,9 @@
+#714
+Noibat
+Flying/Dragon
+HP:40
+Atk:30
+Def:35
+SpA:45
+SpD:40
+Spe:55

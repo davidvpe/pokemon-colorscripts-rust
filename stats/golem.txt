@@ -1,0 +1,9 @@
+#076
+Golem
+Rock/Ground
+HP:80
+Atk:120
+Def:130
+SpA:55
+SpD:65
+Spe:45

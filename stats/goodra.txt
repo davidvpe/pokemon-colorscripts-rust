@@ -1,0 +1,9 @@
+#706
+Goodra
+Dragon
+HP:90
+Atk:100
+Def:70
+SpA:110
+SpD:150
+Spe:80

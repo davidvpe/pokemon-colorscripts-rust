@@ -1,0 +1,9 @@
+#044
+Gloom
+Grass/Poison
+HP:60
+Atk:65
+Def:70
+SpA:85
+SpD:75
+Spe:40

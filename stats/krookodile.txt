@@ -1,0 +1,9 @@
+#553
+Krookodile
+Ground/Dark
+HP:95
+Atk:117
+Def:80
+SpA:65
+SpD:70
+Spe:92

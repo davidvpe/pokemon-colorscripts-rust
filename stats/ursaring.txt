@@ -1,0 +1,9 @@
+#217
+Ursaring
+Normal
+HP:90
+Atk:130
+Def:75
+SpA:75
+SpD:75
+Spe:55

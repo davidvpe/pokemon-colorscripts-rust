@@ -1,0 +1,9 @@
+#422
+Shellos
+Water
+HP:76
+Atk:48
+Def:48
+SpA:57
+SpD:62
+Spe:34

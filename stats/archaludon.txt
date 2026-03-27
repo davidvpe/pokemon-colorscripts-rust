@@ -1,0 +1,9 @@
+#1018
+Archaludon
+Steel/Dragon
+HP:90
+Atk:105
+Def:130
+SpA:125
+SpD:65
+Spe:85

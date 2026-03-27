@@ -1,0 +1,9 @@
+#814
+Raboot
+Fire
+HP:65
+Atk:86
+Def:60
+SpA:55
+SpD:60
+Spe:94

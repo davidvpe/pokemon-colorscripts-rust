@@ -1,0 +1,9 @@
+#830
+Eldegoss
+Grass
+HP:60
+Atk:50
+Def:90
+SpA:80
+SpD:120
+Spe:60

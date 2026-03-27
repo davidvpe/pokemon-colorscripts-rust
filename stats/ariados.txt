@@ -1,0 +1,9 @@
+#168
+Ariados
+Bug/Poison
+HP:70
+Atk:90
+Def:70
+SpA:60
+SpD:70
+Spe:40

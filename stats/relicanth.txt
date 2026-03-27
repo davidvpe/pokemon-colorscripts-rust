@@ -1,0 +1,9 @@
+#369
+Relicanth
+Water/Rock
+HP:100
+Atk:90
+Def:130
+SpA:45
+SpD:65
+Spe:55

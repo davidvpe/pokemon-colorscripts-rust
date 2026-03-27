@@ -1,0 +1,9 @@
+#727
+Incineroar
+Fire/Dark
+HP:95
+Atk:115
+Def:90
+SpA:80
+SpD:90
+Spe:60

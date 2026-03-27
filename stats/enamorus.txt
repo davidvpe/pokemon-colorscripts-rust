@@ -1,0 +1,9 @@
+#905
+Enamorus
+Fairy/Flying
+HP:74
+Atk:115
+Def:70
+SpA:135
+SpD:80
+Spe:106

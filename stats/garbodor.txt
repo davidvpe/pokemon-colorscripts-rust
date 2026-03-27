@@ -1,0 +1,9 @@
+#569
+Garbodor
+Poison
+HP:80
+Atk:95
+Def:82
+SpA:60
+SpD:82
+Spe:75

@@ -1,0 +1,9 @@
+#397
+Staravia
+Normal/Flying
+HP:55
+Atk:75
+Def:50
+SpA:40
+SpD:40
+Spe:80

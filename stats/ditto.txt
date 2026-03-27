@@ -1,0 +1,9 @@
+#132
+Ditto
+Normal
+HP:48
+Atk:48
+Def:48
+SpA:48
+SpD:48
+Spe:48

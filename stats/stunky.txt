@@ -1,0 +1,9 @@
+#434
+Stunky
+Poison/Dark
+HP:63
+Atk:63
+Def:47
+SpA:41
+SpD:41
+Spe:74

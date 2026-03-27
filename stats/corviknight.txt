@@ -1,0 +1,9 @@
+#823
+Corviknight
+Flying/Steel
+HP:98
+Atk:87
+Def:105
+SpA:53
+SpD:85
+Spe:67

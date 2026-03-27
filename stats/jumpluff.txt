@@ -1,0 +1,9 @@
+#189
+Jumpluff
+Grass/Flying
+HP:75
+Atk:55
+Def:70
+SpA:55
+SpD:95
+Spe:110

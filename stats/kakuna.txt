@@ -1,0 +1,9 @@
+#014
+Kakuna
+Bug/Poison
+HP:45
+Atk:25
+Def:50
+SpA:25
+SpD:25
+Spe:35

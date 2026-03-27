@@ -1,0 +1,9 @@
+#603
+Eelektrik
+Electric
+HP:65
+Atk:85
+Def:70
+SpA:75
+SpD:70
+Spe:40

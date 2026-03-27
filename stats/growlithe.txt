@@ -1,0 +1,9 @@
+#058
+Growlithe
+Fire
+HP:55
+Atk:70
+Def:45
+SpA:70
+SpD:50
+Spe:60

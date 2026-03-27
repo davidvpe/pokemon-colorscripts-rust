@@ -1,0 +1,9 @@
+#043
+Oddish
+Grass/Poison
+HP:45
+Atk:50
+Def:55
+SpA:75
+SpD:65
+Spe:30

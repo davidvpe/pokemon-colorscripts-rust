@@ -1,0 +1,9 @@
+#094
+Gengar
+Ghost/Poison
+HP:60
+Atk:65
+Def:60
+SpA:130
+SpD:75
+Spe:110

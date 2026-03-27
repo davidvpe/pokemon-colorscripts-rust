@@ -1,0 +1,9 @@
+#155
+Cyndaquil
+Fire
+HP:39
+Atk:52
+Def:43
+SpA:60
+SpD:50
+Spe:65

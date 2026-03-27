@@ -1,0 +1,9 @@
+#711
+Gourgeist
+Ghost/Grass
+HP:65
+Atk:90
+Def:122
+SpA:58
+SpD:75
+Spe:84

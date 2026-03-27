@@ -1,0 +1,9 @@
+#497
+Serperior
+Grass
+HP:75
+Atk:75
+Def:95
+SpA:75
+SpD:95
+Spe:113

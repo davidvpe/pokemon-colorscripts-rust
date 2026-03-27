@@ -1,0 +1,9 @@
+#860
+Morgrem
+Dark/Fairy
+HP:65
+Atk:60
+Def:45
+SpA:75
+SpD:55
+Spe:70

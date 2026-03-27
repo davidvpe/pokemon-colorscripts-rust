@@ -1,0 +1,9 @@
+#843
+Silicobra
+Ground
+HP:52
+Atk:57
+Def:75
+SpA:35
+SpD:50
+Spe:46

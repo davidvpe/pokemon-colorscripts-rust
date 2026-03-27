@@ -1,0 +1,9 @@
+#515
+Panpour
+Water
+HP:50
+Atk:53
+Def:48
+SpA:53
+SpD:48
+Spe:64

@@ -1,0 +1,9 @@
+#202
+Wobbuffet
+Psychic
+HP:190
+Atk:33
+Def:58
+SpA:33
+SpD:58
+Spe:33

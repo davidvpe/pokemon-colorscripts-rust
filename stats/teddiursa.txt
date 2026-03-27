@@ -1,0 +1,9 @@
+#216
+Teddiursa
+Normal
+HP:60
+Atk:80
+Def:50
+SpA:50
+SpD:50
+Spe:40

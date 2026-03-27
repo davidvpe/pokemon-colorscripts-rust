@@ -1,0 +1,9 @@
+#536
+Palpitoad
+Water/Ground
+HP:75
+Atk:65
+Def:55
+SpA:65
+SpD:55
+Spe:69

@@ -1,0 +1,9 @@
+#699
+Aurorus
+Rock/Ice
+HP:123
+Atk:77
+Def:72
+SpA:99
+SpD:92
+Spe:58

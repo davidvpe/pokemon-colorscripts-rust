@@ -1,0 +1,9 @@
+#496
+Servine
+Grass
+HP:60
+Atk:60
+Def:75
+SpA:60
+SpD:75
+Spe:83

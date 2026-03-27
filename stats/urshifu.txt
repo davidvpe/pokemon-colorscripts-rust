@@ -1,0 +1,9 @@
+#892
+Urshifu
+Fighting/Dark
+HP:100
+Atk:130
+Def:100
+SpA:63
+SpD:60
+Spe:97

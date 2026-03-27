@@ -1,0 +1,9 @@
+#128
+Tauros
+Normal
+HP:75
+Atk:100
+Def:95
+SpA:40
+SpD:70
+Spe:110

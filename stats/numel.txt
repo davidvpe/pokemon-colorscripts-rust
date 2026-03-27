@@ -1,0 +1,9 @@
+#322
+Numel
+Fire/Ground
+HP:60
+Atk:60
+Def:40
+SpA:65
+SpD:45
+Spe:35

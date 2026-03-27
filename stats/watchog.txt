@@ -1,0 +1,9 @@
+#505
+Watchog
+Normal
+HP:60
+Atk:85
+Def:69
+SpA:60
+SpD:69
+Spe:77

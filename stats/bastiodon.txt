@@ -1,0 +1,9 @@
+#411
+Bastiodon
+Rock/Steel
+HP:60
+Atk:52
+Def:168
+SpA:47
+SpD:138
+Spe:30

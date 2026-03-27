@@ -1,0 +1,9 @@
+#270
+Lotad
+Water/Grass
+HP:40
+Atk:30
+Def:30
+SpA:40
+SpD:50
+Spe:30

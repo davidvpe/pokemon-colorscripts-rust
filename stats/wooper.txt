@@ -1,0 +1,9 @@
+#194
+Wooper
+Water/Ground
+HP:55
+Atk:45
+Def:45
+SpA:25
+SpD:25
+Spe:15

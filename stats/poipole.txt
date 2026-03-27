@@ -1,0 +1,9 @@
+#803
+Poipole
+Poison
+HP:67
+Atk:73
+Def:67
+SpA:73
+SpD:67
+Spe:73

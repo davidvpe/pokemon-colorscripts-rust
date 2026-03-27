@@ -1,0 +1,9 @@
+#927
+Dachsbun
+Fairy
+HP:57
+Atk:80
+Def:115
+SpA:50
+SpD:80
+Spe:95

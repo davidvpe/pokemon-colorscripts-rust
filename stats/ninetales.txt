@@ -1,0 +1,9 @@
+#038
+Ninetales
+Fire
+HP:73
+Atk:76
+Def:75
+SpA:81
+SpD:100
+Spe:100

@@ -1,0 +1,9 @@
+#041
+Zubat
+Poison/Flying
+HP:40
+Atk:45
+Def:35
+SpA:30
+SpD:40
+Spe:55

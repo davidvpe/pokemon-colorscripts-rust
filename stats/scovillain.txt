@@ -1,0 +1,9 @@
+#952
+Scovillain
+Grass/Fire
+HP:65
+Atk:108
+Def:65
+SpA:108
+SpD:65
+Spe:75

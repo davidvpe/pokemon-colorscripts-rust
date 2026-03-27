@@ -1,0 +1,9 @@
+#683
+Aromatisse
+Fairy
+HP:101
+Atk:72
+Def:72
+SpA:99
+SpD:89
+Spe:29

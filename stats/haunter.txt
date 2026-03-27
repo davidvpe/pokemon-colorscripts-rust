@@ -1,0 +1,9 @@
+#093
+Haunter
+Ghost/Poison
+HP:45
+Atk:50
+Def:45
+SpA:115
+SpD:55
+Spe:95

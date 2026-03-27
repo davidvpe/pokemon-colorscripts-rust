@@ -1,0 +1,9 @@
+#633
+Deino
+Dark/Dragon
+HP:52
+Atk:65
+Def:50
+SpA:45
+SpD:50
+Spe:38

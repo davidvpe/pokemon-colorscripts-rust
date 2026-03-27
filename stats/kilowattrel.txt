@@ -1,0 +1,9 @@
+#941
+Kilowattrel
+Electric/Flying
+HP:70
+Atk:70
+Def:60
+SpA:105
+SpD:60
+Spe:125

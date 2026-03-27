@@ -1,0 +1,9 @@
+#039
+Jigglypuff
+Normal/Fairy
+HP:115
+Atk:45
+Def:20
+SpA:45
+SpD:25
+Spe:20

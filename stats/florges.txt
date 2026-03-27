@@ -1,0 +1,9 @@
+#671
+Florges
+Fairy
+HP:78
+Atk:65
+Def:68
+SpA:112
+SpD:154
+Spe:75

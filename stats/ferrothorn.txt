@@ -1,0 +1,9 @@
+#598
+Ferrothorn
+Grass/Steel
+HP:74
+Atk:94
+Def:131
+SpA:54
+SpD:116
+Spe:20

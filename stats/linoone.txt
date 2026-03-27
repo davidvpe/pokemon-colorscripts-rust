@@ -1,0 +1,9 @@
+#264
+Linoone
+Normal
+HP:78
+Atk:70
+Def:61
+SpA:50
+SpD:61
+Spe:100

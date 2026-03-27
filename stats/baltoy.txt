@@ -1,0 +1,9 @@
+#343
+Baltoy
+Ground/Psychic
+HP:40
+Atk:40
+Def:55
+SpA:40
+SpD:70
+Spe:55

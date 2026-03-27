@@ -1,0 +1,9 @@
+#523
+Zebstrika
+Electric
+HP:75
+Atk:100
+Def:63
+SpA:80
+SpD:63
+Spe:116

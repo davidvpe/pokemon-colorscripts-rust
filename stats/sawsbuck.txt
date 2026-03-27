@@ -1,0 +1,9 @@
+#586
+Sawsbuck
+Normal/Grass
+HP:80
+Atk:100
+Def:70
+SpA:60
+SpD:70
+Spe:95

@@ -1,0 +1,9 @@
+#696
+Tyrunt
+Rock/Dragon
+HP:58
+Atk:89
+Def:77
+SpA:45
+SpD:45
+Spe:48

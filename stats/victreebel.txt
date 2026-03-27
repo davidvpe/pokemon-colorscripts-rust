@@ -1,0 +1,9 @@
+#071
+Victreebel
+Grass/Poison
+HP:80
+Atk:105
+Def:65
+SpA:100
+SpD:70
+Spe:70

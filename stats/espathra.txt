@@ -1,0 +1,9 @@
+#956
+Espathra
+Psychic
+HP:95
+Atk:60
+Def:60
+SpA:101
+SpD:60
+Spe:105

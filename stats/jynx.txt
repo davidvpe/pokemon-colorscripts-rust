@@ -1,0 +1,9 @@
+#124
+Jynx
+Ice/Psychic
+HP:65
+Atk:50
+Def:35
+SpA:115
+SpD:95
+Spe:95

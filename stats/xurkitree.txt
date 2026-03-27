@@ -1,0 +1,9 @@
+#796
+Xurkitree
+Electric
+HP:83
+Atk:89
+Def:71
+SpA:173
+SpD:71
+Spe:83

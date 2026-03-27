@@ -1,0 +1,9 @@
+#112
+Rhydon
+Ground/Rock
+HP:105
+Atk:130
+Def:120
+SpA:45
+SpD:45
+Spe:40

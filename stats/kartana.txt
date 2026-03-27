@@ -1,0 +1,9 @@
+#798
+Kartana
+Grass/Steel
+HP:59
+Atk:181
+Def:131
+SpA:59
+SpD:31
+Spe:109

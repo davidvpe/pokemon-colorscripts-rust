@@ -1,0 +1,9 @@
+#732
+Trumbeak
+Normal/Flying
+HP:55
+Atk:85
+Def:50
+SpA:40
+SpD:50
+Spe:75

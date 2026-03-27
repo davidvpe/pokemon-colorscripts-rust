@@ -1,0 +1,9 @@
+#764
+Comfey
+Fairy
+HP:51
+Atk:52
+Def:90
+SpA:82
+SpD:110
+Spe:100

@@ -1,0 +1,9 @@
+#157
+Typhlosion
+Fire
+HP:78
+Atk:84
+Def:78
+SpA:109
+SpD:85
+Spe:100

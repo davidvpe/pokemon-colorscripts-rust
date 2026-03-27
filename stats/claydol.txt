@@ -1,0 +1,9 @@
+#344
+Claydol
+Ground/Psychic
+HP:60
+Atk:70
+Def:105
+SpA:70
+SpD:120
+Spe:75

@@ -1,0 +1,9 @@
+#413
+Wormadam
+Bug/Grass
+HP:60
+Atk:59
+Def:85
+SpA:79
+SpD:105
+Spe:36

@@ -1,0 +1,9 @@
+#833
+Chewtle
+Water
+HP:50
+Atk:64
+Def:50
+SpA:38
+SpD:38
+Spe:44

@@ -1,0 +1,9 @@
+#356
+Dusclops
+Ghost
+HP:40
+Atk:70
+Def:130
+SpA:60
+SpD:130
+Spe:25

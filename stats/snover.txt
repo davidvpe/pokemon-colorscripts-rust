@@ -1,0 +1,9 @@
+#459
+Snover
+Grass/Ice
+HP:60
+Atk:62
+Def:50
+SpA:62
+SpD:60
+Spe:40

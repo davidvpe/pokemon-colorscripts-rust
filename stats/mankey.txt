@@ -1,0 +1,9 @@
+#056
+Mankey
+Fighting
+HP:40
+Atk:80
+Def:35
+SpA:35
+SpD:45
+Spe:70

@@ -1,0 +1,9 @@
+#333
+Swablu
+Normal/Flying
+HP:45
+Atk:40
+Def:60
+SpA:40
+SpD:75
+Spe:50

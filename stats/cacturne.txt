@@ -1,0 +1,9 @@
+#332
+Cacturne
+Grass/Dark
+HP:70
+Atk:115
+Def:60
+SpA:115
+SpD:60
+Spe:55

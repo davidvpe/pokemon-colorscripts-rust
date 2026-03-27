@@ -1,0 +1,9 @@
+#248
+Tyranitar
+Rock/Dark
+HP:100
+Atk:134
+Def:110
+SpA:95
+SpD:100
+Spe:61

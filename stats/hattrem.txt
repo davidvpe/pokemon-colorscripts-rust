@@ -1,0 +1,9 @@
+#857
+Hattrem
+Psychic
+HP:57
+Atk:40
+Def:65
+SpA:86
+SpD:73
+Spe:49

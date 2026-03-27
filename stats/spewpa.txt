@@ -1,0 +1,9 @@
+#665
+Spewpa
+Bug
+HP:45
+Atk:22
+Def:60
+SpA:27
+SpD:30
+Spe:29

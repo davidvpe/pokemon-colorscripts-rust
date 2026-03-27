@@ -1,0 +1,9 @@
+#542
+Leavanny
+Bug/Grass
+HP:75
+Atk:103
+Def:80
+SpA:70
+SpD:80
+Spe:92

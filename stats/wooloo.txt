@@ -1,0 +1,9 @@
+#831
+Wooloo
+Normal
+HP:42
+Atk:40
+Def:55
+SpA:40
+SpD:45
+Spe:48

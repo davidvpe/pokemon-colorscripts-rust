@@ -1,0 +1,9 @@
+#165
+Ledyba
+Bug/Flying
+HP:40
+Atk:20
+Def:30
+SpA:40
+SpD:80
+Spe:55

@@ -1,0 +1,9 @@
+#077
+Ponyta
+Fire
+HP:50
+Atk:85
+Def:55
+SpA:65
+SpD:65
+Spe:90

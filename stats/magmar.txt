@@ -1,0 +1,9 @@
+#126
+Magmar
+Fire
+HP:65
+Atk:95
+Def:57
+SpA:100
+SpD:85
+Spe:93

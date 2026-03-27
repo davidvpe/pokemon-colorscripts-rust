@@ -1,0 +1,9 @@
+#849
+Toxtricity
+Electric/Poison
+HP:75
+Atk:98
+Def:70
+SpA:114
+SpD:70
+Spe:75

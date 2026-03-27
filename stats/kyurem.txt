@@ -1,0 +1,9 @@
+#646
+Kyurem
+Dragon/Ice
+HP:125
+Atk:130
+Def:90
+SpA:130
+SpD:90
+Spe:95

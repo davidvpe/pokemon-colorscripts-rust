@@ -1,0 +1,9 @@
+#748
+Toxapex
+Poison/Water
+HP:50
+Atk:63
+Def:152
+SpA:53
+SpD:142
+Spe:35

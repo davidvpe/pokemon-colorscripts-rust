@@ -1,0 +1,9 @@
+#063
+Abra
+Psychic
+HP:25
+Atk:20
+Def:15
+SpA:105
+SpD:55
+Spe:90

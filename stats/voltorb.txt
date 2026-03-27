@@ -1,0 +1,9 @@
+#100
+Voltorb
+Electric
+HP:40
+Atk:30
+Def:50
+SpA:55
+SpD:55
+Spe:100

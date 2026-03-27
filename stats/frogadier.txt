@@ -1,0 +1,9 @@
+#657
+Frogadier
+Water
+HP:54
+Atk:63
+Def:52
+SpA:83
+SpD:56
+Spe:97

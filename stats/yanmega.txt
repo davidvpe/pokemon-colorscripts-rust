@@ -1,0 +1,9 @@
+#469
+Yanmega
+Bug/Flying
+HP:86
+Atk:76
+Def:86
+SpA:116
+SpD:56
+Spe:95

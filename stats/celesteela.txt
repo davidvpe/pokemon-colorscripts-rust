@@ -1,0 +1,9 @@
+#797
+Celesteela
+Steel/Flying
+HP:97
+Atk:101
+Def:103
+SpA:107
+SpD:101
+Spe:61

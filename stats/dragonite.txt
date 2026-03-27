@@ -1,0 +1,9 @@
+#149
+Dragonite
+Dragon/Flying
+HP:91
+Atk:134
+Def:95
+SpA:100
+SpD:100
+Spe:80

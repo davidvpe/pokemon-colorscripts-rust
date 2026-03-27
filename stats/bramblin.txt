@@ -1,0 +1,9 @@
+#946
+Bramblin
+Grass/Ghost
+HP:40
+Atk:65
+Def:30
+SpA:45
+SpD:35
+Spe:60

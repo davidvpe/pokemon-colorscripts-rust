@@ -1,0 +1,9 @@
+#245
+Suicune
+Water
+HP:100
+Atk:75
+Def:115
+SpA:90
+SpD:115
+Spe:85

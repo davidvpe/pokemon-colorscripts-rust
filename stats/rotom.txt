@@ -1,0 +1,9 @@
+#479
+Rotom
+Electric/Ghost
+HP:50
+Atk:50
+Def:77
+SpA:95
+SpD:77
+Spe:91

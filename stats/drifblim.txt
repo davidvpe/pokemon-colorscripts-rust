@@ -1,0 +1,9 @@
+#426
+Drifblim
+Ghost/Flying
+HP:150
+Atk:80
+Def:44
+SpA:90
+SpD:54
+Spe:80

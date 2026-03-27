@@ -1,0 +1,9 @@
+#931
+Squawkabilly
+Normal/Flying
+HP:82
+Atk:96
+Def:51
+SpA:45
+SpD:51
+Spe:92

@@ -1,0 +1,9 @@
+#152
+Chikorita
+Grass
+HP:45
+Atk:49
+Def:65
+SpA:49
+SpD:65
+Spe:45

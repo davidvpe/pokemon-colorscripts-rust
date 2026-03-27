@@ -1,0 +1,9 @@
+#593
+Jellicent
+Water/Ghost
+HP:100
+Atk:60
+Def:70
+SpA:85
+SpD:105
+Spe:60

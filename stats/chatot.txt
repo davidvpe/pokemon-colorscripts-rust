@@ -1,0 +1,9 @@
+#441
+Chatot
+Normal/Flying
+HP:76
+Atk:65
+Def:45
+SpA:92
+SpD:42
+Spe:91

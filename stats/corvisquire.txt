@@ -1,0 +1,9 @@
+#822
+Corvisquire
+Flying
+HP:68
+Atk:67
+Def:55
+SpA:43
+SpD:55
+Spe:77

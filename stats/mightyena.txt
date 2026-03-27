@@ -1,0 +1,9 @@
+#262
+Mightyena
+Dark
+HP:70
+Atk:90
+Def:70
+SpA:60
+SpD:60
+Spe:70

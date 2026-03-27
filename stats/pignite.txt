@@ -1,0 +1,9 @@
+#499
+Pignite
+Fire/Fighting
+HP:90
+Atk:93
+Def:55
+SpA:70
+SpD:55
+Spe:55

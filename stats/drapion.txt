@@ -1,0 +1,9 @@
+#452
+Drapion
+Poison/Dark
+HP:70
+Atk:90
+Def:110
+SpA:60
+SpD:75
+Spe:95

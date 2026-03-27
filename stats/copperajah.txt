@@ -1,0 +1,9 @@
+#879
+Copperajah
+Steel
+HP:122
+Atk:130
+Def:69
+SpA:80
+SpD:69
+Spe:30

@@ -1,0 +1,9 @@
+#805
+Stakataka
+Rock/Steel
+HP:61
+Atk:131
+Def:211
+SpA:53
+SpD:101
+Spe:13

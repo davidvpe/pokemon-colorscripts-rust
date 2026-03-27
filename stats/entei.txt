@@ -1,0 +1,9 @@
+#244
+Entei
+Fire
+HP:115
+Atk:115
+Def:85
+SpA:90
+SpD:75
+Spe:100

@@ -1,0 +1,9 @@
+#342
+Crawdaunt
+Water/Dark
+HP:63
+Atk:120
+Def:85
+SpA:90
+SpD:55
+Spe:55

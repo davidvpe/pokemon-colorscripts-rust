@@ -1,0 +1,9 @@
+#735
+Gumshoos
+Normal
+HP:88
+Atk:110
+Def:60
+SpA:55
+SpD:60
+Spe:45

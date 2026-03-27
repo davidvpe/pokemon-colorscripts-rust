@@ -1,0 +1,9 @@
+#790
+Cosmoem
+Psychic
+HP:43
+Atk:29
+Def:131
+SpA:29
+SpD:131
+Spe:37

@@ -1,0 +1,9 @@
+#595
+Joltik
+Bug/Electric
+HP:50
+Atk:47
+Def:50
+SpA:57
+SpD:50
+Spe:65

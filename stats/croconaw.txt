@@ -1,0 +1,9 @@
+#159
+Croconaw
+Water
+HP:65
+Atk:80
+Def:80
+SpA:59
+SpD:63
+Spe:58

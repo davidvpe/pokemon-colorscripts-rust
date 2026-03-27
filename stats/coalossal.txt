@@ -1,0 +1,9 @@
+#839
+Coalossal
+Rock/Fire
+HP:110
+Atk:80
+Def:120
+SpA:80
+SpD:90
+Spe:30

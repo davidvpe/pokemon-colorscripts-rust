@@ -1,0 +1,9 @@
+#550
+Basculin
+Water
+HP:70
+Atk:92
+Def:65
+SpA:80
+SpD:55
+Spe:98

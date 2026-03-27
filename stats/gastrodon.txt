@@ -1,0 +1,9 @@
+#423
+Gastrodon
+Water/Ground
+HP:111
+Atk:83
+Def:68
+SpA:92
+SpD:82
+Spe:39

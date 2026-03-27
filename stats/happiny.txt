@@ -1,0 +1,9 @@
+#440
+Happiny
+Normal
+HP:100
+Atk:5
+Def:5
+SpA:15
+SpD:65
+Spe:30

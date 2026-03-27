@@ -1,0 +1,9 @@
+#775
+Komala
+Normal
+HP:65
+Atk:115
+Def:65
+SpA:75
+SpD:95
+Spe:65

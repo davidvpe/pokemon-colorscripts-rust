@@ -1,0 +1,9 @@
+#287
+Slakoth
+Normal
+HP:60
+Atk:60
+Def:60
+SpA:35
+SpD:35
+Spe:30

@@ -1,0 +1,9 @@
+#638
+Cobalion
+Steel/Fighting
+HP:91
+Atk:90
+Def:129
+SpA:90
+SpD:72
+Spe:108

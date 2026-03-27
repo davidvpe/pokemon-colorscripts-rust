@@ -1,0 +1,9 @@
+#285
+Shroomish
+Grass
+HP:60
+Atk:40
+Def:60
+SpA:40
+SpD:60
+Spe:35

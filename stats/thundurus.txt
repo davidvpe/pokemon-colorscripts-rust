@@ -1,0 +1,9 @@
+#642
+Thundurus
+Electric/Flying
+HP:79
+Atk:115
+Def:70
+SpA:125
+SpD:80
+Spe:111

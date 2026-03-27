@@ -1,0 +1,9 @@
+#575
+Gothorita
+Psychic
+HP:60
+Atk:45
+Def:70
+SpA:75
+SpD:85
+Spe:55

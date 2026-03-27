@@ -1,0 +1,9 @@
+#078
+Rapidash
+Fire
+HP:65
+Atk:100
+Def:70
+SpA:80
+SpD:80
+Spe:105

@@ -1,0 +1,9 @@
+#929
+Dolliv
+Grass/Normal
+HP:52
+Atk:53
+Def:60
+SpA:78
+SpD:78
+Spe:33

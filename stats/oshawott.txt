@@ -1,0 +1,9 @@
+#501
+Oshawott
+Water
+HP:55
+Atk:55
+Def:45
+SpA:63
+SpD:45
+Spe:45

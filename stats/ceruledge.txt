@@ -1,0 +1,9 @@
+#937
+Ceruledge
+Fire/Ghost
+HP:75
+Atk:125
+Def:80
+SpA:60
+SpD:100
+Spe:85

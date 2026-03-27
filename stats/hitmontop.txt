@@ -1,0 +1,9 @@
+#237
+Hitmontop
+Fighting
+HP:50
+Atk:95
+Def:95
+SpA:35
+SpD:110
+Spe:70

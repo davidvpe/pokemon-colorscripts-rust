@@ -1,0 +1,9 @@
+#211
+Qwilfish
+Water/Poison
+HP:65
+Atk:95
+Def:85
+SpA:55
+SpD:55
+Spe:85

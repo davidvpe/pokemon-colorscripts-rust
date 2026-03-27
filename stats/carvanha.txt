@@ -1,0 +1,9 @@
+#318
+Carvanha
+Water/Dark
+HP:45
+Atk:90
+Def:20
+SpA:65
+SpD:20
+Spe:65

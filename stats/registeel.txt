@@ -1,0 +1,9 @@
+#379
+Registeel
+Steel
+HP:80
+Atk:75
+Def:150
+SpA:75
+SpD:150
+Spe:50

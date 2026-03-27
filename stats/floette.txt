@@ -1,0 +1,9 @@
+#670
+Floette
+Fairy
+HP:54
+Atk:45
+Def:47
+SpA:75
+SpD:98
+Spe:52

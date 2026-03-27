@@ -1,0 +1,9 @@
+#480
+Uxie
+Psychic
+HP:75
+Atk:75
+Def:130
+SpA:75
+SpD:130
+Spe:95

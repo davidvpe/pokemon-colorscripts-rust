@@ -1,0 +1,9 @@
+#190
+Aipom
+Normal
+HP:55
+Atk:70
+Def:55
+SpA:40
+SpD:55
+Spe:85

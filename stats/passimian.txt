@@ -1,0 +1,9 @@
+#766
+Passimian
+Fighting
+HP:100
+Atk:120
+Def:90
+SpA:40
+SpD:60
+Spe:80

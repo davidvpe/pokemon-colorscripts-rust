@@ -1,0 +1,9 @@
+#352
+Kecleon
+Normal
+HP:60
+Atk:90
+Def:70
+SpA:60
+SpD:120
+Spe:40

@@ -1,0 +1,9 @@
+#399
+Bidoof
+Normal
+HP:59
+Atk:45
+Def:40
+SpA:35
+SpD:40
+Spe:31

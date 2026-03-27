@@ -1,0 +1,9 @@
+#893
+Zarude
+Dark/Grass
+HP:105
+Atk:120
+Def:105
+SpA:70
+SpD:95
+Spe:105

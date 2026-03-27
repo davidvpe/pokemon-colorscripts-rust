@@ -1,0 +1,9 @@
+#806
+Blacephalon
+Fire/Ghost
+HP:53
+Atk:127
+Def:53
+SpA:151
+SpD:79
+Spe:107

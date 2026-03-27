@@ -1,0 +1,9 @@
+#108
+Lickitung
+Normal
+HP:90
+Atk:55
+Def:75
+SpA:60
+SpD:75
+Spe:30

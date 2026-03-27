@@ -1,0 +1,9 @@
+#374
+Beldum
+Steel/Psychic
+HP:40
+Atk:55
+Def:80
+SpA:35
+SpD:60
+Spe:30

@@ -1,0 +1,9 @@
+#897
+Spectrier
+Ghost
+HP:100
+Atk:65
+Def:60
+SpA:145
+SpD:80
+Spe:130

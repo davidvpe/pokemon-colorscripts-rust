@@ -1,0 +1,9 @@
+#406
+Budew
+Grass/Poison
+HP:40
+Atk:30
+Def:35
+SpA:50
+SpD:70
+Spe:55

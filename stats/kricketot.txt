@@ -1,0 +1,9 @@
+#401
+Kricketot
+Bug
+HP:37
+Atk:25
+Def:41
+SpA:25
+SpD:41
+Spe:25

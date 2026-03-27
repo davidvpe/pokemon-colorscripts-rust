@@ -1,0 +1,9 @@
+#967
+Cyclizar
+Dragon/Normal
+HP:70
+Atk:95
+Def:65
+SpA:85
+SpD:65
+Spe:121

@@ -1,0 +1,9 @@
+#610
+Axew
+Dragon
+HP:46
+Atk:87
+Def:60
+SpA:30
+SpD:40
+Spe:57

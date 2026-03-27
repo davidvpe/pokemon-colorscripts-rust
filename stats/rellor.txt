@@ -1,0 +1,9 @@
+#953
+Rellor
+Bug
+HP:41
+Atk:50
+Def:60
+SpA:31
+SpD:58
+Spe:30

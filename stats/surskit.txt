@@ -1,0 +1,9 @@
+#283
+Surskit
+Bug/Water
+HP:40
+Atk:30
+Def:32
+SpA:50
+SpD:52
+Spe:65

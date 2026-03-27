@@ -1,0 +1,9 @@
+#466
+Electivire
+Electric
+HP:75
+Atk:123
+Def:67
+SpA:95
+SpD:85
+Spe:95

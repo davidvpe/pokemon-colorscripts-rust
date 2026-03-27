@@ -1,0 +1,9 @@
+#138
+Omanyte
+Rock/Water
+HP:35
+Atk:40
+Def:100
+SpA:90
+SpD:55
+Spe:35

@@ -1,0 +1,9 @@
+#390
+Chimchar
+Fire
+HP:44
+Atk:58
+Def:44
+SpA:58
+SpD:44
+Spe:61

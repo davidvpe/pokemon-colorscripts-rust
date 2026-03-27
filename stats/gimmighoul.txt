@@ -1,0 +1,9 @@
+#999
+Gimmighoul
+Ghost
+HP:45
+Atk:30
+Def:70
+SpA:75
+SpD:70
+Spe:10

@@ -1,0 +1,9 @@
+#090
+Shellder
+Water
+HP:30
+Atk:65
+Def:100
+SpA:45
+SpD:25
+Spe:40

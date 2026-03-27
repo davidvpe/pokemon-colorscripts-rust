@@ -1,0 +1,9 @@
+#353
+Shuppet
+Ghost
+HP:44
+Atk:75
+Def:35
+SpA:63
+SpD:33
+Spe:45

@@ -1,0 +1,9 @@
+#1016
+Fezandipiti
+Poison/Fairy
+HP:88
+Atk:91
+Def:82
+SpA:70
+SpD:125
+Spe:99

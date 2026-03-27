@@ -1,0 +1,9 @@
+#448
+Lucario
+Fighting/Steel
+HP:70
+Atk:110
+Def:70
+SpA:115
+SpD:70
+Spe:90

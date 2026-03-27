@@ -1,0 +1,9 @@
+#089
+Muk
+Poison
+HP:105
+Atk:105
+Def:75
+SpA:65
+SpD:100
+Spe:50

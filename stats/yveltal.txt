@@ -1,0 +1,9 @@
+#717
+Yveltal
+Dark/Flying
+HP:126
+Atk:131
+Def:95
+SpA:131
+SpD:98
+Spe:99

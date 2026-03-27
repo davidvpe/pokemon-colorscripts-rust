@@ -1,0 +1,9 @@
+#533
+Gurdurr
+Fighting
+HP:85
+Atk:105
+Def:85
+SpA:40
+SpD:50
+Spe:40

@@ -1,0 +1,9 @@
+#930
+Arboliva
+Grass/Normal
+HP:78
+Atk:69
+Def:90
+SpA:125
+SpD:109
+Spe:39

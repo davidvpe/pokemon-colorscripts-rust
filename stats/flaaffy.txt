@@ -1,0 +1,9 @@
+#180
+Flaaffy
+Electric
+HP:70
+Atk:55
+Def:55
+SpA:80
+SpD:60
+Spe:45

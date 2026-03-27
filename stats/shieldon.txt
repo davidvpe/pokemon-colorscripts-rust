@@ -1,0 +1,9 @@
+#410
+Shieldon
+Rock/Steel
+HP:30
+Atk:42
+Def:118
+SpA:42
+SpD:88
+Spe:30

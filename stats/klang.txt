@@ -1,0 +1,9 @@
+#600
+Klang
+Steel
+HP:60
+Atk:80
+Def:95
+SpA:70
+SpD:85
+Spe:50

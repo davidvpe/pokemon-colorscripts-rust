@@ -1,0 +1,9 @@
+#684
+Swirlix
+Fairy
+HP:62
+Atk:48
+Def:66
+SpA:59
+SpD:57
+Spe:49

@@ -1,0 +1,9 @@
+#693
+Clawitzer
+Water
+HP:71
+Atk:73
+Def:88
+SpA:120
+SpD:89
+Spe:59

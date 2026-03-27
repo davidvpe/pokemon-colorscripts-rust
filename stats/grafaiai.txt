@@ -1,0 +1,9 @@
+#945
+Grafaiai
+Poison/Normal
+HP:63
+Atk:95
+Def:65
+SpA:80
+SpD:72
+Spe:110

@@ -1,0 +1,9 @@
+#055
+Golduck
+Water
+HP:80
+Atk:82
+Def:78
+SpA:95
+SpD:80
+Spe:85

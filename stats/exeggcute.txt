@@ -1,0 +1,9 @@
+#102
+Exeggcute
+Grass/Psychic
+HP:60
+Atk:40
+Def:80
+SpA:60
+SpD:45
+Spe:40

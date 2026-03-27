@@ -1,0 +1,9 @@
+#875
+Eiscue
+Ice
+HP:75
+Atk:80
+Def:110
+SpA:65
+SpD:90
+Spe:50

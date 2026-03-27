@@ -1,0 +1,9 @@
+#372
+Shelgon
+Dragon
+HP:65
+Atk:95
+Def:100
+SpA:60
+SpD:50
+Spe:50

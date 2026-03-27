@@ -1,0 +1,9 @@
+#692
+Clauncher
+Water
+HP:50
+Atk:53
+Def:62
+SpA:58
+SpD:63
+Spe:44

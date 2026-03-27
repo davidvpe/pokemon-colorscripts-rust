@@ -1,0 +1,9 @@
+#987
+Flutter Mane
+Ghost/Fairy
+HP:55
+Atk:55
+Def:55
+SpA:135
+SpD:135
+Spe:135

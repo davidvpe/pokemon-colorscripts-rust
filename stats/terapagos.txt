@@ -1,0 +1,9 @@
+#1024
+Terapagos
+Normal
+HP:90
+Atk:65
+Def:85
+SpA:65
+SpD:85
+Spe:60

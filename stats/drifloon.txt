@@ -1,0 +1,9 @@
+#425
+Drifloon
+Ghost/Flying
+HP:90
+Atk:50
+Def:34
+SpA:60
+SpD:44
+Spe:70

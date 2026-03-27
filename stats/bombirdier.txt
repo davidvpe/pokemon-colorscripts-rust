@@ -1,0 +1,9 @@
+#962
+Bombirdier
+Flying/Dark
+HP:70
+Atk:103
+Def:85
+SpA:60
+SpD:85
+Spe:82

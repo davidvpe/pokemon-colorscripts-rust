@@ -1,0 +1,9 @@
+#720
+Hoopa
+Psychic/Ghost
+HP:80
+Atk:110
+Def:60
+SpA:150
+SpD:130
+Spe:70

@@ -1,0 +1,9 @@
+#940
+Wattrel
+Electric/Flying
+HP:40
+Atk:40
+Def:35
+SpA:55
+SpD:40
+Spe:70

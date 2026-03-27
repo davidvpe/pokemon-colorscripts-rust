@@ -1,0 +1,9 @@
+#621
+Druddigon
+Dragon
+HP:77
+Atk:120
+Def:90
+SpA:60
+SpD:90
+Spe:48

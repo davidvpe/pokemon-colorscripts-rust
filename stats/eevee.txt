@@ -1,0 +1,9 @@
+#133
+Eevee
+Normal
+HP:55
+Atk:55
+Def:50
+SpA:45
+SpD:65
+Spe:55

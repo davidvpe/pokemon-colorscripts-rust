@@ -1,0 +1,9 @@
+#084
+Doduo
+Normal/Flying
+HP:35
+Atk:85
+Def:45
+SpA:35
+SpD:35
+Spe:75

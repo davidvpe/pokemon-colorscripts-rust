@@ -1,0 +1,9 @@
+#950
+Klawf
+Rock
+HP:70
+Atk:100
+Def:115
+SpA:35
+SpD:55
+Spe:75

@@ -1,0 +1,9 @@
+#1012
+Poltchageist
+Grass/Ghost
+HP:40
+Atk:45
+Def:45
+SpA:74
+SpD:54
+Spe:50

@@ -1,0 +1,9 @@
+#949
+Toedscruel
+Ground/Grass
+HP:80
+Atk:70
+Def:65
+SpA:80
+SpD:120
+Spe:100

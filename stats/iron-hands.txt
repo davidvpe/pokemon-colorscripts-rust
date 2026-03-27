@@ -1,0 +1,9 @@
+#992
+Iron Hands
+Fighting/Electric
+HP:154
+Atk:140
+Def:108
+SpA:50
+SpD:68
+Spe:50

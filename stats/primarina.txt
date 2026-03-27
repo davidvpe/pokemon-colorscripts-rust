@@ -1,0 +1,9 @@
+#730
+Primarina
+Water/Fairy
+HP:80
+Atk:74
+Def:74
+SpA:126
+SpD:116
+Spe:60

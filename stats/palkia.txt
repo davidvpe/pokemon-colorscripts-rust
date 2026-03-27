@@ -1,0 +1,9 @@
+#484
+Palkia
+Water/Dragon
+HP:90
+Atk:120
+Def:100
+SpA:150
+SpD:120
+Spe:100

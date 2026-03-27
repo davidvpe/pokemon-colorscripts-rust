@@ -1,0 +1,9 @@
+#995
+Iron Thorns
+Rock/Electric
+HP:100
+Atk:134
+Def:110
+SpA:70
+SpD:84
+Spe:72

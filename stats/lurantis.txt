@@ -1,0 +1,9 @@
+#754
+Lurantis
+Grass
+HP:70
+Atk:105
+Def:90
+SpA:80
+SpD:90
+Spe:45

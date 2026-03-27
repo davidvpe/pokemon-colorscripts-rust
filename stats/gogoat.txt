@@ -1,0 +1,9 @@
+#673
+Gogoat
+Grass
+HP:123
+Atk:100
+Def:62
+SpA:97
+SpD:81
+Spe:68

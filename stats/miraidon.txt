@@ -1,0 +1,9 @@
+#1008
+Miraidon
+Electric/Dragon
+HP:100
+Atk:85
+Def:100
+SpA:135
+SpD:115
+Spe:135

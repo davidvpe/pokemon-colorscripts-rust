@@ -1,0 +1,9 @@
+#162
+Furret
+Normal
+HP:85
+Atk:76
+Def:64
+SpA:45
+SpD:55
+Spe:90

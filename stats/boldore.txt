@@ -1,0 +1,9 @@
+#525
+Boldore
+Rock
+HP:70
+Atk:105
+Def:105
+SpA:50
+SpD:40
+Spe:20

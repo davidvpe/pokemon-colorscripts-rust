@@ -1,0 +1,9 @@
+#482
+Azelf
+Psychic
+HP:75
+Atk:125
+Def:70
+SpA:125
+SpD:70
+Spe:115

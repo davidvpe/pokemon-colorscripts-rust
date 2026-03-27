@@ -1,0 +1,9 @@
+#208
+Steelix
+Steel/Ground
+HP:75
+Atk:85
+Def:200
+SpA:55
+SpD:65
+Spe:30

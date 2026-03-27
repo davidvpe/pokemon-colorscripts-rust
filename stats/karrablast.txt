@@ -1,0 +1,9 @@
+#588
+Karrablast
+Bug
+HP:50
+Atk:75
+Def:45
+SpA:40
+SpD:45
+Spe:60

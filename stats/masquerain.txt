@@ -1,0 +1,9 @@
+#284
+Masquerain
+Bug/Flying
+HP:70
+Atk:60
+Def:62
+SpA:100
+SpD:82
+Spe:80

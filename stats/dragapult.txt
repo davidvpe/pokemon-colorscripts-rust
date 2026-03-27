@@ -1,0 +1,9 @@
+#887
+Dragapult
+Dragon/Ghost
+HP:88
+Atk:120
+Def:75
+SpA:100
+SpD:75
+Spe:142

@@ -1,0 +1,9 @@
+#052
+Meowth
+Normal
+HP:40
+Atk:45
+Def:35
+SpA:40
+SpD:40
+Spe:90

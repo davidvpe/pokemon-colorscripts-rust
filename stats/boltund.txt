@@ -1,0 +1,9 @@
+#836
+Boltund
+Electric
+HP:69
+Atk:90
+Def:60
+SpA:90
+SpD:60
+Spe:121

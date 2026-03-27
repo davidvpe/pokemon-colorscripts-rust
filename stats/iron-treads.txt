@@ -1,0 +1,9 @@
+#990
+Iron Treads
+Ground/Steel
+HP:90
+Atk:112
+Def:120
+SpA:72
+SpD:70
+Spe:106

@@ -1,0 +1,9 @@
+#644
+Zekrom
+Dragon/Electric
+HP:100
+Atk:150
+Def:120
+SpA:120
+SpD:100
+Spe:90

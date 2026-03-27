@@ -1,0 +1,9 @@
+#723
+Dartrix
+Grass/Flying
+HP:78
+Atk:75
+Def:75
+SpA:70
+SpD:70
+Spe:52

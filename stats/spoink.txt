@@ -1,0 +1,9 @@
+#325
+Spoink
+Psychic
+HP:60
+Atk:25
+Def:35
+SpA:70
+SpD:80
+Spe:60

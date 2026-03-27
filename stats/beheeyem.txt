@@ -1,0 +1,9 @@
+#606
+Beheeyem
+Psychic
+HP:75
+Atk:75
+Def:75
+SpA:125
+SpD:95
+Spe:40

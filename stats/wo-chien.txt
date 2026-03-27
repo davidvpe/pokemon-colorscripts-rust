@@ -1,0 +1,9 @@
+#1001
+Wo-Chien
+Dark/Grass
+HP:85
+Atk:85
+Def:100
+SpA:95
+SpD:135
+Spe:70

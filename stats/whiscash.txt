@@ -1,0 +1,9 @@
+#340
+Whiscash
+Water/Ground
+HP:110
+Atk:78
+Def:73
+SpA:76
+SpD:71
+Spe:60

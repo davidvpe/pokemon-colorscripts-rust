@@ -1,0 +1,9 @@
+#519
+Pidove
+Normal/Flying
+HP:50
+Atk:55
+Def:50
+SpA:36
+SpD:30
+Spe:43

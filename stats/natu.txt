@@ -1,0 +1,9 @@
+#177
+Natu
+Psychic/Flying
+HP:40
+Atk:50
+Def:45
+SpA:70
+SpD:45
+Spe:70

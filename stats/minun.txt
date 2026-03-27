@@ -1,0 +1,9 @@
+#312
+Minun
+Electric
+HP:60
+Atk:40
+Def:50
+SpA:75
+SpD:85
+Spe:95

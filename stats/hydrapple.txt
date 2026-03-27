@@ -1,0 +1,9 @@
+#1019
+Hydrapple
+Grass/Dragon
+HP:106
+Atk:80
+Def:110
+SpA:120
+SpD:80
+Spe:44

@@ -1,0 +1,9 @@
+#619
+Mienfoo
+Fighting
+HP:45
+Atk:85
+Def:50
+SpA:55
+SpD:50
+Spe:65

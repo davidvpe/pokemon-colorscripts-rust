@@ -1,0 +1,9 @@
+#855
+Polteageist
+Ghost
+HP:60
+Atk:65
+Def:65
+SpA:134
+SpD:114
+Spe:70

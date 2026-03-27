@@ -1,0 +1,9 @@
+#916
+Oinkologne
+Normal
+HP:110
+Atk:100
+Def:75
+SpA:59
+SpD:80
+Spe:65

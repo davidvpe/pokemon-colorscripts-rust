@@ -1,0 +1,9 @@
+#698
+Amaura
+Rock/Ice
+HP:77
+Atk:59
+Def:50
+SpA:67
+SpD:63
+Spe:46

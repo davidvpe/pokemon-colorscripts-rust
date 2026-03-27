@@ -1,0 +1,9 @@
+#005
+Charmeleon
+Fire
+HP:58
+Atk:64
+Def:58
+SpA:80
+SpD:65
+Spe:80

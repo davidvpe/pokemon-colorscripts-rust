@@ -1,0 +1,9 @@
+#768
+Golisopod
+Bug/Water
+HP:75
+Atk:125
+Def:140
+SpA:60
+SpD:90
+Spe:40

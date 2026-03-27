@@ -1,0 +1,9 @@
+#334
+Altaria
+Dragon/Flying
+HP:75
+Atk:70
+Def:90
+SpA:70
+SpD:105
+Spe:80

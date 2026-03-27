@@ -1,0 +1,9 @@
+#380
+Latias
+Dragon/Psychic
+HP:80
+Atk:80
+Def:90
+SpA:110
+SpD:130
+Spe:110

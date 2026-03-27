@@ -1,0 +1,9 @@
+#944
+Shroodle
+Poison/Normal
+HP:40
+Atk:65
+Def:35
+SpA:40
+SpD:35
+Spe:75

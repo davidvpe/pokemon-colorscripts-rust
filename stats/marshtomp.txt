@@ -1,0 +1,9 @@
+#259
+Marshtomp
+Water/Ground
+HP:70
+Atk:85
+Def:70
+SpA:60
+SpD:70
+Spe:50

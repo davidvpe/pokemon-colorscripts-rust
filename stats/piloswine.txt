@@ -1,0 +1,9 @@
+#221
+Piloswine
+Ice/Ground
+HP:100
+Atk:100
+Def:80
+SpA:60
+SpD:60
+Spe:50

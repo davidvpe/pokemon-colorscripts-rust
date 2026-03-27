@@ -1,0 +1,9 @@
+#928
+Smoliv
+Grass/Normal
+HP:41
+Atk:35
+Def:45
+SpA:58
+SpD:51
+Spe:30

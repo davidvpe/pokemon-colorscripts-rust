@@ -1,0 +1,9 @@
+#817
+Drizzile
+Water
+HP:65
+Atk:60
+Def:55
+SpA:95
+SpD:55
+Spe:90

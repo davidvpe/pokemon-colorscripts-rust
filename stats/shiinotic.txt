@@ -1,0 +1,9 @@
+#756
+Shiinotic
+Grass/Fairy
+HP:60
+Atk:45
+Def:80
+SpA:90
+SpD:100
+Spe:30

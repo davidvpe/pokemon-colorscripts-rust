@@ -1,0 +1,9 @@
+#430
+Honchkrow
+Dark/Flying
+HP:100
+Atk:125
+Def:52
+SpA:105
+SpD:52
+Spe:71

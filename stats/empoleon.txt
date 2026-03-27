@@ -1,0 +1,9 @@
+#395
+Empoleon
+Water/Steel
+HP:84
+Atk:86
+Def:88
+SpA:111
+SpD:101
+Spe:60

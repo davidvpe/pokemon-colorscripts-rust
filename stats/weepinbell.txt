@@ -1,0 +1,9 @@
+#070
+Weepinbell
+Grass/Poison
+HP:65
+Atk:90
+Def:50
+SpA:85
+SpD:45
+Spe:55

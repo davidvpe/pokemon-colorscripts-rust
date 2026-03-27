@@ -1,0 +1,9 @@
+#835
+Yamper
+Electric
+HP:59
+Atk:45
+Def:50
+SpA:40
+SpD:50
+Spe:26

@@ -1,0 +1,9 @@
+#911
+Skeledirge
+Fire/Ghost
+HP:104
+Atk:75
+Def:100
+SpA:110
+SpD:75
+Spe:66

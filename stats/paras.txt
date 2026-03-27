@@ -1,0 +1,9 @@
+#046
+Paras
+Bug/Grass
+HP:35
+Atk:70
+Def:55
+SpA:45
+SpD:55
+Spe:25

@@ -1,0 +1,9 @@
+#074
+Geodude
+Rock/Ground
+HP:40
+Atk:80
+Def:100
+SpA:30
+SpD:30
+Spe:20

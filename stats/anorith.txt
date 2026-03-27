@@ -1,0 +1,9 @@
+#347
+Anorith
+Rock/Bug
+HP:45
+Atk:95
+Def:50
+SpA:40
+SpD:50
+Spe:75

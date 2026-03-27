@@ -1,0 +1,9 @@
+#761
+Bounsweet
+Grass
+HP:42
+Atk:30
+Def:38
+SpA:30
+SpD:38
+Spe:32

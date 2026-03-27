@@ -1,0 +1,9 @@
+#465
+Tangrowth
+Grass
+HP:100
+Atk:100
+Def:125
+SpA:110
+SpD:50
+Spe:50

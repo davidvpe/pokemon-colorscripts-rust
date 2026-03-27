@@ -1,0 +1,9 @@
+#509
+Purrloin
+Dark
+HP:41
+Atk:50
+Def:37
+SpA:50
+SpD:37
+Spe:66

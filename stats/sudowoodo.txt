@@ -1,0 +1,9 @@
+#185
+Sudowoodo
+Rock
+HP:70
+Atk:100
+Def:115
+SpA:30
+SpD:65
+Spe:30

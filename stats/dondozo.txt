@@ -1,0 +1,9 @@
+#977
+Dondozo
+Water
+HP:150
+Atk:100
+Def:115
+SpA:65
+SpD:65
+Spe:35

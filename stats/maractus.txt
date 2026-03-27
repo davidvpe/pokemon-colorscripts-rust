@@ -1,0 +1,9 @@
+#556
+Maractus
+Grass
+HP:75
+Atk:86
+Def:67
+SpA:106
+SpD:67
+Spe:60

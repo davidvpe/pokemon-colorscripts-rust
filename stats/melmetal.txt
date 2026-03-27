@@ -1,0 +1,9 @@
+#809
+Melmetal
+Steel
+HP:135
+Atk:143
+Def:143
+SpA:80
+SpD:65
+Spe:34

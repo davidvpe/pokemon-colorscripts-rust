@@ -1,0 +1,9 @@
+#432
+Purugly
+Normal
+HP:71
+Atk:82
+Def:64
+SpA:64
+SpD:59
+Spe:112

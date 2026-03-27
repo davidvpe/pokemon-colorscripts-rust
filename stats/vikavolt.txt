@@ -1,0 +1,9 @@
+#738
+Vikavolt
+Bug/Electric
+HP:77
+Atk:70
+Def:90
+SpA:145
+SpD:75
+Spe:43

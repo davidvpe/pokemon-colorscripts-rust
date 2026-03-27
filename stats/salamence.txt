@@ -1,0 +1,9 @@
+#373
+Salamence
+Dragon/Flying
+HP:95
+Atk:135
+Def:80
+SpA:110
+SpD:80
+Spe:100

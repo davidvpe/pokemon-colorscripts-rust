@@ -1,0 +1,9 @@
+#1011
+Dipplin
+Grass/Dragon
+HP:80
+Atk:80
+Def:110
+SpA:95
+SpD:80
+Spe:40

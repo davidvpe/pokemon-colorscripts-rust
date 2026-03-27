@@ -1,0 +1,9 @@
+#066
+Machop
+Fighting
+HP:70
+Atk:80
+Def:50
+SpA:35
+SpD:35
+Spe:35

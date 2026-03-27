@@ -1,0 +1,9 @@
+#710
+Pumpkaboo
+Ghost/Grass
+HP:49
+Atk:66
+Def:70
+SpA:44
+SpD:55
+Spe:51

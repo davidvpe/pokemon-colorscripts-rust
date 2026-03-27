@@ -1,0 +1,9 @@
+#468
+Togekiss
+Fairy/Flying
+HP:85
+Atk:50
+Def:95
+SpA:120
+SpD:115
+Spe:80

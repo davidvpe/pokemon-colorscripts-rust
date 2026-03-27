@@ -1,0 +1,9 @@
+#755
+Morelull
+Grass/Fairy
+HP:40
+Atk:35
+Def:55
+SpA:65
+SpD:75
+Spe:15

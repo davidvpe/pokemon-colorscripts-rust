@@ -1,0 +1,9 @@
+#555
+Darmanitan
+Fire
+HP:105
+Atk:140
+Def:55
+SpA:30
+SpD:55
+Spe:95

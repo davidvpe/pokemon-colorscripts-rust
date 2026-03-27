@@ -1,0 +1,9 @@
+#321
+Wailord
+Water
+HP:170
+Atk:90
+Def:45
+SpA:90
+SpD:45
+Spe:60

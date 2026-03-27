@@ -1,0 +1,9 @@
+#246
+Larvitar
+Rock/Ground
+HP:50
+Atk:64
+Def:50
+SpA:45
+SpD:50
+Spe:41

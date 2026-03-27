@@ -1,0 +1,9 @@
+#091
+Cloyster
+Water/Ice
+HP:50
+Atk:95
+Def:180
+SpA:85
+SpD:45
+Spe:70

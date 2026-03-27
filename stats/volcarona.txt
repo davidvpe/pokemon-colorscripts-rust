@@ -1,0 +1,9 @@
+#637
+Volcarona
+Bug/Fire
+HP:85
+Atk:60
+Def:65
+SpA:135
+SpD:105
+Spe:100

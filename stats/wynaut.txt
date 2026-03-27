@@ -1,0 +1,9 @@
+#360
+Wynaut
+Psychic
+HP:95
+Atk:23
+Def:48
+SpA:23
+SpD:48
+Spe:23

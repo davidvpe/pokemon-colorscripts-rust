@@ -1,0 +1,9 @@
+#316
+Gulpin
+Poison
+HP:70
+Atk:43
+Def:53
+SpA:43
+SpD:53
+Spe:40

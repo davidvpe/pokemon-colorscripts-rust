@@ -1,0 +1,9 @@
+#971
+Greavard
+Ghost
+HP:50
+Atk:61
+Def:60
+SpA:30
+SpD:55
+Spe:34

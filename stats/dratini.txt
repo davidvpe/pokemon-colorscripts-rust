@@ -1,0 +1,9 @@
+#147
+Dratini
+Dragon
+HP:41
+Atk:64
+Def:45
+SpA:50
+SpD:50
+Spe:50

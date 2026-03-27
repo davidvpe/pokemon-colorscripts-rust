@@ -1,0 +1,9 @@
+#314
+Illumise
+Bug
+HP:65
+Atk:47
+Def:75
+SpA:73
+SpD:85
+Spe:85

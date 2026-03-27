@@ -1,0 +1,9 @@
+#417
+Pachirisu
+Electric
+HP:60
+Atk:45
+Def:70
+SpA:45
+SpD:90
+Spe:95

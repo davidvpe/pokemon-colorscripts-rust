@@ -1,0 +1,9 @@
+#677
+Espurr
+Psychic
+HP:62
+Atk:48
+Def:54
+SpA:63
+SpD:60
+Spe:68

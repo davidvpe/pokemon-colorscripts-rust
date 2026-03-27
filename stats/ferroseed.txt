@@ -1,0 +1,9 @@
+#597
+Ferroseed
+Grass/Steel
+HP:44
+Atk:50
+Def:91
+SpA:24
+SpD:86
+Spe:10

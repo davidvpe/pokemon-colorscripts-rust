@@ -1,0 +1,9 @@
+#294
+Loudred
+Normal
+HP:84
+Atk:71
+Def:43
+SpA:71
+SpD:43
+Spe:48

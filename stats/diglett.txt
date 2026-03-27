@@ -1,0 +1,9 @@
+#050
+Diglett
+Ground
+HP:10
+Atk:55
+Def:25
+SpA:35
+SpD:45
+Spe:95

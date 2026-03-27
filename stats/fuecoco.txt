@@ -1,0 +1,9 @@
+#909
+Fuecoco
+Fire
+HP:67
+Atk:45
+Def:59
+SpA:63
+SpD:40
+Spe:36

@@ -1,0 +1,9 @@
+#688
+Binacle
+Rock/Water
+HP:42
+Atk:52
+Def:67
+SpA:39
+SpD:56
+Spe:50

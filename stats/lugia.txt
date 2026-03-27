@@ -1,0 +1,9 @@
+#249
+Lugia
+Psychic/Flying
+HP:106
+Atk:90
+Def:130
+SpA:90
+SpD:154
+Spe:110

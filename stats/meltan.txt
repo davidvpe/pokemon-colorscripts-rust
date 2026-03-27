@@ -1,0 +1,9 @@
+#808
+Meltan
+Steel
+HP:46
+Atk:65
+Def:65
+SpA:55
+SpD:35
+Spe:34

@@ -1,0 +1,9 @@
+#116
+Horsea
+Water
+HP:30
+Atk:40
+Def:70
+SpA:70
+SpD:25
+Spe:60

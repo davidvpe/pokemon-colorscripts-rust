@@ -1,0 +1,9 @@
+#510
+Liepard
+Dark
+HP:64
+Atk:88
+Def:50
+SpA:88
+SpD:50
+Spe:106

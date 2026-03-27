@@ -1,0 +1,9 @@
+#546
+Cottonee
+Grass/Fairy
+HP:40
+Atk:27
+Def:60
+SpA:37
+SpD:50
+Spe:66

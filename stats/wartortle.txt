@@ -1,0 +1,9 @@
+#008
+Wartortle
+Water
+HP:59
+Atk:63
+Def:80
+SpA:65
+SpD:80
+Spe:58

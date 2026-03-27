@@ -1,0 +1,9 @@
+#199
+Slowking
+Water/Psychic
+HP:95
+Atk:75
+Def:80
+SpA:100
+SpD:110
+Spe:30

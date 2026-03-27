@@ -1,0 +1,9 @@
+#1007
+Koraidon
+Fighting/Dragon
+HP:100
+Atk:135
+Def:115
+SpA:85
+SpD:100
+Spe:135

@@ -1,0 +1,9 @@
+#358
+Chimecho
+Psychic
+HP:75
+Atk:50
+Def:80
+SpA:95
+SpD:90
+Spe:65

@@ -1,0 +1,9 @@
+#431
+Glameow
+Normal
+HP:49
+Atk:55
+Def:42
+SpA:42
+SpD:37
+Spe:85

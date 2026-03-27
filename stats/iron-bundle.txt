@@ -1,0 +1,9 @@
+#991
+Iron Bundle
+Ice/Water
+HP:56
+Atk:80
+Def:114
+SpA:124
+SpD:60
+Spe:136

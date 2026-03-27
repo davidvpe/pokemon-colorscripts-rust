@@ -1,0 +1,9 @@
+#201
+Unown
+Psychic
+HP:48
+Atk:72
+Def:48
+SpA:72
+SpD:48
+Spe:48

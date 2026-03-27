@@ -1,0 +1,9 @@
+#647
+Keldeo
+Water/Fighting
+HP:91
+Atk:72
+Def:90
+SpA:129
+SpD:90
+Spe:108

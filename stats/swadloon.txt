@@ -1,0 +1,9 @@
+#541
+Swadloon
+Bug/Grass
+HP:55
+Atk:63
+Def:90
+SpA:50
+SpD:80
+Spe:42

@@ -1,0 +1,9 @@
+#113
+Chansey
+Normal
+HP:250
+Atk:5
+Def:5
+SpA:35
+SpD:105
+Spe:50

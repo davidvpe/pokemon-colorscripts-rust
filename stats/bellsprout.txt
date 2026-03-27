@@ -1,0 +1,9 @@
+#069
+Bellsprout
+Grass/Poison
+HP:50
+Atk:75
+Def:35
+SpA:70
+SpD:30
+Spe:40

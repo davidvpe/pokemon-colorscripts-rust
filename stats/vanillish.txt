@@ -1,0 +1,9 @@
+#583
+Vanillish
+Ice
+HP:51
+Atk:65
+Def:65
+SpA:80
+SpD:75
+Spe:59

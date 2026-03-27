@@ -1,0 +1,9 @@
+#407
+Roserade
+Grass/Poison
+HP:60
+Atk:70
+Def:65
+SpA:125
+SpD:105
+Spe:90

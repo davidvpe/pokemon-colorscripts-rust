@@ -1,0 +1,9 @@
+#872
+Snom
+Ice/Bug
+HP:30
+Atk:25
+Def:35
+SpA:45
+SpD:30
+Spe:20

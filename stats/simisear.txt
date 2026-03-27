@@ -1,0 +1,9 @@
+#514
+Simisear
+Fire
+HP:75
+Atk:98
+Def:63
+SpA:98
+SpD:63
+Spe:101

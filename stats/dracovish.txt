@@ -1,0 +1,9 @@
+#882
+Dracovish
+Water/Dragon
+HP:90
+Atk:90
+Def:100
+SpA:70
+SpD:80
+Spe:75

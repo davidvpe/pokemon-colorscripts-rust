@@ -1,0 +1,9 @@
+#704
+Goomy
+Dragon
+HP:45
+Atk:50
+Def:35
+SpA:55
+SpD:75
+Spe:40

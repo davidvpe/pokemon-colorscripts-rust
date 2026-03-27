@@ -1,0 +1,9 @@
+#531
+Audino
+Normal
+HP:103
+Atk:60
+Def:86
+SpA:60
+SpD:86
+Spe:50

@@ -1,0 +1,9 @@
+#834
+Drednaw
+Water/Rock
+HP:90
+Atk:115
+Def:90
+SpA:48
+SpD:68
+Spe:74

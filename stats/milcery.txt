@@ -1,0 +1,9 @@
+#868
+Milcery
+Fairy
+HP:45
+Atk:40
+Def:40
+SpA:50
+SpD:61
+Spe:34

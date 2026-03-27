@@ -1,0 +1,9 @@
+#986
+Brute Bonnet
+Grass/Dark
+HP:111
+Atk:127
+Def:99
+SpA:79
+SpD:99
+Spe:55

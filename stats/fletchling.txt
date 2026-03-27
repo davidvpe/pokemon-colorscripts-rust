@@ -1,0 +1,9 @@
+#661
+Fletchling
+Normal/Flying
+HP:45
+Atk:50
+Def:43
+SpA:40
+SpD:38
+Spe:62

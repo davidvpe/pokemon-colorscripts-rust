@@ -1,0 +1,9 @@
+#526
+Gigalith
+Rock
+HP:85
+Atk:135
+Def:130
+SpA:60
+SpD:80
+Spe:25

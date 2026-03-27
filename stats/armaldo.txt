@@ -1,0 +1,9 @@
+#348
+Armaldo
+Rock/Bug
+HP:75
+Atk:125
+Def:100
+SpA:70
+SpD:80
+Spe:45

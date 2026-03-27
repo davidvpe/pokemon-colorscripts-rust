@@ -1,0 +1,9 @@
+#001
+Bulbasaur
+Grass/Poison
+HP:45
+Atk:49
+Def:49
+SpA:65
+SpD:65
+Spe:45

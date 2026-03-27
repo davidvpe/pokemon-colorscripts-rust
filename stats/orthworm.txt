@@ -1,0 +1,9 @@
+#968
+Orthworm
+Steel
+HP:70
+Atk:85
+Def:145
+SpA:60
+SpD:55
+Spe:65

@@ -1,0 +1,9 @@
+#620
+Mienshao
+Fighting
+HP:65
+Atk:125
+Def:60
+SpA:95
+SpD:60
+Spe:105

@@ -1,0 +1,9 @@
+#947
+Brambleghast
+Grass/Ghost
+HP:55
+Atk:115
+Def:70
+SpA:80
+SpD:70
+Spe:90

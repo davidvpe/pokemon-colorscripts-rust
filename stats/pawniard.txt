@@ -1,0 +1,9 @@
+#624
+Pawniard
+Dark/Steel
+HP:45
+Atk:85
+Def:70
+SpA:40
+SpD:40
+Spe:60

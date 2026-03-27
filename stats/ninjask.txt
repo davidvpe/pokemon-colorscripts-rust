@@ -1,0 +1,9 @@
+#291
+Ninjask
+Bug/Flying
+HP:61
+Atk:90
+Def:45
+SpA:50
+SpD:50
+Spe:160

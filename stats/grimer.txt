@@ -1,0 +1,9 @@
+#088
+Grimer
+Poison
+HP:80
+Atk:80
+Def:50
+SpA:40
+SpD:50
+Spe:25

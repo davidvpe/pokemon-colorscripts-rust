@@ -1,0 +1,9 @@
+#760
+Bewear
+Normal/Fighting
+HP:120
+Atk:125
+Def:80
+SpA:55
+SpD:60
+Spe:60

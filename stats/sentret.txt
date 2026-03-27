@@ -1,0 +1,9 @@
+#161
+Sentret
+Normal
+HP:35
+Atk:46
+Def:34
+SpA:35
+SpD:45
+Spe:20

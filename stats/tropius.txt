@@ -1,0 +1,9 @@
+#357
+Tropius
+Grass/Flying
+HP:99
+Atk:68
+Def:83
+SpA:72
+SpD:87
+Spe:51

@@ -1,0 +1,9 @@
+#609
+Chandelure
+Ghost/Fire
+HP:60
+Atk:55
+Def:90
+SpA:145
+SpD:90
+Spe:80

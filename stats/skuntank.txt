@@ -1,0 +1,9 @@
+#435
+Skuntank
+Poison/Dark
+HP:103
+Atk:93
+Def:67
+SpA:71
+SpD:61
+Spe:84

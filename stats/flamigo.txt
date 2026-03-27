@@ -1,0 +1,9 @@
+#973
+Flamigo
+Flying/Fighting
+HP:82
+Atk:115
+Def:74
+SpA:75
+SpD:64
+Spe:90

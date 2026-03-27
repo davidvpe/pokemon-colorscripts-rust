@@ -1,0 +1,9 @@
+#966
+Revavroom
+Steel/Poison
+HP:80
+Atk:119
+Def:90
+SpA:54
+SpD:67
+Spe:90

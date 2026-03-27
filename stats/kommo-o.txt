@@ -1,0 +1,9 @@
+#784
+Kommo-o
+Dragon/Fighting
+HP:75
+Atk:110
+Def:125
+SpA:100
+SpD:105
+Spe:85

@@ -1,0 +1,9 @@
+#804
+Naganadel
+Poison/Dragon
+HP:73
+Atk:73
+Def:73
+SpA:127
+SpD:73
+Spe:121

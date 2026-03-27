@@ -1,0 +1,9 @@
+#558
+Crustle
+Bug/Rock
+HP:70
+Atk:105
+Def:125
+SpA:65
+SpD:75
+Spe:45

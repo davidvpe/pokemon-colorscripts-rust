@@ -1,0 +1,9 @@
+#223
+Remoraid
+Water
+HP:35
+Atk:65
+Def:35
+SpA:65
+SpD:35
+Spe:65

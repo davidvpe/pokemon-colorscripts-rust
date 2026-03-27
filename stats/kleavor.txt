@@ -1,0 +1,9 @@
+#900
+Kleavor
+Bug/Rock
+HP:70
+Atk:135
+Def:95
+SpA:45
+SpD:70
+Spe:85

@@ -1,0 +1,9 @@
+#907
+Floragato
+Grass
+HP:61
+Atk:80
+Def:63
+SpA:60
+SpD:63
+Spe:83

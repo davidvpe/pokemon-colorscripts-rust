@@ -1,0 +1,9 @@
+#485
+Heatran
+Fire/Steel
+HP:91
+Atk:90
+Def:106
+SpA:130
+SpD:106
+Spe:77

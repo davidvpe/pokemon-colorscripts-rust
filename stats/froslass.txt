@@ -1,0 +1,9 @@
+#478
+Froslass
+Ice/Ghost
+HP:70
+Atk:80
+Def:70
+SpA:80
+SpD:70
+Spe:110

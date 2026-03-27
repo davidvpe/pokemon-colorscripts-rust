@@ -1,0 +1,9 @@
+#840
+Applin
+Grass/Dragon
+HP:40
+Atk:40
+Def:80
+SpA:40
+SpD:40
+Spe:20

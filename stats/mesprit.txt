@@ -1,0 +1,9 @@
+#481
+Mesprit
+Psychic
+HP:80
+Atk:105
+Def:105
+SpA:105
+SpD:105
+Spe:80

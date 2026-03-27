@@ -1,0 +1,9 @@
+#660
+Diggersby
+Normal/Ground
+HP:85
+Atk:56
+Def:77
+SpA:50
+SpD:77
+Spe:78

@@ -1,0 +1,9 @@
+#099
+Kingler
+Water
+HP:55
+Atk:130
+Def:115
+SpA:50
+SpD:50
+Spe:75

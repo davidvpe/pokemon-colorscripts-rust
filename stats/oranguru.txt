@@ -1,0 +1,9 @@
+#765
+Oranguru
+Normal/Psychic
+HP:90
+Atk:60
+Def:80
+SpA:90
+SpD:110
+Spe:60

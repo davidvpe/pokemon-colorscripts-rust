@@ -1,0 +1,9 @@
+#733
+Toucannon
+Normal/Flying
+HP:80
+Atk:120
+Def:75
+SpA:75
+SpD:75
+Spe:60

@@ -1,0 +1,9 @@
+#366
+Clamperl
+Water
+HP:35
+Atk:64
+Def:85
+SpA:74
+SpD:55
+Spe:32

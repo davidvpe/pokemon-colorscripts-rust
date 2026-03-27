@@ -1,0 +1,9 @@
+#785
+Tapu Koko
+Electric/Fairy
+HP:70
+Atk:115
+Def:85
+SpA:95
+SpD:75
+Spe:130

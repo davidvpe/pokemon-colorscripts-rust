@@ -1,0 +1,9 @@
+#964
+Palafin
+Water
+HP:100
+Atk:70
+Def:72
+SpA:53
+SpD:62
+Spe:100

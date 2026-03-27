@@ -1,0 +1,9 @@
+#350
+Milotic
+Water
+HP:95
+Atk:60
+Def:79
+SpA:100
+SpD:125
+Spe:81

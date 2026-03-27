@@ -1,0 +1,9 @@
+#753
+Fomantis
+Grass
+HP:40
+Atk:55
+Def:35
+SpA:50
+SpD:35
+Spe:35

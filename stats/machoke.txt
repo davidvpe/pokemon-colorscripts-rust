@@ -1,0 +1,9 @@
+#067
+Machoke
+Fighting
+HP:80
+Atk:100
+Def:70
+SpA:50
+SpD:60
+Spe:45

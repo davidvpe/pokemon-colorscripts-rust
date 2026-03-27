@@ -1,0 +1,9 @@
+#596
+Galvantula
+Bug/Electric
+HP:70
+Atk:77
+Def:60
+SpA:97
+SpD:60
+Spe:108

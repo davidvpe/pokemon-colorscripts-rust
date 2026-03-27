@@ -1,0 +1,9 @@
+#731
+Pikipek
+Normal/Flying
+HP:35
+Atk:75
+Def:30
+SpA:30
+SpD:30
+Spe:65

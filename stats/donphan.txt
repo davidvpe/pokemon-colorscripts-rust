@@ -1,0 +1,9 @@
+#232
+Donphan
+Ground
+HP:90
+Atk:120
+Def:120
+SpA:60
+SpD:60
+Spe:50

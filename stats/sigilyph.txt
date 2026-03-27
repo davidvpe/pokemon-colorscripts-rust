@@ -1,0 +1,9 @@
+#561
+Sigilyph
+Psychic/Flying
+HP:72
+Atk:58
+Def:80
+SpA:103
+SpD:80
+Spe:97

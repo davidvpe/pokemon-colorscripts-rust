@@ -1,0 +1,9 @@
+#537
+Seismitoad
+Water/Ground
+HP:105
+Atk:95
+Def:75
+SpA:85
+SpD:75
+Spe:74

@@ -1,0 +1,9 @@
+#687
+Malamar
+Dark/Psychic
+HP:86
+Atk:92
+Def:88
+SpA:68
+SpD:75
+Spe:73

@@ -1,0 +1,9 @@
+#649
+Genesect
+Bug/Steel
+HP:71
+Atk:120
+Def:95
+SpA:120
+SpD:95
+Spe:99

@@ -1,0 +1,9 @@
+#800
+Necrozma
+Psychic
+HP:97
+Atk:107
+Def:101
+SpA:127
+SpD:89
+Spe:79

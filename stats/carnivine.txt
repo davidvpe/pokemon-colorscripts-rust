@@ -1,0 +1,9 @@
+#455
+Carnivine
+Grass
+HP:74
+Atk:100
+Def:72
+SpA:90
+SpD:72
+Spe:46

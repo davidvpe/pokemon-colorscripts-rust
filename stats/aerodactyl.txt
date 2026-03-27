@@ -1,0 +1,9 @@
+#142
+Aerodactyl
+Rock/Flying
+HP:80
+Atk:105
+Def:65
+SpA:60
+SpD:75
+Spe:130

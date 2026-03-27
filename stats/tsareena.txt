@@ -1,0 +1,9 @@
+#763
+Tsareena
+Grass
+HP:72
+Atk:120
+Def:98
+SpA:50
+SpD:98
+Spe:72

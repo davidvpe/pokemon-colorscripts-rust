@@ -1,0 +1,9 @@
+#700
+Sylveon
+Fairy
+HP:95
+Atk:65
+Def:65
+SpA:110
+SpD:130
+Spe:60

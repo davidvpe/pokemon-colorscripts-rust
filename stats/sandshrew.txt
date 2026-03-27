@@ -1,0 +1,9 @@
+#027
+Sandshrew
+Ground
+HP:50
+Atk:75
+Def:85
+SpA:20
+SpD:30
+Spe:40

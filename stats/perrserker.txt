@@ -1,0 +1,9 @@
+#863
+Perrserker
+Steel
+HP:70
+Atk:110
+Def:100
+SpA:50
+SpD:60
+Spe:50

@@ -1,0 +1,9 @@
+#387
+Turtwig
+Grass
+HP:55
+Atk:68
+Def:64
+SpA:45
+SpD:55
+Spe:31

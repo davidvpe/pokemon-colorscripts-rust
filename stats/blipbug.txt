@@ -1,0 +1,9 @@
+#824
+Blipbug
+Bug
+HP:25
+Atk:20
+Def:20
+SpA:25
+SpD:45
+Spe:45

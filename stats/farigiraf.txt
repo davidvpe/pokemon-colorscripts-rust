@@ -1,0 +1,9 @@
+#981
+Farigiraf
+Normal/Psychic
+HP:120
+Atk:90
+Def:70
+SpA:110
+SpD:70
+Spe:60

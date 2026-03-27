@@ -1,0 +1,9 @@
+#252
+Treecko
+Grass
+HP:40
+Atk:45
+Def:35
+SpA:65
+SpD:55
+Spe:70

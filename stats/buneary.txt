@@ -1,0 +1,9 @@
+#427
+Buneary
+Normal
+HP:55
+Atk:66
+Def:44
+SpA:44
+SpD:56
+Spe:85

@@ -1,0 +1,9 @@
+#472
+Gliscor
+Ground/Flying
+HP:75
+Atk:95
+Def:125
+SpA:45
+SpD:75
+Spe:95

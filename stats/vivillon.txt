@@ -1,0 +1,9 @@
+#666
+Vivillon
+Bug/Flying
+HP:80
+Atk:52
+Def:50
+SpA:90
+SpD:50
+Spe:89

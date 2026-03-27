@@ -1,0 +1,9 @@
+#229
+Houndoom
+Dark/Fire
+HP:75
+Atk:90
+Def:50
+SpA:110
+SpD:80
+Spe:95

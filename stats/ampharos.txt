@@ -1,0 +1,9 @@
+#181
+Ampharos
+Electric
+HP:90
+Atk:75
+Def:85
+SpA:115
+SpD:90
+Spe:55

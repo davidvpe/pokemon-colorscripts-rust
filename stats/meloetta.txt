@@ -1,0 +1,9 @@
+#648
+Meloetta
+Normal/Psychic
+HP:100
+Atk:77
+Def:77
+SpA:128
+SpD:128
+Spe:90

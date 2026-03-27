@@ -1,0 +1,9 @@
+#048
+Venonat
+Bug/Poison
+HP:60
+Atk:55
+Def:50
+SpA:40
+SpD:55
+Spe:45

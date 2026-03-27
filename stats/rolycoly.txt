@@ -1,0 +1,9 @@
+#837
+Rolycoly
+Rock
+HP:30
+Atk:40
+Def:50
+SpA:40
+SpD:50
+Spe:30

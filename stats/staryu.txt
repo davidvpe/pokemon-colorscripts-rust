@@ -1,0 +1,9 @@
+#120
+Staryu
+Water
+HP:30
+Atk:45
+Def:55
+SpA:70
+SpD:55
+Spe:85

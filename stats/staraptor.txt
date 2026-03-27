@@ -1,0 +1,9 @@
+#398
+Staraptor
+Normal/Flying
+HP:85
+Atk:120
+Def:70
+SpA:50
+SpD:60
+Spe:100

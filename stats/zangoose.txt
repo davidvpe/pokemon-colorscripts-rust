@@ -1,0 +1,9 @@
+#335
+Zangoose
+Normal
+HP:73
+Atk:115
+Def:60
+SpA:60
+SpD:60
+Spe:90

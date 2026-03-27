@@ -1,0 +1,9 @@
+#845
+Cramorant
+Flying/Water
+HP:70
+Atk:85
+Def:55
+SpA:85
+SpD:95
+Spe:85

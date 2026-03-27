@@ -1,0 +1,9 @@
+#737
+Charjabug
+Bug/Electric
+HP:57
+Atk:82
+Def:95
+SpA:55
+SpD:75
+Spe:36

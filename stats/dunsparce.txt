@@ -1,0 +1,9 @@
+#206
+Dunsparce
+Normal
+HP:100
+Atk:70
+Def:70
+SpA:65
+SpD:65
+Spe:45

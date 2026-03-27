@@ -1,0 +1,9 @@
+#904
+Overqwil
+Dark/Poison
+HP:85
+Atk:115
+Def:95
+SpA:65
+SpD:65
+Spe:85

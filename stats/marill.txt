@@ -1,0 +1,9 @@
+#183
+Marill
+Water/Fairy
+HP:70
+Atk:20
+Def:50
+SpA:20
+SpD:50
+Spe:40

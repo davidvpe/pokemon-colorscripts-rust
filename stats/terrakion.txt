@@ -1,0 +1,9 @@
+#639
+Terrakion
+Rock/Fighting
+HP:91
+Atk:129
+Def:90
+SpA:72
+SpD:90
+Spe:108

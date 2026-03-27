@@ -1,0 +1,9 @@
+#925
+Maushold
+Normal
+HP:74
+Atk:75
+Def:70
+SpA:65
+SpD:75
+Spe:111

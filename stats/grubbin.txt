@@ -1,0 +1,9 @@
+#736
+Grubbin
+Bug
+HP:47
+Atk:62
+Def:45
+SpA:55
+SpD:45
+Spe:46

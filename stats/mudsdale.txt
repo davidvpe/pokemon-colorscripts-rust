@@ -1,0 +1,9 @@
+#750
+Mudsdale
+Ground
+HP:100
+Atk:125
+Def:100
+SpA:55
+SpD:85
+Spe:35

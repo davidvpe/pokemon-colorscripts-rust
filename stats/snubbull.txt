@@ -1,0 +1,9 @@
+#209
+Snubbull
+Fairy
+HP:60
+Atk:80
+Def:50
+SpA:40
+SpD:40
+Spe:30

@@ -1,0 +1,9 @@
+#007
+Squirtle
+Water
+HP:44
+Atk:48
+Def:65
+SpA:50
+SpD:64
+Spe:43

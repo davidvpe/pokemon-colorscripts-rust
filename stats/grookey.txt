@@ -1,0 +1,9 @@
+#810
+Grookey
+Grass
+HP:50
+Atk:65
+Def:50
+SpA:40
+SpD:40
+Spe:65

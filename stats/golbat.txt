@@ -1,0 +1,9 @@
+#042
+Golbat
+Poison/Flying
+HP:75
+Atk:80
+Def:70
+SpA:65
+SpD:75
+Spe:90

@@ -1,0 +1,9 @@
+#394
+Prinplup
+Water
+HP:64
+Atk:66
+Def:68
+SpA:81
+SpD:76
+Spe:50

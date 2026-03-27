@@ -1,0 +1,9 @@
+#424
+Ambipom
+Normal
+HP:75
+Atk:100
+Def:66
+SpA:60
+SpD:66
+Spe:115

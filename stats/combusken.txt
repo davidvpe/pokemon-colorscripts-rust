@@ -1,0 +1,9 @@
+#256
+Combusken
+Fire/Fighting
+HP:60
+Atk:85
+Def:60
+SpA:85
+SpD:60
+Spe:55

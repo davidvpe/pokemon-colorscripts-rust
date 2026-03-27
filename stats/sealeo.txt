@@ -1,0 +1,9 @@
+#364
+Sealeo
+Ice/Water
+HP:90
+Atk:60
+Def:70
+SpA:75
+SpD:70
+Spe:45

@@ -1,0 +1,9 @@
+#261
+Poochyena
+Dark
+HP:35
+Atk:55
+Def:35
+SpA:30
+SpD:30
+Spe:35

@@ -1,0 +1,9 @@
+#580
+Ducklett
+Water/Flying
+HP:62
+Atk:44
+Def:50
+SpA:44
+SpD:50
+Spe:55

@@ -1,0 +1,9 @@
+#301
+Delcatty
+Normal
+HP:70
+Atk:65
+Def:65
+SpA:55
+SpD:55
+Spe:90

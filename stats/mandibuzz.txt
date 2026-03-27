@@ -1,0 +1,9 @@
+#630
+Mandibuzz
+Dark/Flying
+HP:110
+Atk:65
+Def:105
+SpA:55
+SpD:95
+Spe:80

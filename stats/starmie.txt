@@ -1,0 +1,9 @@
+#121
+Starmie
+Water/Psychic
+HP:60
+Atk:75
+Def:85
+SpA:100
+SpD:85
+Spe:115

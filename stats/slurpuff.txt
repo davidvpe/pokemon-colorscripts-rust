@@ -1,0 +1,9 @@
+#685
+Slurpuff
+Fairy
+HP:82
+Atk:80
+Def:86
+SpA:85
+SpD:75
+Spe:72

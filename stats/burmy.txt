@@ -1,0 +1,9 @@
+#412
+Burmy
+Bug
+HP:40
+Atk:29
+Def:45
+SpA:29
+SpD:45
+Spe:36

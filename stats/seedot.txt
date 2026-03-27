@@ -1,0 +1,9 @@
+#273
+Seedot
+Grass
+HP:40
+Atk:40
+Def:50
+SpA:30
+SpD:30
+Spe:30

@@ -1,0 +1,9 @@
+#313
+Volbeat
+Bug
+HP:65
+Atk:73
+Def:75
+SpA:47
+SpD:85
+Spe:85

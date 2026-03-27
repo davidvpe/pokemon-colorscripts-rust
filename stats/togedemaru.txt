@@ -1,0 +1,9 @@
+#777
+Togedemaru
+Electric/Steel
+HP:65
+Atk:98
+Def:63
+SpA:40
+SpD:73
+Spe:96

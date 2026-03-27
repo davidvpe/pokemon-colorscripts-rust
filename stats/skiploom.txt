@@ -1,0 +1,9 @@
+#188
+Skiploom
+Grass/Flying
+HP:55
+Atk:45
+Def:50
+SpA:45
+SpD:65
+Spe:80

@@ -1,0 +1,9 @@
+#521
+Unfezant
+Normal/Flying
+HP:80
+Atk:115
+Def:80
+SpA:65
+SpD:55
+Spe:93

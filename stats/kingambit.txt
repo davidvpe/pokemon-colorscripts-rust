@@ -1,0 +1,9 @@
+#983
+Kingambit
+Dark/Steel
+HP:100
+Atk:135
+Def:120
+SpA:60
+SpD:85
+Spe:50

@@ -1,0 +1,9 @@
+#414
+Mothim
+Bug/Flying
+HP:70
+Atk:94
+Def:50
+SpA:94
+SpD:50
+Spe:66

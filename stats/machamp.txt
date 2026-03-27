@@ -1,0 +1,9 @@
+#068
+Machamp
+Fighting
+HP:90
+Atk:130
+Def:80
+SpA:65
+SpD:85
+Spe:55

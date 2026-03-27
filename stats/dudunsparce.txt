@@ -1,0 +1,9 @@
+#982
+Dudunsparce
+Normal
+HP:125
+Atk:100
+Def:80
+SpA:85
+SpD:75
+Spe:55

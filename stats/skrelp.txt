@@ -1,0 +1,9 @@
+#690
+Skrelp
+Poison/Water
+HP:50
+Atk:60
+Def:60
+SpA:60
+SpD:60
+Spe:30

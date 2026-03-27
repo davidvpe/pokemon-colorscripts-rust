@@ -1,0 +1,9 @@
+#787
+Tapu Bulu
+Grass/Fairy
+HP:70
+Atk:130
+Def:115
+SpA:85
+SpD:95
+Spe:75

@@ -1,0 +1,9 @@
+#193
+Yanma
+Bug/Flying
+HP:65
+Atk:65
+Def:45
+SpA:75
+SpD:45
+Spe:95

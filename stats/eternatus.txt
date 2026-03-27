@@ -1,0 +1,9 @@
+#890
+Eternatus
+Poison/Dragon
+HP:140
+Atk:85
+Def:95
+SpA:145
+SpD:95
+Spe:130

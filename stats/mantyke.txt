@@ -1,0 +1,9 @@
+#458
+Mantyke
+Water/Flying
+HP:45
+Atk:20
+Def:50
+SpA:60
+SpD:120
+Spe:50

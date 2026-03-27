@@ -1,0 +1,9 @@
+#445
+Garchomp
+Dragon/Ground
+HP:108
+Atk:130
+Def:95
+SpA:80
+SpD:85
+Spe:102

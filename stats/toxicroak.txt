@@ -1,0 +1,9 @@
+#454
+Toxicroak
+Poison/Fighting
+HP:83
+Atk:106
+Def:65
+SpA:86
+SpD:65
+Spe:85

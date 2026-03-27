@@ -1,0 +1,9 @@
+#729
+Brionne
+Water
+HP:60
+Atk:69
+Def:69
+SpA:91
+SpD:81
+Spe:50

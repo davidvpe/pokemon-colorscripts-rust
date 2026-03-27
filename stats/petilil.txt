@@ -1,0 +1,9 @@
+#548
+Petilil
+Grass
+HP:45
+Atk:35
+Def:50
+SpA:70
+SpD:50
+Spe:30

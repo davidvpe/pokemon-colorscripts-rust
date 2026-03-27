@@ -1,0 +1,9 @@
+#739
+Crabrawler
+Fighting
+HP:47
+Atk:82
+Def:57
+SpA:42
+SpD:47
+Spe:63

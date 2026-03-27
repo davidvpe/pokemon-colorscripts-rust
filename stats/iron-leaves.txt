@@ -1,0 +1,9 @@
+#1010
+Iron Leaves
+Grass/Psychic
+HP:90
+Atk:130
+Def:88
+SpA:70
+SpD:108
+Spe:104

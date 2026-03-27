@@ -1,0 +1,9 @@
+#979
+Annihilape
+Fighting/Ghost
+HP:110
+Atk:115
+Def:80
+SpA:50
+SpD:90
+Spe:90

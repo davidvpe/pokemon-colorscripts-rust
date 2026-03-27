@@ -1,0 +1,9 @@
+#549
+Lilligant
+Grass
+HP:70
+Atk:60
+Def:75
+SpA:110
+SpD:75
+Spe:90

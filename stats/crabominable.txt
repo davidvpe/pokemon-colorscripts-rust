@@ -1,0 +1,9 @@
+#740
+Crabominable
+Fighting/Ice
+HP:97
+Atk:132
+Def:77
+SpA:62
+SpD:67
+Spe:43

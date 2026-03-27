@@ -1,0 +1,9 @@
+#632
+Durant
+Bug/Steel
+HP:58
+Atk:109
+Def:112
+SpA:48
+SpD:48
+Spe:109

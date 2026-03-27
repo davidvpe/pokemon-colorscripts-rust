@@ -1,0 +1,9 @@
+#954
+Rabsca
+Bug/Psychic
+HP:75
+Atk:50
+Def:85
+SpA:115
+SpD:100
+Spe:45

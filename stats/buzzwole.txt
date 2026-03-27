@@ -1,0 +1,9 @@
+#794
+Buzzwole
+Bug/Fighting
+HP:107
+Atk:139
+Def:139
+SpA:53
+SpD:53
+Spe:79
