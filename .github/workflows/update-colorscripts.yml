@@ -42,22 +42,24 @@ jobs:
       - name: Update nameslist from pokemondb.net
         run: ./target/release/generator update-names
 
-      - name: Generate colorscripts
+      - name: Generate colorscripts and stats
         run: ./target/release/generator ${{ (github.event_name == 'push' || inputs.force == 'true') && '--force' || '' }}
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add nameslist.txt colorscripts/
+          git add nameslist.txt colorscripts/ stats/
           if git diff --staged --quiet; then
             echo "No changes — everything is already up to date."
           else
             SCRIPTS=$(git diff --staged --name-only -- colorscripts/ | wc -l | xargs)
+            STATS=$(git diff --staged --name-only -- stats/ | wc -l | xargs)
             NAMES_CHANGED=$(git diff --staged --name-only -- nameslist.txt | wc -l | xargs)
             MSG="chore: update pokemon data"
             [ "$NAMES_CHANGED" -gt 0 ] && MSG="$MSG (nameslist updated)"
             [ "$SCRIPTS" -gt 0 ] && MSG="$MSG ($SCRIPTS colorscripts changed)"
+            [ "$STATS" -gt 0 ] && MSG="$MSG ($STATS stats changed)"
             git commit -m "$MSG"
             git push
           fi

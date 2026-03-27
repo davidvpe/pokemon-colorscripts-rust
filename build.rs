@@ -42,7 +42,26 @@ fn main() {
     }
     writeln!(f, "];").unwrap();
 
+    // Stats — embed stats files similarly to colorscripts
+    let stats_available: Vec<(String, std::path::PathBuf)> = names
+        .iter()
+        .filter_map(|name| {
+            let path = Path::new("stats").join(format!("{}.txt", name));
+            path.canonicalize().ok().map(|p| (name.clone(), p))
+        })
+        .collect();
+
+    writeln!(f, "fn get_pokemon_stats(name: &str) -> Option<&'static str> {{").unwrap();
+    writeln!(f, "    match name {{").unwrap();
+    for (name, path) in &stats_available {
+        writeln!(f, "        {:?} => Some(include_str!({:?})),", name, path).unwrap();
+    }
+    writeln!(f, "        _ => None,").unwrap();
+    writeln!(f, "    }}").unwrap();
+    writeln!(f, "}}").unwrap();
+
     println!("cargo:rerun-if-changed=nameslist.txt");
     println!("cargo:rerun-if-changed=colorscripts");
+    println!("cargo:rerun-if-changed=stats");
     println!("cargo:rerun-if-changed=build.rs");
 }

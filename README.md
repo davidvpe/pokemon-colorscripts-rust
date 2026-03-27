@@ -35,19 +35,138 @@ No build tools required — all sprites are embedded in the binary.
 ```
 pokemon-colorscripts [OPTION] [POKEMON NAME]
 
-  -h, --help      Print this help
-  -l, --list      List all available pokemon
-  -r, --random    Show a random pokemon
-  -n, --name      Show a specific pokemon by name
+  -h, --help            Print this help
+  -l, --list            List all available pokemon
+  -r, --random [N]      Show a random pokemon (optional: generation 1–9)
+  -n, --name <name>     Show a specific pokemon by name
+      --no-title        Do not print the pokemon name
+  -i, --info            Show a side panel with types and base stats
+  -p, --pokedex         Show a full Pokédex frame (sprite + stats)
 ```
+
+### Modes
+
+> All output is rendered in full 24-bit color in a true-color terminal.
+> The examples below show the layout without color.
+
+---
+
+**Basic** — `pokemon-colorscripts --name pikachu`
+
+```
+Pikachu
+
+              ████
+            ██████                  ████
+            ██████                ████████
+          ████████        ██████████████████
+          ████████    ██████████████████████
+        ████████    ██████████████████████
+      ██████████████████████████████████
+    ██████████████████████████████████
+    ████████████████████████████████
+  ████████████████████████  ██████████
+  ██████████████████████████  ████████
+    ████████████████████████████████
+  ████████████████████████████████
+    ████████████████████████████████
+          ████████████████████████
+          ██████████████████████
+            ████████████████████
+              ████████████████
+                    ████████
+                        ██
+```
+
+---
+
+**Info panel** — `pokemon-colorscripts --name pikachu --info`
+
+Stats panel appears to the right of the sprite, vertically centered.
+
+```
+Pikachu
+                                                 ╔══════════════════════════╗
+              ████                               ║ #025 · Pikachu           ║
+            ██████                  ████         ║ Electric                 ║
+            ██████                ████████       ╠══════════════════════════╣
+          ████████        ██████████████████     ║ HP   35  ██░░░░░░░░░░░░░ ║
+          ████████    ██████████████████████     ║ Atk  55  ███░░░░░░░░░░░░ ║
+        ████████    ██████████████████████       ║ Def  40  ██░░░░░░░░░░░░░ ║
+      ██████████████████████████████████         ║ SpA  50  ███░░░░░░░░░░░░ ║
+    ██████████████████████████████████           ║ SpD  50  ███░░░░░░░░░░░░ ║
+    ████████████████████████████████             ║ Spe  90  █████░░░░░░░░░░ ║
+  ████████████████████████  ██████████           ╠══════════════════════════╣
+  ██████████████████████████  ████████           ║ BST 320                  ║
+    ████████████████████████████████             ╚══════════════════════════╝
+  ████████████████████████████████
+    ████████████████████████████████
+          ████████████████████████
+          ██████████████████████
+            ████████████████████
+              ████████████████
+                    ████████
+                        ██
+```
+
+---
+
+**Pokédex view** — `pokemon-colorscripts --name pikachu --pokedex`
+
+Full frame that expands to fill the terminal width. The right panel adapts
+its stat bar lengths to the available space.
+
+```
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║ [ POKÉDEX ]                                                      #025 · Pikachu ║
+╠══════════════════════════════════════════════════╦══════════════════════════════╣
+║                                                  ║  Pikachu                     ║
+║                ████                              ║  #025               Electric ║
+║              ██████                  ████        ╠══════════════════════════════╣
+║              ██████                ████████      ║  HP    35  ██░░░░░░░░░░░░░░░ ║
+║            ████████        ██████████████████    ║  Atk   55  ████░░░░░░░░░░░░░ ║
+║            ████████    ██████████████████████    ║  Def   40  ███░░░░░░░░░░░░░░ ║
+║          ████████    ██████████████████████      ║  SpA   50  ███░░░░░░░░░░░░░░ ║
+║        ██████████████████████████████████        ║  SpD   50  ███░░░░░░░░░░░░░░ ║
+║      ██████████████████████████████████          ║  Spe   90  ██████░░░░░░░░░░░ ║
+║      ████████████████████████████████            ╠══════════════════════════════╣
+║    ████████████████████████  ██████████          ║  BST  320                    ║
+║    ██████████████████████████  ████████          ║                              ║
+║      ████████████████████████████████            ║                              ║
+║    ████████████████████████████████              ║                              ║
+║      ████████████████████████████████            ║                              ║
+║            ████████████████████████              ║                              ║
+║            ██████████████████████                ║                              ║
+║              ████████████████████                ║                              ║
+║                ████████████████                  ║                              ║
+║                      ████████                    ║                              ║
+║                          ██                      ║                              ║
+║                                                  ║                              ║
+╚══════════════════════════════════════════════════╩══════════════════════════════╝
+```
+
+---
+
+### Examples
 
 ```sh
+# Specific pokemon
 pokemon-colorscripts --name pikachu
+pokemon-colorscripts --name charizard --info
+pokemon-colorscripts --name mewtwo --pokedex
+
+# Random
 pokemon-colorscripts --random
-pokemon-colorscripts --list
+pokemon-colorscripts --random 1          # Gen 1 only
+pokemon-colorscripts --random --pokedex
+
+# Without the name printed
+pokemon-colorscripts --name snorlax --no-title
 ```
 
-Pokemon names are generally spelled as in the games. A few exceptions:
+### Pokemon name spelling
+
+Names follow the in-game spelling. A few exceptions:
 
 ```
 farfetch'd  → farfetchd
@@ -89,7 +208,7 @@ pokemon-colorscripts --random
 
 ## How it works
 
-All ~900 sprite files are embedded directly into the binary at compile time — no
+All ~1000 sprite files are embedded directly into the binary at compile time — no
 external files are needed after installation.
 
 Sprites are downloaded from pokemondb.net (sword-shield icons) and converted to
