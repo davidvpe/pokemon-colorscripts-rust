@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.6.0...v0.7.0) (2026-03-27)
+
+
+### Features
+
+* add stats to git ([c44df4b](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/c44df4bfad006e15dd7a58d9b351b47fd117c6c3))
+
 ## [0.6.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.5.0...v0.6.0) (2026-03-27)
 
 
