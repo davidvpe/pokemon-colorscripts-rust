@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.5.0...v0.6.0) (2026-03-27)
+
+
+### Features
+
+* enhance pokemon data generation and display ([f68d69a](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/f68d69abc1f03afc3c43bf9d39a910986d58bb40))
+
 ## [0.5.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.4.0...v0.5.0) (2026-03-26)
 
 
