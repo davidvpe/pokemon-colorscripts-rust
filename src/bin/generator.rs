@@ -23,11 +23,10 @@ const NAMES_FILE: &str = "nameslist.txt";
 const OUTPUT_DIR: &str = "colorscripts";
 const STATS_DIR: &str = "stats";
 /// Uniform transparent padding added on every side after cropping.
-/// 1 pixel = 1 terminal line vertically, 2 chars horizontally (pixels are doubled).
 const PADDING: u32 = 1;
 /// Sprites taller than this (in pixels) are scaled down by 1.5x, matching the
 /// Python make_art.py behaviour.
-const HEIGHT_THRESHOLD: u32 = 32;
+const HEIGHT_THRESHOLD: u32 = 64;
 /// Milliseconds between requests — be polite to servers.
 const REQUEST_DELAY_MS: u64 = 150;
 
@@ -49,6 +48,23 @@ fn main() {
             });
         }
         Some("--help") | Some("-h") => print_usage(),
+        Some("inspect") => {
+            let name = args.get(1).map(String::as_str).unwrap_or_else(|| {
+                eprintln!("Usage: generator inspect <pokemon>");
+                std::process::exit(1);
+            });
+            inspect_sprite(name).unwrap_or_else(|e| {
+                eprintln!("Error: {}", e);
+                std::process::exit(1);
+            });
+        }
+        Some(name) if !name.starts_with('-') => {
+            let name = name.to_string();
+            scrape_one(&name).unwrap_or_else(|e| {
+                eprintln!("Error: {}", e);
+                std::process::exit(1);
+            });
+        }
         _ => {
             let force = args.iter().any(|a| a == "--force");
             scrape(force).unwrap_or_else(|e| {
@@ -63,6 +79,7 @@ fn print_usage() {
     eprintln!("Usage: generator [SUBCOMMAND] [OPTIONS]");
     eprintln!();
     eprintln!("Subcommands:");
+    eprintln!("  <name>          Force-regenerate sprite and stats for a single pokemon");
     eprintln!("  update-names    Scrape pokemon list from pokemondb and update nameslist.txt");
     eprintln!("  update-stats    Scrape base stats from pokemondb and update stats/");
     eprintln!("  (none)          Download sprites, generate colorscripts, and scrape stats");
@@ -123,6 +140,79 @@ fn extract_pokemon_slugs(html: &str) -> Vec<String> {
     }
 
     names
+}
+
+// ---------------------------------------------------------------------------
+// scrape-one subcommand
+// ---------------------------------------------------------------------------
+
+/// Downloads the raw sprite and prints a summary of alpha values to diagnose missing pixels.
+fn inspect_sprite(name: &str) -> Result<(), Box<dyn std::error::Error>> {
+    let img = download_sprite(name)?.to_rgba8();
+    let (w, h) = img.dimensions();
+    println!("Raw sprite: {}x{}", w, h);
+
+    let mut fully_opaque = 0u32;
+    let mut semi = 0u32;
+    let mut fully_transparent = 0u32;
+
+    for y in 0..h {
+        for x in 0..w {
+            let a = img.get_pixel(x, y)[3];
+            match a {
+                255 => fully_opaque += 1,
+                0   => fully_transparent += 1,
+                _   => {
+                    let [r, g, b, _] = img.get_pixel(x, y).0;
+                    println!("  semi-transparent ({},{}) rgba=({},{},{},{})", x, y, r, g, b, a);
+                    semi += 1;
+                }
+            }
+        }
+    }
+
+    println!("fully opaque (alpha=255): {}", fully_opaque);
+    println!("semi-transparent (0<a<255): {}", semi);
+    println!("fully transparent (alpha=0): {}", fully_transparent);
+    Ok(())
+}
+
+/// Force-regenerates the colorscript and stats for a single pokemon by name.
+fn scrape_one(name: &str) -> Result<(), Box<dyn std::error::Error>> {
+    let names_content = fs::read_to_string(NAMES_FILE)
+        .map_err(|_| format!("{} not found — run from project root", NAMES_FILE))?;
+    let index = names_content
+        .lines()
+        .map(str::trim)
+        .filter(|l| !l.is_empty())
+        .position(|n| n == name)
+        .map(|i| i + 1)
+        .unwrap_or(1);
+
+    fs::create_dir_all(OUTPUT_DIR)?;
+    fs::create_dir_all(STATS_DIR)?;
+
+    eprint!("sprite: {}... ", name);
+    match process_pokemon(name) {
+        Ok(art) => {
+            fs::write(format!("{}/{}.txt", OUTPUT_DIR, name), &art)?;
+            eprintln!("ok");
+        }
+        Err(e) => eprintln!("FAILED: {}", e),
+    }
+
+    thread::sleep(Duration::from_millis(REQUEST_DELAY_MS));
+
+    eprint!("stats:  {}... ", name);
+    match fetch_pokemon_stats(name, index) {
+        Ok(stats) => {
+            fs::write(format!("{}/{}.txt", STATS_DIR, name), &stats)?;
+            eprintln!("ok");
+        }
+        Err(e) => eprintln!("FAILED: {}", e),
+    }
+
+    Ok(())
 }
 
 // ---------------------------------------------------------------------------
@@ -442,7 +532,7 @@ fn crop_to_content(img: RgbaImage) -> RgbaImage {
 
     for y in 0..height {
         for x in 0..width {
-            if img.get_pixel(x, y)[3] == 255 {
+            if img.get_pixel(x, y)[3] > 0 {
                 if x < min_x { min_x = x; }
                 if y < min_y { min_y = y; }
                 if x > max_x { max_x = x; }
@@ -518,8 +608,8 @@ fn image_to_ansi_art(img: RgbaImage) -> String {
                 [0, 0, 0, 0]
             };
 
-            let top = if ta == 255 { Some((tr, tg, tb)) } else { None };
-            let bot = if ba == 255 { Some((br, bg, bb)) } else { None };
+            let top = if ta > 0 { Some((tr, tg, tb)) } else { None };
+            let bot = if ba > 0 { Some((br, bg, bb)) } else { None };
 
             match (top, bot) {
                 (None, None) => {
