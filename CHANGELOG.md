@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.7.0...v0.8.0) (2026-03-30)
+
+
+### Features
+
+* new sprites and new generator ([9f9d3ab](https://github.com/davidvpe/pokemon-colorscripts-rust/commit/9f9d3abf19e9ccc16d572952460c035ef38a0cd1))
+
 ## [0.7.0](https://github.com/davidvpe/pokemon-colorscripts-rust/compare/v0.6.0...v0.7.0) (2026-03-27)
 
 
