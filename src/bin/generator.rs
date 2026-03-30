@@ -486,37 +486,88 @@ fn add_padding(img: RgbaImage, pad: u32) -> RgbaImage {
     padded
 }
 
-/// Converts an RGBA image to a string of ANSI 24-bit colour escape sequences.
+/// Converts an RGBA image to a string of ANSI 24-bit colour escape sequences
+/// using Unicode half-block characters (▀/▄) to pack 2 vertical pixels per
+/// terminal cell.
 ///
-/// - Opaque pixels → █ with foreground colour escape
-/// - Transparent pixels → space
-/// - Each pixel is doubled horizontally (terminal chars are taller than wide)
-/// - Consecutive same-colour pixels share one escape sequence
-/// - Ends with reset escape \x1b[0m
+/// - Both opaque   → ▀  fg=top colour, bg=bottom colour
+/// - Top only      → ▀  fg=top colour, bg=reset
+/// - Bottom only   → ▄  fg=bottom colour, bg=reset
+/// - Both transp.  → space (bg reset so terminal background shows through)
+/// - Consecutive same-state pixels share escape sequences
+/// - Each row ends with \x1b[0m to reset colour state
 fn image_to_ansi_art(img: RgbaImage) -> String {
     let (width, height) = (img.width(), img.height());
-    let mut art = String::with_capacity((width * height * 25) as usize);
+    let rows = (height + 1) / 2;
+    let mut art = String::with_capacity((width * rows as u32 * 30) as usize);
 
-    for y in 0..height {
+    for row in 0..rows {
         art.push('\n');
-        let mut old_color: Option<(u8, u8, u8)> = None;
+        let y_top = row * 2;
+        let y_bot = row * 2 + 1;
+
+        // None = currently reset, Some(rgb) = currently set to this colour
+        let mut cur_fg: Option<(u8, u8, u8)> = None;
+        let mut cur_bg: Option<(u8, u8, u8)> = None;
 
         for x in 0..width {
-            let pixel = img.get_pixel(x, y);
-            let [r, g, b, a] = pixel.0;
-            let ch = if a == 255 { '█' } else { ' ' };
-            let new_color = (r, g, b);
+            let [tr, tg, tb, ta] = img.get_pixel(x, y_top).0;
+            let [br, bg, bb, ba] = if y_bot < height {
+                img.get_pixel(x, y_bot).0
+            } else {
+                [0, 0, 0, 0]
+            };
 
-            if Some(new_color) != old_color {
-                art.push_str(&format!("\x1b[38;2;{};{};{}m", r, g, b));
-                old_color = Some(new_color);
+            let top = if ta == 255 { Some((tr, tg, tb)) } else { None };
+            let bot = if ba == 255 { Some((br, bg, bb)) } else { None };
+
+            match (top, bot) {
+                (None, None) => {
+                    if cur_bg.is_some() {
+                        art.push_str("\x1b[49m");
+                        cur_bg = None;
+                    }
+                    art.push(' ');
+                }
+                (Some(tc), None) => {
+                    if cur_fg != Some(tc) {
+                        art.push_str(&format!("\x1b[38;2;{};{};{}m", tc.0, tc.1, tc.2));
+                        cur_fg = Some(tc);
+                    }
+                    if cur_bg.is_some() {
+                        art.push_str("\x1b[49m");
+                        cur_bg = None;
+                    }
+                    art.push('▀');
+                }
+                (None, Some(bc)) => {
+                    if cur_fg != Some(bc) {
+                        art.push_str(&format!("\x1b[38;2;{};{};{}m", bc.0, bc.1, bc.2));
+                        cur_fg = Some(bc);
+                    }
+                    if cur_bg.is_some() {
+                        art.push_str("\x1b[49m");
+                        cur_bg = None;
+                    }
+                    art.push('▄');
+                }
+                (Some(tc), Some(bc)) => {
+                    if cur_fg != Some(tc) {
+                        art.push_str(&format!("\x1b[38;2;{};{};{}m", tc.0, tc.1, tc.2));
+                        cur_fg = Some(tc);
+                    }
+                    if cur_bg != Some(bc) {
+                        art.push_str(&format!("\x1b[48;2;{};{};{}m", bc.0, bc.1, bc.2));
+                        cur_bg = Some(bc);
+                    }
+                    art.push('▀');
+                }
             }
-
-            art.push(ch);
-            art.push(ch);
         }
+
+        art.push_str("\x1b[0m");
     }
 
-    art.push_str("\x1b[0m\n");
+    art.push('\n');
     art
 }
